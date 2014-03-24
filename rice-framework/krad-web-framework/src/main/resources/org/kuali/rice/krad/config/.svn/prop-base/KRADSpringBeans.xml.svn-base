@@ -1,0 +1,19 @@
+K 13
+svn:mergeinfo
+V 2035
+/branches/rice-2.2/impl/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:38158-38348
+/branches/rice-2.2/krad/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:37512-38043,38048-38149,38158-39057,39085-39584
+/branches/rice-2.3/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:40250-41261,42099-42462,42844-43279
+/sandbox/KULRICE-10156/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:40749-40805
+/sandbox/KULRICE-10296/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:40970-42280
+/sandbox/KULRICE-9872/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:40642-40663
+/sandbox/branches/jpa-package-refactor/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:40336-40393
+/sandbox/branches/rice-2.3-jpa/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:37691-40318
+/sandbox/branches/rice-2.4-perf/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:43987
+/sandbox/jkeller/kim-conv-M4/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:43831-44307
+/sandbox/rice-2.4-jpa/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:41675-42040
+/sandbox/rice-2.4-jpa-actionlist/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:41909-41931
+/sandbox/rice-2.4-jpa-ksb/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:43070-43366
+/trunk/krad/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:36213-37658
+/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/config/KRADSpringBeans.xml:36213-37575
+END

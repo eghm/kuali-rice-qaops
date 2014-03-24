@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/45510/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/country
+END
+CountryBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/country/CountryBo.java
+END
+CountryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/45510/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/country/CountryServiceImpl.java
+END

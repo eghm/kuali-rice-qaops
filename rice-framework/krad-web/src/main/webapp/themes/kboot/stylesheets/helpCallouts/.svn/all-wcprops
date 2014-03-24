@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/45390/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/helpCallouts
+END
+uif-tooltips.less
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/helpCallouts/uif-tooltips.less
+END
+uif-autocomplete.less
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/helpCallouts/uif-autocomplete.less
+END
+uif-helpMessaging.less
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/helpCallouts/uif-helpMessaging.less
+END
+uif-timeline.less
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/45390/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/helpCallouts/uif-timeline.less
+END

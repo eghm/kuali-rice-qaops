@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-framework/src/main/java/org/kuali/rice/kim/framework/identity/citizenship
+END
+EntityCitizenshipStatusEbo.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-framework/src/main/java/org/kuali/rice/kim/framework/identity/citizenship/EntityCitizenshipStatusEbo.java
+END
+EntityCitizenshipChangeTypeEbo.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-framework/src/main/java/org/kuali/rice/kim/framework/identity/citizenship/EntityCitizenshipChangeTypeEbo.java
+END
+EntityCitizenshipStatusContractEbo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-framework/src/main/java/org/kuali/rice/kim/framework/identity/citizenship/EntityCitizenshipStatusContractEbo.java
+END

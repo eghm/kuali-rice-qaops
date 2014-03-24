@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kns/web/struts/form
+END
+AuthorizationExceptionForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kns/web/struts/form/AuthorizationExceptionForm.java
+END
+KualiLogoutForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kns/web/struts/form/KualiLogoutForm.java
+END
+DisplayInactivationBlockersForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kns/web/struts/form/DisplayInactivationBlockersForm.java
+END
+BackdoorForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kns/web/struts/form/BackdoorForm.java
+END

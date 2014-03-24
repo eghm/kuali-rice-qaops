@@ -1,0 +1,80 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl
+https://svn.kuali.org/repos/rice
+
+
+
+2014-02-04T13:39:22.464942Z
+44502
+kmcnew
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+parameter
+dir
+
+service
+dir
+
+style
+dir
+
+CoreServiceImplServiceLocator.java
+file
+
+
+
+
+2014-01-09T01:34:25.000000Z
+bedda38d7a77ebbeac5056cabd9db5a0
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1669
+
+component
+dir
+
+config
+dir
+
+namespace
+dir
+

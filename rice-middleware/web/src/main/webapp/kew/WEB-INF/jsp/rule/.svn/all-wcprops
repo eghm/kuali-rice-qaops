@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule
+END
+RuleQuickLinks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/RuleQuickLinks.jsp
+END
+DelegateRuleInit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/DelegateRuleInit.jsp
+END
+DocumentConfigurationViewPermissionList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/DocumentConfigurationViewPermissionList.jsp
+END
+RuleQuickLinksDocumentTypeLinks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/RuleQuickLinksDocumentTypeLinks.jsp
+END
+RuleInit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/RuleInit.jsp
+END
+DocumentConfigurationViewResponsibilityList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/DocumentConfigurationViewResponsibilityList.jsp
+END
+DocumentConfigurationView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kew/WEB-INF/jsp/rule/DocumentConfigurationView.jsp
+END

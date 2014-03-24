@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/bo/authorization
+END
+InquiryOrMaintenanceDocumentAuthorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/bo/authorization/InquiryOrMaintenanceDocumentAuthorizer.java
+END
+InquiryOrMaintenanceDocumentPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/bo/authorization/InquiryOrMaintenanceDocumentPresentationController.java
+END
+BusinessObjectAuthorizerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/bo/authorization/BusinessObjectAuthorizerBase.java
+END

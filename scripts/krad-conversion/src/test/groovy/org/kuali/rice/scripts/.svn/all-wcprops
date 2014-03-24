@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44576/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts
+END
+FormConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43991/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/FormConverterTest.groovy
+END
+StrutsConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43991/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/StrutsConverterTest.groovy
+END
+DictionaryConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44570/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/DictionaryConverterTest.groovy
+END
+ClassParserUtilsTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/ClassParserUtilsTest.groovy
+END
+JstlConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44407/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/JstlConverterTest.groovy
+END
+ActionConverterTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43991/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/ActionConverterTest.groovy
+END
+ConversionUtilsTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44049/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/ConversionUtilsTest.groovy
+END
+ScaffoldGeneratorTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43991/trunk/scripts/krad-conversion/src/test/groovy/org/kuali/rice/scripts/ScaffoldGeneratorTest.groovy
+END

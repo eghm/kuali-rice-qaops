@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/resources/org/kuali/rice/kim/bo/datadictionary/test
+END
+BOContainingPerson.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/resources/org/kuali/rice/kim/bo/datadictionary/test/BOContainingPerson.xml
+END
+SampleBO.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/resources/org/kuali/rice/kim/bo/datadictionary/test/SampleBO.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/resources/org/kuali/rice/kim/bo/datadictionary/test/readme.txt
+END

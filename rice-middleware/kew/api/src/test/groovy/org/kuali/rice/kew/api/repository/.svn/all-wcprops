@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/repository
+END
+KewTypeAttributeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/repository/KewTypeAttributeTest.groovy
+END
+KewAttributeDefinitionTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/repository/KewAttributeDefinitionTest.groovy
+END
+KewTypeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/repository/KewTypeTest.groovy
+END

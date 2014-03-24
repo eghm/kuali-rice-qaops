@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/45198/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo
+END
+2014-03-06--KULRICE-10809.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/45198/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2014-03-06--KULRICE-10809.sql
+END
+2013-11-15--KULRICE-11134.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44508/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2013-11-15--KULRICE-11134.sql
+END
+2013-10-02--KULRICE-9252.sql
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44508/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2013-10-02--KULRICE-9252.sql
+END
+2013-12-18--KULRICE-11009.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44508/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2013-12-18--KULRICE-11009.sql
+END
+2013-12-18--KULRICE-11531.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44508/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2013-12-18--KULRICE-11531.sql
+END
+2013-11-16--KULRICE-11268.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44508/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2013-11-16--KULRICE-11268.sql
+END
+2014-02-24--KULRICE-11952.sql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44927/trunk/db/sql/src/main/resources/org/kuali/rice/rice-sql/upgrades/2.4.0/oracle/server/demo/2014-02-24--KULRICE-11952.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/forms
+END
+uif-datepicker.less
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/forms/uif-datepicker.less
+END
+uif-validationMessage.less
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/forms/uif-validationMessage.less
+END
+uif-formControl.less
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/forms/uif-formControl.less
+END
+uif-message.less
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-web/src/main/webapp/themes/kboot/stylesheets/forms/uif-message.less
+END

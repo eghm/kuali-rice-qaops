@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/test/groovy/org/kuali/rice/kim/api/type
+END
+KimTypeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/test/groovy/org/kuali/rice/kim/api/type/KimTypeTest.groovy
+END
+KimTypeUtilsTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/test/groovy/org/kuali/rice/kim/api/type/KimTypeUtilsTest.groovy
+END
+KimTypeAttributeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/test/groovy/org/kuali/rice/kim/api/type/KimTypeAttributeTest.groovy
+END

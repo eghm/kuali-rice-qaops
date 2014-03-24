@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/45497/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library
+END
+DemoAlphaNumericPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAlphaNumericPatternConstraint.xml
+END
+DemoIcons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44212/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoIcons.xml
+END
+DemoAjaxFieldQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAjaxFieldQuery.xml
+END
+DemoSpinnerControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/45196/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoSpinnerControl.xml
+END
+DemoKIMUserControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoKIMUserControl.xml
+END
+DemoFileControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoFileControl.xml
+END
+DemoDropdownMenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/45486/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDropdownMenu.xml
+END
+DemoActionField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoActionField.xml
+END
+DemoComponentRefresh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoComponentRefresh.xml
+END
+DemoCollectionActionPlacement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionActionPlacement.xml
+END
+DemoTabGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTabGroup.xml
+END
+DemoMessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43840/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoMessage.xml
+END
+DemoCheckboxControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCheckboxControl.xml
+END
+DemoCssGridLayoutManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCssGridLayoutManager.xml
+END
+DemoHelp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoHelp.xml
+END
+DemoAlphaPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAlphaPatternConstraint.xml
+END
+DemoMustOccurConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoMustOccurConstraint.xml
+END
+DemoTooltip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTooltip.xml
+END
+DemoGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoGroup.xml
+END
+DemoCharsetPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCharsetPatternConstraint.xml
+END
+DemoUnifiedHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoUnifiedHeader.xml
+END
+DemoAuthorization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAuthorization.xml
+END
+DemoIframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoIframe.xml
+END
+DemoCheckboxGroupControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCheckboxGroupControl.xml
+END
+DemoConfigurationBasedRegexPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoConfigurationBasedRegexPatternConstraint.xml
+END
+DemoSyntaxHighlighter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoSyntaxHighlighter.xml
+END
+DemoCollectionServerPaging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionServerPaging.xml
+END
+DemoDatePicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDatePicker.xml
+END
+DemoDisclosure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDisclosure.xml
+END
+DemoNavigationGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoNavigationGroup.xml
+END
+DemoReadOnly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoReadOnly.xml
+END
+DemoRichMessages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/45425/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoRichMessages.xml
+END
+DemoAction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAction.xml
+END
+DemoTextAreaControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTextAreaControl.xml
+END
+DemoStickyHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoStickyHeader.xml
+END
+DemoDataAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44032/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDataAttributes.xml
+END
+DemoFloatingPointPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoFloatingPointPatternConstraint.xml
+END
+DemoCaseConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCaseConstraint.xml
+END
+DemoSelectControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/45352/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoSelectControl.xml
+END
+DemoTableLayoutManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/45338/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTableLayoutManager.xml
+END
+DemoDataTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/45463/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDataTable.xml
+END
+DemoSuggest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/45411/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoSuggest.xml
+END
+DemoValidationMessages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoValidationMessages.xml
+END
+DemoCollectionInactiveFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionInactiveFilter.xml
+END
+DemoCollectionSequence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/45354/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionSequence.xml
+END
+DemoPrerequisiteConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoPrerequisiteConstraint.xml
+END
+DemoTableLayoutTotaling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTableLayoutTotaling.xml
+END
+DemoHiddenControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoHiddenControl.xml
+END
+DemoRadioControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoRadioControl.xml
+END
+DemoFieldGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44011/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoFieldGroup.xml
+END
+DemoLinkField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoLinkField.xml
+END
+DemoPasswordControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoPasswordControl.xml
+END
+DemoTreeGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/45118/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTreeGroup.xml
+END
+DemoGrowls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44065/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoGrowls.xml
+END
+DemoGridLayoutManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoGridLayoutManager.xml
+END
+DemoLabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/45315/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoLabel.xml
+END
+DemoDatePatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDatePatternConstraint.xml
+END
+DemoBoxLayoutManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoBoxLayoutManager.xml
+END
+DemoImage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoImage.xml
+END
+DemoStickyFooter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/45497/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoStickyFooter.xml
+END
+DemoTextControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTextControl.xml
+END
+DemoImageField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoImageField.xml
+END
+DemoTableLayoutRowCss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTableLayoutRowCss.xml
+END
+DemoIcon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoIcon.xml
+END
+DemoMessageField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44549/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoMessageField.xml
+END
+DemoHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/45491/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoHeader.xml
+END
+DemoAppHeader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/45311/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAppHeader.xml
+END
+DemoPageGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoPageGroup.xml
+END
+DemoTableLayoutDetails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44974/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTableLayoutDetails.xml
+END
+DemoLink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoLink.xml
+END
+DemoKIMGroupControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoKIMGroupControl.xml
+END
+DemoSimpleConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoSimpleConstraint.xml
+END
+DemoAdditionalCssClasses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/44031/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAdditionalCssClasses.xml
+END
+DemoAccordion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAccordion.xml
+END
+DemoDisable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/45331/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDisable.xml
+END
+DemoCollectionSelectLine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionSelectLine.xml
+END
+DemoQuickFinder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44891/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoQuickFinder.xml
+END
+DemoOptionListControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoOptionListControl.xml
+END
+DemoAnyCharacterPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAnyCharacterPatternConstraint.xml
+END
+DemoLinkGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoLinkGroup.xml
+END
+DemoFixedPointPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/45283/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoFixedPointPatternConstraint.xml
+END
+DemoDialogGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44549/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDialogGroup.xml
+END
+DemoCollectionAddLine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionAddLine.xml
+END
+DemoDataField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/45191/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoDataField.xml
+END
+DemoAccordionGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoAccordionGroup.xml
+END
+DemoLightTable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoLightTable.xml
+END
+DemoConditionalRefresh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoConditionalRefresh.xml
+END
+DemoCollectionLookup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/45463/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionLookup.xml
+END
+DemoBreadcrumbs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/45055/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoBreadcrumbs.xml
+END
+DemoSpace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44549/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoSpace.xml
+END
+DemoIntegerPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoIntegerPatternConstraint.xml
+END
+DemoInquiry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoInquiry.xml
+END
+DemoTableLayoutGrouping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoTableLayoutGrouping.xml
+END
+DemoInputField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/45293/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoInputField.xml
+END
+DemoListLayoutManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44549/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoListLayoutManager.xml
+END
+DemoEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/45323/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoEvents.xml
+END
+DemoNumericPatternConstraint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoNumericPatternConstraint.xml
+END
+DemoProgressiveDisclosure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/45094/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoProgressiveDisclosure.xml
+END
+DemoStackedLayoutManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoStackedLayoutManager.xml
+END
+DemoCollectionGroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-sampleapp/web/src/main/resources/org/kuali/rice/krad/demo/uif/library/DemoCollectionGroup.xml
+END

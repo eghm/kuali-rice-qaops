@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/45057/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/layoutmanagers
+END
+DemoLayoutManagersGridLayoutAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/44691/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/layoutmanagers/DemoLayoutManagersGridLayoutAft.java
+END
+DemoLayoutManagersBoxLayoutAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/45057/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/layoutmanagers/DemoLayoutManagersBoxLayoutAft.java
+END
+DemoLayoutManagersListLayoutAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/layoutmanagers/DemoLayoutManagersListLayoutAft.java
+END
+DemoLayoutManagersCssGridLayoutAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/44821/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/layoutmanagers/DemoLayoutManagersCssGridLayoutAft.java
+END
+DemoLayoutManagersStackedLayoutAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/44691/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/layoutmanagers/DemoLayoutManagersStackedLayoutAft.java
+END

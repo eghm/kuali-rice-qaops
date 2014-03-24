@@ -1,0 +1,190 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware
+https://svn.kuali.org/repos/rice
+
+
+
+2014-03-21T20:41:34.205256Z
+45539
+eghm-kuali-m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+ksb
+dir
+
+kim
+dir
+
+sampleapp
+dir
+
+.project
+file
+
+
+
+
+2014-01-09T01:35:19.000000Z
+85f2cafcfa730762c08a836074d2aff6
+2013-07-26T05:45:24.483256Z
+40326
+ewestfal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+378
+
+kew
+dir
+
+core-service
+dir
+
+core
+dir
+
+standalone
+dir
+
+serviceregistry
+dir
+
+pom.xml
+file
+
+
+
+
+2014-02-26T12:30:32.000000Z
+89b3dc93fb1fe52b11c42c0fea671c53
+2014-02-20T19:21:06.000910Z
+44830
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1664
+
+kns
+dir
+
+impl
+dir
+
+edl
+dir
+
+config
+dir
+
+security
+dir
+
+location
+dir
+
+krms
+dir
+
+it
+dir
+
+client-contrib
+dir
+
+ken
+dir
+
+web
+dir
+
+rice-middleware.iml
+file
+
+
+
+
+2014-01-09T01:35:19.000000Z
+100edf4b45c19a438f8a8e9c8ea20a84
+2014-01-09T01:00:32.430018Z
+43978
+eghm-kuali-m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+583
+
+.settings
+dir
+

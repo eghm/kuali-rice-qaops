@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/deliverer
+END
+BulkMessageDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/deliverer/BulkMessageDeliverer.java
+END
+MessageDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/deliverer/MessageDeliverer.java
+END

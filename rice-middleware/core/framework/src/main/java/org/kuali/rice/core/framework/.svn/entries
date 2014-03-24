@@ -1,0 +1,49 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework
+https://svn.kuali.org/repos/rice
+
+
+
+2014-02-27T05:26:58.789886Z
+44967
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+lifecycle
+dir
+
+impex
+dir
+
+services
+dir
+
+persistence
+dir
+
+config
+dir
+
+util
+dir
+
+resourceloader
+dir
+

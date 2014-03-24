@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/45296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document
+END
+IdentityManagementGroupDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/IdentityManagementGroupDocument.java
+END
+IdentityManagementKimDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/45296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/IdentityManagementKimDocument.java
+END
+IdentityManagementRoleDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/45294/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/IdentityManagementRoleDocument.java
+END
+GenericPermissionMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44994/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/GenericPermissionMaintainable.java
+END
+IdentityManagementPersonDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/IdentityManagementPersonDocument.java
+END

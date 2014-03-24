@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin
+END
+PluginConfigParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/PluginConfigParserTest.java
+END
+TestPluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/TestPluginListener.java
+END
+ContextClassLoaderBinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/ContextClassLoaderBinderTest.java
+END
+ExtraClassPathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/ExtraClassPathTest.java
+END
+TestPluginListener2.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/TestPluginListener2.java
+END
+HotDeployTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/HotDeployTest.java
+END
+ZipFilePluginLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/plugin/ZipFilePluginLoaderTest.java
+END

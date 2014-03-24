@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/mixin
+END
+RemoteableModelObjectTransformation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/mixin/RemoteableModelObjectTransformation.groovy
+END
+Foo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/mixin/Foo.groovy
+END
+RemoteableModelObject.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/mixin/RemoteableModelObject.groovy
+END
+Bleh.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/mixin/Bleh.groovy
+END

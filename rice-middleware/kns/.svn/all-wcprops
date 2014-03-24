@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/rice/!svn/ver/45415/trunk/rice-middleware/kns
+END
+OJB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/OJB.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/rice/!svn/ver/44830/trunk/rice-middleware/kns/pom.xml
+END
+rice-kns.iml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/rice/!svn/ver/45364/trunk/rice-middleware/kns/rice-kns.iml
+END
+repository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/repository.xml
+END

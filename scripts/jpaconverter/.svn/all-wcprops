@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/rice/!svn/ver/44308/trunk/scripts/jpaconverter
+END
+GroovyWrapperScript.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/43801/trunk/scripts/jpaconverter/GroovyWrapperScript.groovy
+END
+config-riceconv.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/rice/!svn/ver/44308/trunk/scripts/jpaconverter/config-riceconv.groovy
+END
+JpaConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/44308/trunk/scripts/jpaconverter/JpaConverter.groovy
+END
+build_wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/rice/!svn/ver/43801/trunk/scripts/jpaconverter/build_wrapper.sh
+END
+config-sample.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/44308/trunk/scripts/jpaconverter/config-sample.groovy
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/rice/!svn/ver/43801/trunk/scripts/jpaconverter/test.sh
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/rice/!svn/ver/43411/trunk/scripts/jpaconverter/README.md
+END

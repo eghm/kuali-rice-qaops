@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/framework/engine/expression
+END
+StringCoercionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/framework/engine/expression/StringCoercionExtension.java
+END
+EngineComparatorExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/framework/engine/expression/EngineComparatorExtension.java
+END

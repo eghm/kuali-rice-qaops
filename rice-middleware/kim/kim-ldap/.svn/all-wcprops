@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/rice/!svn/ver/45364/trunk/rice-middleware/kim/kim-ldap
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/rice/!svn/ver/44647/trunk/rice-middleware/kim/kim-ldap/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/kim/kim-ldap/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/rice/!svn/ver/44830/trunk/rice-middleware/kim/kim-ldap/pom.xml
+END
+rice-kim-ldap.iml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/45364/trunk/rice-middleware/kim/kim-ldap/rice-kim-ldap.iml
+END

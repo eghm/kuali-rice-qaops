@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44308/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver
+END
+ResolverUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/ResolverUtil.java
+END
+PrimaryKeyJoinColumnsResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/PrimaryKeyJoinColumnsResolver.java
+END
+JoinColumnResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/JoinColumnResolver.java
+END
+AbstractPrimaryKeyJoinColumnResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/AbstractPrimaryKeyJoinColumnResolver.java
+END
+ConvertResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/ConvertResolver.java
+END
+IdClassResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/IdClassResolver.java
+END
+TemporalResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/TemporalResolver.java
+END
+VersionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/VersionResolver.java
+END
+OneToOneResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/44308/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/OneToOneResolver.java
+END
+TableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/TableResolver.java
+END
+EnumeratedResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/EnumeratedResolver.java
+END
+PrimaryKeyJoinColumnResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/PrimaryKeyJoinColumnResolver.java
+END
+BidirectionalOwnerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/BidirectionalOwnerRegistry.java
+END
+GeneratedValueResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/GeneratedValueResolver.java
+END
+IdResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/IdResolver.java
+END
+ManyToManyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/ManyToManyResolver.java
+END
+ColumnResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/ColumnResolver.java
+END
+AbstractMappedFieldResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/AbstractMappedFieldResolver.java
+END
+JoinColumnsResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/JoinColumnsResolver.java
+END
+AbstractJoinColumnResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/AbstractJoinColumnResolver.java
+END
+CustomizerResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/CustomizerResolver.java
+END
+OrderByResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/OrderByResolver.java
+END
+JoinTableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/JoinTableResolver.java
+END
+TransientResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/TransientResolver.java
+END
+PortableSequenceGeneratorResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/PortableSequenceGeneratorResolver.java
+END
+ManyToOneResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/ManyToOneResolver.java
+END
+OneToManyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/OneToManyResolver.java
+END
+MappedSuperClassResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/MappedSuperClassResolver.java
+END
+LobResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/LobResolver.java
+END
+EntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/resolver/EntityResolver.java
+END

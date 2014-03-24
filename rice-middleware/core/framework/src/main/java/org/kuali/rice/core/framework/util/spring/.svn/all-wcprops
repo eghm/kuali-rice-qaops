@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44967/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring
+END
+OptionalContextLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/44967/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/OptionalContextLoadTimeWeaver.java
+END
+ClassOrMethodAnnotationMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/ClassOrMethodAnnotationMatcher.java
+END
+ClassOrMethodAnnotationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/ClassOrMethodAnnotationFilter.java
+END
+ClassOrMethodAnnotationPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/ClassOrMethodAnnotationPointcut.java
+END
+ListMergeBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/ListMergeBeanFactory.java
+END
+NamedOrderedListBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/NamedOrderedListBean.java
+END
+IfExistsFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/util/spring/IfExistsFactoryBean.java
+END

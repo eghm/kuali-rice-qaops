@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44621/trunk/rice-middleware/edl/impl/src/main/resources/META-INF
+END
+persistence-weaving.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44621/trunk/rice-middleware/edl/impl/src/main/resources/META-INF/persistence-weaving.xml
+END
+EDLConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/edl/impl/src/main/resources/META-INF/EDLConfig.xml
+END

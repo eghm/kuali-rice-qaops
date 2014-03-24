@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine
+END
+ContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/ContextProvider.java
+END
+AgendaTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/AgendaTree.java
+END
+BasicAgendaTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/BasicAgendaTree.java
+END
+ComparableTermBasedProposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/ComparableTermBasedProposition.java
+END
+StringTermBasedProposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/StringTermBasedProposition.java
+END
+TermResolutionEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/TermResolutionEngineImpl.java
+END
+CollectionOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/CollectionOperator.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/Rule.java
+END
+BasicRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/BasicRule.java
+END
+EngineResultsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/EngineResultsImpl.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/Action.java
+END
+ResultLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/ResultLogger.java
+END
+Agenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/Agenda.java
+END
+FalseTriggeredRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/FalseTriggeredRule.java
+END
+ProviderBasedEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/ProviderBasedEngine.java
+END
+BasicAgenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/BasicAgenda.java
+END
+AgendaTreeEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/AgendaTreeEntry.java
+END
+BasicAgendaTreeEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/BasicAgendaTreeEntry.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/Context.java
+END
+PropositionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/PropositionResult.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/Function.java
+END
+Proposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/Proposition.java
+END
+CollectionOfComparablesTermBasedProposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/CollectionOfComparablesTermBasedProposition.java
+END
+BasicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/BasicContext.java
+END
+SubAgenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/SubAgenda.java
+END
+CompoundProposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/CompoundProposition.java
+END
+BasicExecutionEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/BasicExecutionEnvironment.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/45261/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api
+END
+WorkflowDocumentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/WorkflowDocumentFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/package-info.java
+END
+KewApiServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/KewApiServiceLocator.java
+END
+KEWPropertyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/KEWPropertyConstants.java
+END
+WorkflowDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/WorkflowDocument.java
+END
+KewApiConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/KewApiConstants.java
+END
+WorkflowRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/WorkflowRuntimeException.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/resources/org/kuali/rice/core/ojb
+END
+RiceRepository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/resources/org/kuali/rice/core/ojb/RiceRepository.xml
+END
+RiceOJB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/resources/org/kuali/rice/core/ojb/RiceOJB.properties
+END

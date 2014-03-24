@@ -1,0 +1,779 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/44098/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates
+END
+2012-01-11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-11.sql
+END
+2011-10-24.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-24.sql
+END
+2012-02-22.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-02-22.sql
+END
+mysql-2012-01-04.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-04.sql
+END
+2011-10-26.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-26.sql
+END
+2011-12-07.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-12-07.sql
+END
+mysql-2012-01-06.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-06.sql
+END
+2011-07-13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-13.sql
+END
+2011-06-06.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-06.sql
+END
+2012-01-19.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-19.sql
+END
+mysql-2011-08-11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-08-11.sql
+END
+2011-06-08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-08.sql
+END
+mysql-2011-11-28.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-11-28.sql
+END
+mysql-2011-08-17.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-08-17.sql
+END
+mysql-2011-09-26.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-26.sql
+END
+mysql-2011-06-13-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-13-m6.sql
+END
+2011-11-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-11-03.sql
+END
+mysql-2011-07-29-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-29-m7.sql
+END
+mysql-2012-01-11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-11.sql
+END
+2012-01-24.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-24.sql
+END
+2011-03-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-03-23.sql
+END
+2010-04-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2010-04-15.sql
+END
+mysql-2011-10-24.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-24.sql
+END
+2011-07-22.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-22.sql
+END
+mysql-2011-10-26.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-26.sql
+END
+mysql-2011-12-07.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-12-07.sql
+END
+mysql-2011-07-13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-13.sql
+END
+2012-01-19c.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-19c.sql
+END
+mysql-2011-06-06.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-06.sql
+END
+mysql-2012-01-19.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-19.sql
+END
+2011-09-07.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-07.sql
+END
+mysql-2012-01-19b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44098/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-19b.sql
+END
+mysql-2011-06-08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-08.sql
+END
+2011-09-26b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-26b.sql
+END
+2011-10-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-03.sql
+END
+mysql-2011-07-28-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-28-m7.sql
+END
+2011-12-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-12-21.sql
+END
+2012-01-31.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-31.sql
+END
+2012-02-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-02-03.sql
+END
+2011-11-14.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-11-14.sql
+END
+mysql-2011-11-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-11-03.sql
+END
+2011-05-13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-05-13.sql
+END
+mysql-2012-01-24.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-24.sql
+END
+mysql-2011-03-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-03-23.sql
+END
+mysql-2010-04-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2010-04-15.sql
+END
+mysql-2011-07-22.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-22.sql
+END
+2011-09-16.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-16.sql
+END
+2011-09-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-18.sql
+END
+mysql-2011-09-07.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-07.sql
+END
+2011-07-11-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-11-m6.sql
+END
+2011-06-17-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-17-m6.sql
+END
+2011-07-25-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-25-m7.sql
+END
+2012-01-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-03.sql
+END
+mysql-2011-10-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-03.sql
+END
+2010-02-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2010-02-15.sql
+END
+2010-05-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2010-05-03.sql
+END
+2011-11-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-11-23.sql
+END
+2012-01-05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-05.sql
+END
+2012-02-14.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-02-14.sql
+END
+mysql-2012-02-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-02-03.sql
+END
+mysql-2012-01-31.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-31.sql
+END
+mysql-2011-12-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-12-21.sql
+END
+mysql-2011-11-14.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-11-14.sql
+END
+mysql-2011-05-13.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-05-13.sql
+END
+2011-11-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-11-29.sql
+END
+2011-09-27.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-27.sql
+END
+mysql-2011-09-16.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-16.sql
+END
+mysql-2011-09-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-18.sql
+END
+2011-07-24-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-24-m7.sql
+END
+2011-10-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-21.sql
+END
+2011-10-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-23.sql
+END
+2010-05-12.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2010-05-12.sql
+END
+2011-10-25.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-25.sql
+END
+2012-02-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-02-23.sql
+END
+mysql-2012-01-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-03.sql
+END
+2011-10-27.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-10-27.sql
+END
+mysql-2010-02-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2010-02-15.sql
+END
+mysql-2010-05-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2010-05-03.sql
+END
+mysql-2011-11-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-11-23.sql
+END
+mysql-2012-01-05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-05.sql
+END
+2012-01-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-18.sql
+END
+mysql-2012-02-14.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-02-14.sql
+END
+2011-09-30.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-30.sql
+END
+2011-04-28.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-04-28.sql
+END
+mysql-2011-11-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-11-29.sql
+END
+2011-08-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-08-29.sql
+END
+mysql-2011-09-27.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-27.sql
+END
+mysql-2011-07-11-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-11-m6.sql
+END
+2011-07-07-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-07-m6.sql
+END
+mysql-2011-06-17-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-17-m6.sql
+END
+mysql-2011-07-25-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-25-m7.sql
+END
+mysql-2011-10-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-21.sql
+END
+mysql-2011-10-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-23.sql
+END
+mysql-2010-05-12.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2010-05-12.sql
+END
+mysql-2012-02-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-02-23.sql
+END
+mysql-2011-10-25.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-25.sql
+END
+mysql-2011-10-27.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-10-27.sql
+END
+2012-01-19b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44098/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-19b.sql
+END
+2011-05-09.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-05-09.sql
+END
+mysql-2012-01-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-18.sql
+END
+mysql-2011-09-30.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-30.sql
+END
+mysql-2011-04-28.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-04-28.sql
+END
+2011-07-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-29.sql
+END
+mysql-2012-01-19c.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-01-19c.sql
+END
+mysql-2011-08-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-08-29.sql
+END
+mysql-2011-09-26b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-26b.sql
+END
+mysql-2011-07-24-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-24-m7.sql
+END
+2011-06-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-21.sql
+END
+2012-02-08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-02-08.sql
+END
+2011-06-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-23.sql
+END
+2011-09-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-15.sql
+END
+2011-06-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-29.sql
+END
+mysql-2011-05-09.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-05-09.sql
+END
+mysql-2011-07-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-29.sql
+END
+2011-06-13-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-06-13-m6.sql
+END
+mysql-2011-07-07-m6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-07-07-m6.sql
+END
+2011-07-29-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-29-m7.sql
+END
+2012-01-04.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-04.sql
+END
+2012-01-06.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2012-01-06.sql
+END
+2011-08-11.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-08-11.sql
+END
+2011-11-28.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-11-28.sql
+END
+mysql-2011-06-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-21.sql
+END
+mysql-2011-06-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-23.sql
+END
+mysql-2012-02-08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2012-02-08.sql
+END
+2011-08-17.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-08-17.sql
+END
+2011-09-26.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-09-26.sql
+END
+mysql-2011-09-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-09-15.sql
+END
+mysql-2011-06-29.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/mysql-2011-06-29.sql
+END
+2011-07-28-m7.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/db-updates/2011-07-28-m7.sql
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability
+END
+CaseConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/CaseConstrainable.java
+END
+DataTypeConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/DataTypeConstrainable.java
+END
+RangeConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/RangeConstrainable.java
+END
+Constrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/Constrainable.java
+END
+ValidCharactersConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/ValidCharactersConstrainable.java
+END
+LengthConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/LengthConstrainable.java
+END
+PrerequisiteConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/PrerequisiteConstrainable.java
+END
+HierarchicallyConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/HierarchicallyConstrainable.java
+END
+MustOccurConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/MustOccurConstrainable.java
+END
+CollectionSizeConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/CollectionSizeConstrainable.java
+END
+ExistenceConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/ExistenceConstrainable.java
+END
+Formatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/Formatable.java
+END
+SimpleConstrainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/capability/SimpleConstrainable.java
+END

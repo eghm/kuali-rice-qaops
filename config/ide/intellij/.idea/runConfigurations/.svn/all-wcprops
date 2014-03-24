@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations
+END
+rice_standalone__tomcat_6_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_standalone__tomcat_6_.xml
+END
+rice_standalone__tomcat_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_standalone__tomcat_7_.xml
+END
+krad_web_theme_builder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43367/trunk/config/ide/intellij/.idea/runConfigurations/krad_web_theme_builder.xml
+END
+rice_sampleapp__jetty_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_sampleapp__jetty_7_.xml
+END
+rice_sampleapp__jetty_8_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_sampleapp__jetty_8_.xml
+END
+rice_standalone__jetty_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_standalone__jetty_7_.xml
+END
+krad_sampleapp__tomcat_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/krad_sampleapp__tomcat_7_.xml
+END
+rice_sampleapp__tomcat_6_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_sampleapp__tomcat_6_.xml
+END
+rice_serviceregistry__jetty_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/37666/trunk/config/ide/intellij/.idea/runConfigurations/rice_serviceregistry__jetty_7_.xml
+END
+rice_standalone__jetty_8_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_standalone__jetty_8_.xml
+END
+rice_sampleapp__tomcat_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43978/trunk/config/ide/intellij/.idea/runConfigurations/rice_sampleapp__tomcat_7_.xml
+END

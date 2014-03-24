@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control
+END
+hidden.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/hidden.ftl
+END
+radioGroup.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/radioGroup.ftl
+END
+textArea.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/textArea.ftl
+END
+spinner.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/spinner.ftl
+END
+file.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/file.ftl
+END
+select.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/select.ftl
+END
+password.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/password.ftl
+END
+checkboxGroup.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/checkboxGroup.ftl
+END
+optionList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/optionList.ftl
+END
+text.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/text.ftl
+END
+checkbox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/control/checkbox.ftl
+END

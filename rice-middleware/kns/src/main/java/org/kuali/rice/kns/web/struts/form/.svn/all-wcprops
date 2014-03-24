@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44858/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form
+END
+KualiHelpForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiHelpForm.java
+END
+KualiTableRenderFormMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiTableRenderFormMetadata.java
+END
+KualiTransactionalDocumentFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiTransactionalDocumentFormBase.java
+END
+MultipleValueLookupForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/MultipleValueLookupForm.java
+END
+BlankFormFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/BlankFormFile.java
+END
+documents.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/documents.properties
+END
+KualiDocumentFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiDocumentFormBase.java
+END
+InquiryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/InquiryForm.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/package-info.java
+END
+KualiExceptionIncidentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiExceptionIncidentForm.java
+END
+KualiForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiForm.java
+END
+KualiFeedbackHandlerForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiFeedbackHandlerForm.java
+END
+KualiMaintenanceForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/KualiMaintenanceForm.java
+END
+LookupForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/LookupForm.java
+END
+QuestionPromptForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/QuestionPromptForm.java
+END

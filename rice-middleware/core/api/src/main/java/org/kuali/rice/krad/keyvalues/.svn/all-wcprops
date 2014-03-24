@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/krad/keyvalues
+END
+KeyValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/krad/keyvalues/KeyValuesFinder.java
+END
+KeyValuesBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/krad/keyvalues/KeyValuesBase.java
+END
+PlaceholderKeyValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/krad/keyvalues/PlaceholderKeyValuesFinder.java
+END
+KeyValuesFinderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/krad/keyvalues/KeyValuesFinderFactory.java
+END
+EnumValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/krad/keyvalues/EnumValuesFinder.java
+END

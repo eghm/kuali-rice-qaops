@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/rice/!svn/ver/45510/trunk/rice-framework/krad-app-framework
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/44647/trunk/rice-framework/krad-app-framework/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/40326/trunk/rice-framework/krad-app-framework/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/44830/trunk/rice-framework/krad-app-framework/pom.xml
+END
+rice-krad-app-framework.iml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-app-framework/rice-krad-app-framework.iml
+END

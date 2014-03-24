@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/44209/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao
+END
+SequenceAccessorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/SequenceAccessorDao.java
+END
+PersistedLookupMetadataDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/PersistedLookupMetadataDao.java
+END
+DocumentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/DocumentDao.java
+END
+MaintenanceDocumentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/MaintenanceDocumentDao.java
+END
+BusinessObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/BusinessObjectDao.java
+END
+SessionDocumentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/SessionDocumentDao.java
+END
+PersistenceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/PersistenceDao.java
+END
+LookupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/dao/LookupDao.java
+END

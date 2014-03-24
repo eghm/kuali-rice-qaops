@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44325/trunk/rice-framework/krad-app-framework/src/main/java/org/kuali/rice/krad/document/authorization
+END
+PessimisticLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44325/trunk/rice-framework/krad-app-framework/src/main/java/org/kuali/rice/krad/document/authorization/PessimisticLock.java
+END

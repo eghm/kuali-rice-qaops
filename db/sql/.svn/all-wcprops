@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/rice/!svn/ver/45510/trunk/db/sql
+END
+rice-sql.iml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/rice/!svn/ver/44789/trunk/db/sql/rice-sql.iml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/rice/!svn/ver/42281/trunk/db/sql/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/rice/!svn/ver/42281/trunk/db/sql/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/rice/!svn/ver/44830/trunk/db/sql/pom.xml
+END

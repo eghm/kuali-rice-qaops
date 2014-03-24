@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/45317/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary
+END
+WorkflowAttributeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/WorkflowAttributeMetadata.java
+END
+HelpDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/HelpDefinition.java
+END
+RoutingTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/RoutingTypeDefinition.java
+END
+MaintenanceDocumentEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/MaintenanceDocumentEntry.java
+END
+BusinessObjectEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/BusinessObjectEntry.java
+END
+CollectionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/CollectionDefinition.java
+END
+DocumentValuePathGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DocumentValuePathGroup.java
+END
+DocumentCollectionPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DocumentCollectionPath.java
+END
+AttributeDefinitionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/AttributeDefinitionBase.java
+END
+ReferenceDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/ReferenceDefinition.java
+END
+ExternalizableAttributeDefinitionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/ExternalizableAttributeDefinitionProxy.java
+END
+InactivationBlockingDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/InactivationBlockingDefinition.java
+END
+RoutingAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/RoutingAttribute.java
+END
+AttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/AttributeDefinition.java
+END
+WorkflowProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/WorkflowProperty.java
+END
+WorkflowAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/WorkflowAttributes.java
+END
+DefaultListableBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DefaultListableBeanFactory.java
+END
+FieldOverride.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/FieldOverride.java
+END
+TransactionalDocumentEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/TransactionalDocumentEntry.java
+END
+DictionaryBeanProcessorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DictionaryBeanProcessorBase.java
+END
+DictionaryBeanFactoryPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DictionaryBeanFactoryPostProcessor.java
+END
+DictionaryBeanProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DictionaryBeanProcessor.java
+END
+AttributeSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/AttributeSecurity.java
+END
+WorkflowPropertyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/WorkflowPropertyGroup.java
+END
+Copyable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/Copyable.java
+END
+DataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionary.java
+END
+SortDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/SortDefinition.java
+END
+DocumentEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DocumentEntry.java
+END
+InactivationBlockingMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/InactivationBlockingMetadata.java
+END
+DataDictionaryDefinitionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryDefinitionBase.java
+END
+ComplexAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/ComplexAttributeDefinition.java
+END
+DataDictionaryMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryMapper.java
+END
+BeanOverride.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/BeanOverride.java
+END
+PrimitiveAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/PrimitiveAttributeDefinition.java
+END
+DataDictionaryDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryDefinition.java
+END
+SupportAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/SupportAttributeDefinition.java
+END
+MessageBeanProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/MessageBeanProcessor.java
+END
+RelationshipDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/RelationshipDefinition.java
+END
+DataDictionaryEntryBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryEntryBase.java
+END
+DataDictionaryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryException.java
+END
+SearchingTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/SearchingTypeDefinition.java
+END
+DataDictionaryEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryEntry.java
+END
+DataObjectEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataObjectEntry.java
+END
+DictionaryBeanBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DictionaryBeanBase.java
+END
+DataDictionaryIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryIndex.java
+END
+SearchingAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/SearchingAttribute.java
+END
+WorkflowProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/WorkflowProperties.java
+END
+DictionaryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DictionaryBean.java
+END
+DataDictionaryIndexMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/DataDictionaryIndexMapper.java
+END

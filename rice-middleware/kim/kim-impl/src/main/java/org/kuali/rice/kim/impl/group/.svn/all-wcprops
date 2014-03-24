@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/45418/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group
+END
+GroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/45418/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupServiceImpl.java
+END
+GroupAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupAttributeBo.java
+END
+GroupMemberBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupMemberBo.java
+END
+GroupBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupBase.java
+END
+GroupServiceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupServiceBase.java
+END
+GroupInternalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupInternalService.java
+END
+GroupInternalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44538/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupInternalServiceImpl.java
+END
+GroupLookupableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupLookupableImpl.java
+END
+GroupBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/group/GroupBo.java
+END

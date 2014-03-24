@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/45418/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility
+END
+ResponsibilityInternalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44492/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityInternalServiceImpl.java
+END
+ResponsibilityLookupableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityLookupableImpl.java
+END
+ResponsibilityBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/45106/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityBo.java
+END
+ResponsibilityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/45418/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityServiceImpl.java
+END
+ReviewResponsibilityBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ReviewResponsibilityBo.java
+END
+ReviewResponsibilityMaintenanceDocumentPresentationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ReviewResponsibilityMaintenanceDocumentPresentationController.java
+END
+ResponsibilityAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityAttributeBo.java
+END
+ReviewResponsibilityMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ReviewResponsibilityMaintainable.java
+END
+ResponsibilityTemplateBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityTemplateBo.java
+END
+ResponsibilityInternalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/ResponsibilityInternalService.java
+END
+UberResponsibilityBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/responsibility/UberResponsibilityBo.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/exceptionhandling
+END
+MessageExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/exceptionhandling/MessageExceptionHandler.java
+END
+DefaultExceptionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/exceptionhandling/DefaultExceptionServiceImpl.java
+END
+DefaultMessageExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/exceptionhandling/DefaultMessageExceptionHandler.java
+END
+ExceptionRoutingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/exceptionhandling/ExceptionRoutingService.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/config/archetype/quickstart/src/main/resources/archetype-resources/src/test/java
+END
+AdditionProductServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/config/archetype/quickstart/src/main/resources/archetype-resources/src/test/java/AdditionProductServiceImplTest.java
+END
+MultiplicationProductServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/config/archetype/quickstart/src/main/resources/archetype-resources/src/test/java/MultiplicationProductServiceImplTest.java
+END
+AbstractProductServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/config/archetype/quickstart/src/main/resources/archetype-resources/src/test/java/AbstractProductServiceImplTest.java
+END

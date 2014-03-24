@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/45509/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document
+END
+RoutingRuleDelegationMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/45509/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document/RoutingRuleDelegationMaintainable.java
+END
+RoutingRuleDelegationMaintainableBusRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document/RoutingRuleDelegationMaintainableBusRule.java
+END
+RoutingRuleMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/45441/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document/RoutingRuleMaintainable.java
+END
+DocumentTypeMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44992/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document/DocumentTypeMaintainable.java
+END
+RoutingRuleMaintainableBusRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/45333/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document/RoutingRuleMaintainableBusRule.java
+END
+DocumentTypeMaintainableBusRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/document/DocumentTypeMaintainableBusRule.java
+END

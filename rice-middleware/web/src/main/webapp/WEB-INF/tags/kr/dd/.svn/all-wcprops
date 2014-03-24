@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/dd
+END
+evalNameToMap.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/dd/evalNameToMap.tag
+END
+foreachEntry.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/dd/foreachEntry.tag
+END
+dumpMap.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/dd/dumpMap.tag
+END

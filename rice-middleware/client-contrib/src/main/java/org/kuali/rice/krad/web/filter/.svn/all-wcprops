@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/web/filter
+END
+SetResponseBufferSizeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/web/filter/SetResponseBufferSizeFilter.java
+END
+SessionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/web/filter/SessionFilter.java
+END

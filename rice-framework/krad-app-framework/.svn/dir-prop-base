@@ -1,0 +1,27 @@
+K 10
+svn:ignore
+V 27
+target
+.classpath
+.project
+
+K 13
+svn:mergeinfo
+V 1175
+/branches/rice-2.2/krad/krad-app-framework:37874-38043,38048-38149,38349-39057,39085-39584
+/branches/rice-2.3/rice-framework/krad-app-framework:40250-41261,42099-42462,42844-43279,43516-44037
+/sandbox/KULRICE-10156/rice-framework/krad-app-framework:40749-40805
+/sandbox/KULRICE-10296/rice-framework/krad-app-framework:40970-42280
+/sandbox/KULRICE-10937/rice-framework/krad-app-framework:44520-44779
+/sandbox/KULRICE-9872/rice-framework/krad-app-framework:40642-40663
+/sandbox/branches/jpa-package-refactor/rice-framework/krad-app-framework:40336-40393
+/sandbox/branches/rice-2.3-jpa/rice-framework/krad-app-framework:37691-40318
+/sandbox/branches/rice-2.4-perf/rice-framework/krad-app-framework:42857,43068,43158,44524-44746
+/sandbox/dpfun/rice-framework/krad-app-framework:44562-44612
+/sandbox/jkeller/kim-conv-M4/rice-framework/krad-app-framework:43831-44307
+/sandbox/rice-2.4-jpa/rice-framework/krad-app-framework:41675-42040
+/sandbox/rice-2.4-jpa-actionlist/rice-framework/krad-app-framework:41909-41931
+/sandbox/rice-2.4-jpa-ksb/rice-framework/krad-app-framework:43070-43366
+/trunk/krad/krad-app-framework:36213-37532
+/trunk/rice-framework/krad-app-framework:36213-37575
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util
+END
+KualiPersistenceBrokerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util/KualiPersistenceBrokerImpl.java
+END
+OjbMetadataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util/OjbMetadataLoader.java
+END
+PatternedStringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util/PatternedStringBuilder.java
+END
+TransactionalServiceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util/TransactionalServiceUtils.java
+END
+KualiPersistenceBrokerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util/KualiPersistenceBrokerFactoryImpl.java
+END
+KualiObjectCachePerBrokerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/krad/util/KualiObjectCachePerBrokerImpl.java
+END

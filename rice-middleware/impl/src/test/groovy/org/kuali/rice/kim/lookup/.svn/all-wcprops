@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/test/groovy/org/kuali/rice/kim/lookup
+END
+GroupLookupableImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/test/groovy/org/kuali/rice/kim/lookup/GroupLookupableImplTest.groovy
+END
+RoleLookupableImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/test/groovy/org/kuali/rice/kim/lookup/RoleLookupableImplTest.groovy
+END
+PersonLookupableImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/test/groovy/org/kuali/rice/kim/lookup/PersonLookupableImplTest.groovy
+END
+PermissionLookupableImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/test/groovy/org/kuali/rice/kim/lookup/PermissionLookupableImplTest.groovy
+END
+KimDocumentRoleMemberLookupableHelperServiceImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/test/groovy/org/kuali/rice/kim/lookup/KimDocumentRoleMemberLookupableHelperServiceImplTest.groovy
+END

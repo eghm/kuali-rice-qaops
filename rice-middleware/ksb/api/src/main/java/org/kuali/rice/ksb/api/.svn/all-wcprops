@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/43945/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api
+END
+KsbApiConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/KsbApiConstants.java
+END
+KsbApiServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/KsbApiServiceLocator.java
+END

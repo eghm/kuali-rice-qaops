@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/campus
+END
+CampusRoleTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/campus/CampusRoleTypeServiceImpl.java
+END
+CampusBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/campus/CampusBo.java
+END
+CampusGroupTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/campus/CampusGroupTypeServiceImpl.java
+END
+CampusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/campus/CampusServiceImpl.java
+END
+CampusTypeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/campus/CampusTypeBo.java
+END

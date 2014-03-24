@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/krad/scripts
+END
+load.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/krad/scripts/load.properties
+END
+test.initialize.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/krad/scripts/test.initialize.js
+END
+test.url.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/krad/scripts/test.url.js
+END
+test.utility.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/krad/scripts/test.utility.js
+END

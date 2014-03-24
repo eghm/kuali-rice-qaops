@@ -1,0 +1,184 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew
+https://svn.kuali.org/repos/rice
+
+
+
+2014-03-20T16:42:27.800147Z
+45509
+jkeller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+export
+dir
+
+batch
+dir
+
+notification
+dir
+
+dto
+dir
+
+definition
+dir
+
+useroptions
+dir
+
+validation
+dir
+
+documentlink
+dir
+
+lookupable
+dir
+
+framework
+dir
+
+plugin
+dir
+
+exception
+dir
+
+lifecycle
+dir
+
+workgroup
+dir
+
+bo
+dir
+
+actiontaken
+dir
+
+routelog
+dir
+
+impl
+dir
+
+attribute
+dir
+
+doctype
+dir
+
+lookup
+dir
+
+actionlist
+dir
+
+messaging
+dir
+
+quicklinks
+dir
+
+web
+dir
+
+document
+dir
+
+responsibility
+dir
+
+mail
+dir
+
+feedback
+dir
+
+postprocessor
+dir
+
+actionrequest
+dir
+
+routing
+dir
+
+notes
+dir
+
+identity
+dir
+
+docsearch
+dir
+
+actionitem
+dir
+
+superuser
+dir
+
+stats
+dir
+
+documentoperation
+dir
+
+actions
+dir
+
+service
+dir
+
+xml
+dir
+
+preferences
+dir
+
+role
+dir
+
+routemodule
+dir
+
+engine
+dir
+
+config
+dir
+
+routeheader
+dir
+
+rule
+dir
+
+util
+dir
+
+resourceloader
+dir
+
+user
+dir
+

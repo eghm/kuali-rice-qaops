@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/krms/src/test/resources
+END
+KRMSSpringBeans-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/krms/src/test/resources/KRMSSpringBeans-test.xml
+END
+KrmsBogusData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/krms/src/test/resources/KrmsBogusData.sql
+END
+RiceOJB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/krms/src/test/resources/RiceOJB.properties
+END
+KRMSTestHarnessSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/krms/src/test/resources/KRMSTestHarnessSpringBeans.xml
+END

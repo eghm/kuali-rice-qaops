@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/runners
+END
+LoadTimeWeavableTestRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/runners/LoadTimeWeavableTestRunner.java
+END
+RiceUnitTestClassRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/runners/RiceUnitTestClassRunner.java
+END
+BootstrapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/runners/BootstrapTest.java
+END

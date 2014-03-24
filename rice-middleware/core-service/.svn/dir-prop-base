@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 7
+target
+
+K 13
+svn:mergeinfo
+V 776
+/branches/rice-2.3/rice-middleware/core-service:40250-41261,42099-42462,42844-43279,43516-44037
+/sandbox/KULRICE-10156/rice-middleware/core-service:40749-40805
+/sandbox/KULRICE-10296/rice-middleware/core-service:40970-42280
+/sandbox/KULRICE-10937/rice-middleware/core-service:44520-44779
+/sandbox/KULRICE-9872/rice-middleware/core-service:40642-40663
+/sandbox/branches/rice-2.3-jpa/rice-middleware/core-service:37691-40318
+/sandbox/jkeller/kim-conv-M4/rice-middleware/core-service:43831-44307
+/sandbox/rice-2.4-jpa/rice-middleware/core-service:41675-42040
+/sandbox/rice-2.4-jpa-actionlist/rice-middleware/core-service:41909-41931
+/sandbox/rice-2.4-jpa-ksb/rice-middleware/core-service:43070-43366
+/trunk/core-service:36213-37658
+/trunk/rice-middleware/core-service:36213-37575
+END

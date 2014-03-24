@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44129/trunk/rice-middleware/ksb/client-impl/src/test/groovy/org/kuali/rice/ksb/impl/bus/diff
+END
+SimpleServiceImpl.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/test/groovy/org/kuali/rice/ksb/impl/bus/diff/SimpleServiceImpl.groovy
+END
+ServiceRegistryDiffCalculatorImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/44129/trunk/rice-middleware/ksb/client-impl/src/test/groovy/org/kuali/rice/ksb/impl/bus/diff/ServiceRegistryDiffCalculatorImplTest.groovy
+END
+SimpleService.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/test/groovy/org/kuali/rice/ksb/impl/bus/diff/SimpleService.groovy
+END

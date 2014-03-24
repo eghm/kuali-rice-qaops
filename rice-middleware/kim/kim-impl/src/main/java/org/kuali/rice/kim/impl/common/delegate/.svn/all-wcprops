@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/common/delegate
+END
+DelegateMemberAttributeDataBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/common/delegate/DelegateMemberAttributeDataBo.java
+END
+DelegateMemberBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/common/delegate/DelegateMemberBo.java
+END
+DelegateTypeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/common/delegate/DelegateTypeBo.java
+END

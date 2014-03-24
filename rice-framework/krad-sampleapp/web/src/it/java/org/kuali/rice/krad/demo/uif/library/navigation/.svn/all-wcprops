@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44644/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/navigation
+END
+DemoNavigationAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/navigation/DemoNavigationAft.java
+END
+DemoLibraryNavigationBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/navigation/DemoLibraryNavigationBase.java
+END
+DemoNavigationViewAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/navigation/DemoNavigationViewAft.java
+END
+DemoApplicationHeaderAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/44644/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/navigation/DemoApplicationHeaderAft.java
+END
+DemoNavigationGroupAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/44530/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/navigation/DemoNavigationGroupAft.java
+END

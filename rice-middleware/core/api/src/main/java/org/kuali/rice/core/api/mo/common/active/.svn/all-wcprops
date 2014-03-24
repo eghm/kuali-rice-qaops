@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/common/active
+END
+MutableInactivatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/common/active/MutableInactivatable.java
+END
+Inactivatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/common/active/Inactivatable.java
+END
+InactivatableFromTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/common/active/InactivatableFromTo.java
+END
+InactivatableFromToUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/common/active/InactivatableFromToUtils.java
+END

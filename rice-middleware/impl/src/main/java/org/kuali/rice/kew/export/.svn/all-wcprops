@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/export
+END
+DataExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/export/DataExporter.java
+END
+KewExportDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/export/KewExportDataSet.java
+END

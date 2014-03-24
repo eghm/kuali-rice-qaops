@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel
+END
+AlphaNumericValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/AlphaNumericValidationPatternTest.java
+END
+CharsetValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/CharsetValidationPatternTest.java
+END
+RegexValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/RegexValidationPatternTest.java
+END
+UTF8AnyCharacterValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/UTF8AnyCharacterValidationPatternTest.java
+END
+NumericValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/NumericValidationPatternTest.java
+END
+AnyCharacterValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/AnyCharacterValidationPatternTest.java
+END
+AlphaValidationPatternTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/datadictionary/validation/charlevel/AlphaValidationPatternTest.java
+END

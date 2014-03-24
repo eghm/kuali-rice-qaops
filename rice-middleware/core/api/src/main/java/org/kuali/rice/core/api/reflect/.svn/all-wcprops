@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/reflect
+END
+ObjectDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/reflect/ObjectDefinition.java
+END
+DataDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/reflect/DataDefinition.java
+END
+PropertyDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/reflect/PropertyDefinition.java
+END

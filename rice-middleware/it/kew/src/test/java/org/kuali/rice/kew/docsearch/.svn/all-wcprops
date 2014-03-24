@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44918/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch
+END
+DocumentSearchTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/DocumentSearchTestBase.java
+END
+DocumentSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/DocumentSearchTest.java
+END
+TestXMLSearchableAttributeFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/TestXMLSearchableAttributeFloat.java
+END
+TestXMLSearchableAttributeString.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/TestXMLSearchableAttributeString.java
+END
+MockSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/MockSearchableAttribute.java
+END
+DocumentSearchCustomizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/DocumentSearchCustomizerTest.java
+END
+TestXMLSearchableAttributeDateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/TestXMLSearchableAttributeDateTime.java
+END
+CustomSecurityFilterAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/CustomSecurityFilterAttribute.java
+END
+DocumentSearchSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/DocumentSearchSecurityTest.java
+END
+SearchableAttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/SearchableAttributeTest.java
+END
+TestXMLSearchableAttributeLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/docsearch/TestXMLSearchableAttributeLong.java
+END

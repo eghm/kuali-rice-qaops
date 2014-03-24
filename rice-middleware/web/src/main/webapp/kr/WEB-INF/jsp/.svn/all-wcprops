@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/45485/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp
+END
+KualiInquiry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiInquiry.jsp
+END
+KualiMaintenanceDocument.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiMaintenanceDocument.jsp
+END
+KualiMultipleValueLookup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiMultipleValueLookup.jsp
+END
+RoutingReportForward.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/RoutingReportForward.jsp
+END
+KualiFeedback.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44749/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiFeedback.jsp
+END
+tldHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/tldHeader.jsp
+END
+KualiQuestion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiQuestion.jsp
+END
+TextArea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/44749/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/TextArea.jsp
+END
+KualiHelp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiHelp.jsp
+END
+AuthorizationException.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/AuthorizationException.jsp
+END
+KualiLookup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/45485/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiLookup.jsp
+END
+KualiDirectInquiry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiDirectInquiry.jsp
+END
+KualiExceptionIncident.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44749/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/KualiExceptionIncident.jsp
+END
+DisplayInactivationBlockers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/jsp/DisplayInactivationBlockers.jsp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/44621/trunk/rice-middleware/ksb/server-impl/src/test/java/org/kuali/rice/ksb/impl/registry
+END
+StaticWeavingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44621/trunk/rice-middleware/ksb/server-impl/src/test/java/org/kuali/rice/ksb/impl/registry/StaticWeavingTest.java
+END
+ServiceRegistryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43945/trunk/rice-middleware/ksb/server-impl/src/test/java/org/kuali/rice/ksb/impl/registry/ServiceRegistryImplTest.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type
+END
+ActionTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/ActionTypeService.java
+END
+AgendaTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/AgendaTypeService.java
+END
+ValidationRuleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/ValidationRuleType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/package-info.java
+END
+ValidationRuleTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/ValidationRuleTypeService.java
+END
+FunctionTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/FunctionTypeService.java
+END
+PropositionTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/PropositionTypeService.java
+END
+RemotableAttributeOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/RemotableAttributeOwner.java
+END
+ValidationActionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/ValidationActionService.java
+END
+RuleTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/RuleTypeService.java
+END
+ValidationActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/ValidationActionType.java
+END
+ValidationActionTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/ValidationActionTypeService.java
+END
+TermResolverTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/type/TermResolverTypeService.java
+END

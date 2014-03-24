@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44141/trunk/rice-middleware/core/impl/src/test/resources/org/kuali/rice/core/impl/config/property
+END
+other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/test/resources/org/kuali/rice/core/impl/config/property/other.xml
+END
+breakfast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44141/trunk/rice-middleware/core/impl/src/test/resources/org/kuali/rice/core/impl/config/property/breakfast.xml
+END
+simple.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/test/resources/org/kuali/rice/core/impl/config/property/simple.properties
+END
+simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/test/resources/org/kuali/rice/core/impl/config/property/simple.xml
+END
+cereal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44141/trunk/rice-middleware/core/impl/src/test/resources/org/kuali/rice/core/impl/config/property/cereal.xml
+END

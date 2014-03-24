@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo
+END
+NonStandardDataTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/NonStandardDataTypeConverter.java
+END
+TestDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/TestDataObject.java
+END
+CollectionDataObjectThree.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/CollectionDataObjectThree.java
+END
+AnotherReferencedDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/AnotherReferencedDataObject.java
+END
+CollectionDataObjectTwo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/CollectionDataObjectTwo.java
+END
+NonStandardDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/NonStandardDataType.java
+END
+TestDataObjectTwoPkFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/TestDataObjectTwoPkFields.java
+END
+CollectionDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/CollectionDataObject.java
+END
+TestNonPersistableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/TestNonPersistableObject.java
+END
+SomeOtherCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/SomeOtherCollection.java
+END
+ReferencedDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/ReferencedDataObject.java
+END
+YetAnotherReferencedDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/YetAnotherReferencedDataObject.java
+END
+TestQueryCustomizerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44378/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/TestQueryCustomizerValue.java
+END
+TestDataObjectTwoPkFieldsId.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/TestDataObjectTwoPkFieldsId.java
+END
+IndirectlyLinkedCollectionDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/IndirectlyLinkedCollectionDataObject.java
+END
+TestDataObjectExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/testbo/TestDataObjectExtension.java
+END

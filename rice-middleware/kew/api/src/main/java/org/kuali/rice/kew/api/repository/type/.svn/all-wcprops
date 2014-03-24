@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type
+END
+KewTypeDefinitionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewTypeDefinitionContract.java
+END
+KewAttributeDefinitionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewAttributeDefinitionContract.java
+END
+KewTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewTypeDefinition.java
+END
+KewAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewAttributeDefinition.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/package-info.java
+END
+KewTypeRepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewTypeRepositoryService.java
+END
+KewTypeAttributeContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewTypeAttributeContract.java
+END
+KewTypeAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/repository/type/KewTypeAttribute.java
+END

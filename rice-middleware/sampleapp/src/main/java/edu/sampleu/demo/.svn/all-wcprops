@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/44744/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo
+END
+TestSuggestServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/TestSuggestServiceImpl.java
+END
+TestSuggestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/TestSuggestClass.java
+END
+TestAttributeQueryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/TestAttributeQueryServiceImpl.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/question
+END
+ConfirmationQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/question/ConfirmationQuestion.java
+END
+QuestionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/question/QuestionBase.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/question/Question.java
+END
+RecallQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/question/RecallQuestion.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document
+END
+AccountType2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountType2.xml
+END
+SearchAttributeIndexTestDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/SearchAttributeIndexTestDocument.xml
+END
+AccountType2MaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44629/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountType2MaintenanceDocument.xml
+END
+AccountRequestDocument2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountRequestDocument2.xml
+END
+RiceTestTransactionalDocument2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/RiceTestTransactionalDocument2.xml
+END
+AccountRequestDocument3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountRequestDocument3.xml
+END
+AccountExtension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountExtension.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/Account.xml
+END
+AccountMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountMaintenanceDocument.xml
+END
+AccountType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountType.xml
+END
+BOContainingPerson.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/BOContainingPerson.xml
+END
+TravelAccountUseRate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/TravelAccountUseRate.xml
+END
+AccountRequestDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountRequestDocument.xml
+END
+AccountWithDDAttributesDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountWithDDAttributesDocument.xml
+END
+AccountTypeDivergent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/AccountTypeDivergent.xml
+END
+SearchAttributeIndexTestDocumentOjb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/SearchAttributeIndexTestDocumentOjb.xml
+END
+TravelAuthorizationDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/TravelAuthorizationDocument.xml
+END
+RiceTestTransactionalDocumentDivergentType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/document/RiceTestTransactionalDocumentDivergentType.xml
+END

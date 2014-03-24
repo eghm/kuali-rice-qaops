@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/rice/!svn/ver/45510/trunk/db/sql/src/main/resources
+END
+bootstrap-client-dataset-cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44186/trunk/db/sql/src/main/resources/bootstrap-client-dataset-cleanup.sql
+END
+demo-client-dataset-cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/43801/trunk/db/sql/src/main/resources/demo-client-dataset-cleanup.sql
+END
+bootstrap-server-dataset-cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44180/trunk/db/sql/src/main/resources/bootstrap-server-dataset-cleanup.sql
+END
+demo-server-dataset-cleanup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/43801/trunk/db/sql/src/main/resources/demo-server-dataset-cleanup.sql
+END

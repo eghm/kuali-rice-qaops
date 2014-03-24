@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/45299/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/service/impl
+END
+UiDocumentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/45299/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/service/impl/UiDocumentServiceImpl.java
+END
+KimModuleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/service/impl/KimModuleService.java
+END
+IdentityArchiveServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44727/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/service/impl/IdentityArchiveServiceImpl.java
+END

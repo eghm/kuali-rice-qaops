@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/45233/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form
+END
+TransactionalDocumentFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/TransactionalDocumentFormBase.java
+END
+UifFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/45233/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/UifFormBase.java
+END
+UifFormManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44463/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/UifFormManager.java
+END
+InquiryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44744/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/InquiryForm.java
+END
+MaintenanceDocumentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44857/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/MaintenanceDocumentForm.java
+END
+HistoryFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/HistoryFlow.java
+END
+InitiatedDocumentInfoForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/InitiatedDocumentInfoForm.java
+END
+HistoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/HistoryManager.java
+END
+DocumentFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/DocumentFormBase.java
+END
+IncidentReportForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44408/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/IncidentReportForm.java
+END
+SessionTimeoutForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web/form/SessionTimeoutForm.java
+END

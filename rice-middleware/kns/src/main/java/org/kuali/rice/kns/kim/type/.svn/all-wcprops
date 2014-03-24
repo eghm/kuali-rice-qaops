@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44427/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/kim/type
+END
+DataDictionaryTypeServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/kim/type/DataDictionaryTypeServiceHelper.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/kim/type/package-info.java
+END
+DataDictionaryTypeServiceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44427/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/kim/type/DataDictionaryTypeServiceBase.java
+END
+KimAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/kim/type/KimAttributeDefinition.java
+END

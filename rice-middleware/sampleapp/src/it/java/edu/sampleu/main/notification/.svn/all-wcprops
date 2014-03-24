@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/45499/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/notification
+END
+DeliveryTypesAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44170/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/notification/DeliveryTypesAft.java
+END
+NotificationSearchAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/45499/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/notification/NotificationSearchAft.java
+END
+ChannelSubscriptionAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44170/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/notification/ChannelSubscriptionAft.java
+END

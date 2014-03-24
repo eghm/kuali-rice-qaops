@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/impl/cxf/interceptors
+END
+ServiceCallVersioningHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/impl/cxf/interceptors/ServiceCallVersioningHelper.java
+END
+ImmutableCollectionsInInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/impl/cxf/interceptors/ImmutableCollectionsInInterceptor.java
+END
+ServiceCallVersioningOutInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/impl/cxf/interceptors/ServiceCallVersioningOutInterceptor.java
+END

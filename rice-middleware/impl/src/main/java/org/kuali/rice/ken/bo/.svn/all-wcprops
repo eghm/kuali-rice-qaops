@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/44627/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo
+END
+NotificationMessageDelivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationMessageDelivery.java
+END
+NotificationChannelBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44627/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationChannelBo.java
+END
+NotificationContentTypeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationContentTypeBo.java
+END
+NotificationRecipientListBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationRecipientListBo.java
+END
+NotificationResponseBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationResponseBo.java
+END
+NotificationBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationBo.java
+END
+NotificationSenderBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationSenderBo.java
+END
+NotificationChannelReviewerBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationChannelReviewerBo.java
+END
+NotificationPriorityBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationPriorityBo.java
+END
+NotificationRecipientBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationRecipientBo.java
+END
+NotificationProducerBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/NotificationProducerBo.java
+END
+Lockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/Lockable.java
+END
+UserChannelSubscriptionBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/bo/UserChannelSubscriptionBo.java
+END

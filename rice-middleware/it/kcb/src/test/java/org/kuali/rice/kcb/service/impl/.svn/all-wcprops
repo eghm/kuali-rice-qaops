@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl
+END
+MessageDelivererRegistryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/MessageDelivererRegistryServiceTest.java
+END
+RecipientPreferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/RecipientPreferenceTest.java
+END
+RecipientPreferenceServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/RecipientPreferenceServiceTest.java
+END
+MessageServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/MessageServiceTest.java
+END
+MessageDeliveryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/MessageDeliveryServiceTest.java
+END
+RecipientDelivererConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/RecipientDelivererConfigTest.java
+END
+MessagingServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kcb/src/test/java/org/kuali/rice/kcb/service/impl/MessagingServiceTest.java
+END

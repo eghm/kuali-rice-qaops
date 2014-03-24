@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl
+END
+NotificationDocumentContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/NotificationDocumentContent.xml
+END
+producer_not_authorized.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/producer_not_authorized.xml
+END
+invalid_input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/invalid_input.xml
+END
+sample_malformed_message_simple_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/sample_malformed_message_simple_type.xml
+END
+sample_message_event_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/sample_message_event_type.xml
+END
+badnamespace_message_event_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/badnamespace_message_event_type.xml
+END
+sample_malformed_message_event_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/sample_malformed_message_event_type.xml
+END
+valid_input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/valid_input.xml
+END
+sample_message_simple_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/services/impl/sample_message_simple_type.xml
+END

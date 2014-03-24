@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/45499/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main
+END
+PeopleFlowCreateNewAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/45261/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/PeopleFlowCreateNewAftBase.java
+END
+ContextLookUpBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/ContextLookUpBkMrkAft.java
+END
+CreateSampleEDocLiteBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CreateSampleEDocLiteBkMrkAft.java
+END
+WorkFlowRouteRulesDelegationNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesDelegationNavAft.java
+END
+TermLookUpNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/TermLookUpNavAft.java
+END
+TermSpecificationLookUpNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/TermSpecificationLookUpNavAft.java
+END
+CreateSampleEdocLiteAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CreateSampleEdocLiteAftBase.java
+END
+WorkFlowRouteRulesNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesNavAft.java
+END
+MainTmplMthdSTNavBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/MainTmplMthdSTNavBase.java
+END
+DocSearchToAnotherViewAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/DocSearchToAnotherViewAft.java
+END
+CreateSampleEDocLiteNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CreateSampleEDocLiteNavAft.java
+END
+ContextLookUpNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/ContextLookUpNavAft.java
+END
+WorkFlowRouteRulesDelegationAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesDelegationAftBase.java
+END
+AttributeDefinitionLookUpBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/AttributeDefinitionLookUpBkMrkAft.java
+END
+WorkFlowRouteRulesBlanketAppBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesBlanketAppBkMrkAft.java
+END
+TermSpecificationLookUpAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/TermSpecificationLookUpAftBase.java
+END
+CategoryLookUpBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CategoryLookUpBkMrkAft.java
+END
+WorkFlowRouteRulesAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesAftBase.java
+END
+AgendaLookUpBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/AgendaLookUpBkMrkAft.java
+END
+PeopleFlowCreateNewBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44910/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/PeopleFlowCreateNewBkMrkAft.java
+END
+CategoryLookUpAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CategoryLookUpAftBase.java
+END
+PeopleFlowCreateNewNotesAndAttachmentsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44498/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/PeopleFlowCreateNewNotesAndAttachmentsAft.java
+END
+CreateNewAgendaBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CreateNewAgendaBkMrkAft.java
+END
+AgendaLookUpAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/AgendaLookUpAftBase.java
+END
+CreateNewAgendaAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CreateNewAgendaAftBase.java
+END
+ContextLookUpAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/ContextLookUpAftBase.java
+END
+WorkFlowRouteRulesBlanketAppNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesBlanketAppNavAft.java
+END
+AttributeDefinitionLookUpNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/AttributeDefinitionLookUpNavAft.java
+END
+CategoryLookUpNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CategoryLookUpNavAft.java
+END
+AgendaLookUpNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/AgendaLookUpNavAft.java
+END
+PeopleFlowCreateNewNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/45108/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/PeopleFlowCreateNewNavAft.java
+END
+CreateNewAgendaNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/CreateNewAgendaNavAft.java
+END
+WorkFlowRouteRulesDelegationBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesDelegationBkMrkAft.java
+END
+TermLookUpBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/TermLookUpBkMrkAft.java
+END
+TermSpecificationLookUpBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/TermSpecificationLookUpBkMrkAft.java
+END
+WorkFlowRouteRulesBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesBkMrkAft.java
+END
+TermLookUpAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/TermLookUpAftBase.java
+END
+AttributeDefinitionLookUpAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/AttributeDefinitionLookUpAftBase.java
+END
+WorkFlowRouteRulesBlanketAppAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44900/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/main/WorkFlowRouteRulesBlanketAppAftBase.java
+END

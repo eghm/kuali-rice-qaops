@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web
+END
+ActionListFilterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web/ActionListFilterForm.java
+END
+ActionListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web/ActionListAction.java
+END
+ActionListUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web/ActionListUtil.java
+END
+ActionListDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web/ActionListDecorator.java
+END
+ActionListFilterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web/ActionListFilterAction.java
+END
+ActionListForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/actionlist/web/ActionListForm.java
+END

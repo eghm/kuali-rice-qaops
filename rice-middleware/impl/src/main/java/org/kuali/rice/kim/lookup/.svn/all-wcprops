@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44463/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup
+END
+KimLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/KimLookupableHelperServiceImpl.java
+END
+RoleLookupableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44447/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/RoleLookupableImpl.java
+END
+RoleLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44445/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/RoleLookupableHelperServiceImpl.java
+END
+PersonLookupableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/PersonLookupableImpl.java
+END
+PersonLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/PersonLookupableHelperServiceImpl.java
+END
+PermissionLookupableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/PermissionLookupableImpl.java
+END
+PermissionLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/PermissionLookupableHelperServiceImpl.java
+END
+KimDocumentRoleMemberLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/KimDocumentRoleMemberLookupableHelperServiceImpl.java
+END
+RoleMemberLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/RoleMemberLookupableHelperServiceImpl.java
+END
+GroupLookupableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/GroupLookupableImpl.java
+END
+RoleMemberImplLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/RoleMemberImplLookupableHelperServiceImpl.java
+END
+GroupLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44463/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/lookup/GroupLookupableHelperServiceImpl.java
+END

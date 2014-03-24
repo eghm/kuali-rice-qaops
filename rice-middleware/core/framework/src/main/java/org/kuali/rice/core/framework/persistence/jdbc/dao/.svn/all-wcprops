@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/jdbc/dao
+END
+PlatformAwareDaoBaseJdbc.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/jdbc/dao/PlatformAwareDaoBaseJdbc.java
+END

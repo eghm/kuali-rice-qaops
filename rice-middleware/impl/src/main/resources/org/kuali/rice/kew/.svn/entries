@@ -1,0 +1,86 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/impl/src/main/resources/org/kuali/rice/kew
+https://svn.kuali.org/repos/rice
+
+
+
+2014-03-07T22:55:40.177510Z
+45224
+dsiebert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+bo
+dir
+
+impl
+dir
+
+mail
+dir
+
+config
+dir
+
+rule
+dir
+
+actionlist
+dir
+
+ApplicationResources.properties
+file
+
+
+
+
+2014-01-09T01:34:46.000000Z
+02e15c3924260bd5b2d18303a0f6497e
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38455
+
+messaging
+dir
+
+document
+dir
+

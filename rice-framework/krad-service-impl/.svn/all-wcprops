@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/rice/!svn/ver/45516/trunk/rice-framework/krad-service-impl
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/rice/!svn/ver/44647/trunk/rice-framework/krad-service-impl/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/40326/trunk/rice-framework/krad-service-impl/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/45332/trunk/rice-framework/krad-service-impl/pom.xml
+END
+rice-krad-service-impl.iml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/45364/trunk/rice-framework/krad-service-impl/rice-krad-service-impl.iml
+END

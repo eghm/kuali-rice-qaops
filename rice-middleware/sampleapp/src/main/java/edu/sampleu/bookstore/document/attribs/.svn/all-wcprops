@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs
+END
+BookPublicationDateSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs/BookPublicationDateSearchableAttribute.java
+END
+XPathSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs/XPathSearchableAttribute.java
+END
+BookTitleSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs/BookTitleSearchableAttribute.java
+END
+BookTypeSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs/BookTypeSearchableAttribute.java
+END
+BookPriceSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs/BookPriceSearchableAttribute.java
+END
+BookRatingSearchableAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/attribs/BookRatingSearchableAttribute.java
+END

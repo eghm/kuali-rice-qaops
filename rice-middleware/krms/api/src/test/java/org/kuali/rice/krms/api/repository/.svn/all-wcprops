@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository
+END
+NaturalLanguageTemplateGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository/NaturalLanguageTemplateGenTest.java
+END
+NaturalLanguageTemplateAttributeGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository/NaturalLanguageTemplateAttributeGenTest.java
+END
+KrmsTypeGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository/KrmsTypeGenTest.java
+END
+NaturalLanguageUsageGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository/NaturalLanguageUsageGenTest.java
+END
+ReferenceObjectBindingGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository/ReferenceObjectBindingGenTest.java
+END
+TypeTypeRelationGenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/api/src/test/java/org/kuali/rice/krms/api/repository/TypeTypeRelationGenTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui
+END
+AddGroupMemberEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddGroupMemberEvent.java
+END
+AddMemberEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddMemberEvent.java
+END
+AddPermissionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddPermissionEvent.java
+END
+AddPersonDocumentRoleQualifierEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddPersonDocumentRoleQualifierEvent.java
+END
+AddPersonDelegationMemberEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddPersonDelegationMemberEvent.java
+END
+AddDelegationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddDelegationEvent.java
+END
+AddGroupEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddGroupEvent.java
+END
+AddRoleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddRoleEvent.java
+END
+AddDelegationMemberEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/rule/event/ui/AddDelegationMemberEvent.java
+END

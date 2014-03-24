@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/testclient2
+END
+InstanceIdFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/testclient2/InstanceIdFactoryBeanTest.java
+END
+EchoService2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/testclient2/EchoService2Impl.java
+END
+Client2SOAPService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/testclient2/Client2SOAPService.java
+END
+ChainedRequestService2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/testclient2/ChainedRequestService2Impl.java
+END
+ClientApp2SharedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/testclient2/ClientApp2SharedQueue.java
+END

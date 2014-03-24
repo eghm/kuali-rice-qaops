@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kim/WEB-INF/jsp
+END
+identityManagementRoleDocument.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kim/WEB-INF/jsp/identityManagementRoleDocument.jsp
+END
+identityManagementPersonDocument.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kim/WEB-INF/jsp/identityManagementPersonDocument.jsp
+END
+identityManagementGroupDocument.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kim/WEB-INF/jsp/identityManagementGroupDocument.jsp
+END

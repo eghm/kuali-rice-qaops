@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test
+END
+TestDictionaryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/TestDictionaryBean.java
+END
+TestDictionaryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/TestDictionaryConfig.java
+END
+BaseMaintenanceDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44656/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/BaseMaintenanceDocumentTest.java
+END
+KRADTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44744/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/KRADTestCase.java
+END
+KRADTestConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/KRADTestConstants.java
+END

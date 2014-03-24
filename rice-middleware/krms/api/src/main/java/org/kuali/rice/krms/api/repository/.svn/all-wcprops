@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44789/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/package-info.java
+END
+RuleManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/RuleManagementService.java
+END
+LogicalOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/LogicalOperator.java
+END
+BuilderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/BuilderUtils.java
+END
+RuleRepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/RuleRepositoryService.java
+END
+RepositoryDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/RepositoryDataException.java
+END
+NaturalLanguageTreeContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/NaturalLanguageTreeContract.java
+END
+NaturalLanguageTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/NaturalLanguageTree.java
+END
+BaseAttributeContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/BaseAttributeContract.java
+END
+TranslateBusinessMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/TranslateBusinessMethods.java
+END
+BaseAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/BaseAttribute.java
+END

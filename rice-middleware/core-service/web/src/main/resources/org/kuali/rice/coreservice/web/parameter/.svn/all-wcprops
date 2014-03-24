@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/45193/trunk/rice-middleware/core-service/web/src/main/resources/org/kuali/rice/coreservice/web/parameter
+END
+Parameter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/45193/trunk/rice-middleware/core-service/web/src/main/resources/org/kuali/rice/coreservice/web/parameter/Parameter.xml
+END
+ParameterMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/resources/org/kuali/rice/coreservice/web/parameter/ParameterMaintenanceDocument.xml
+END
+ParameterType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/resources/org/kuali/rice/coreservice/web/parameter/ParameterType.xml
+END
+ParameterTypeMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/resources/org/kuali/rice/coreservice/web/parameter/ParameterTypeMaintenanceDocument.xml
+END

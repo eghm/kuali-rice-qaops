@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi
+END
+KualiTestAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiTestAuthenticationProvider.java
+END
+KualiDistributedSessionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiDistributedSessionFilter.java
+END
+KualiCasAuthoritiesPopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiCasAuthoritiesPopulator.java
+END
+KualiCasAuthoritiesPopulatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiCasAuthoritiesPopulatorImpl.java
+END
+LdapUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/LdapUserDetailsService.java
+END
+KualiCasAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiCasAuthenticationProvider.java
+END
+KualiCasProxyTicketValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiCasProxyTicketValidator.java
+END
+KualiTicketResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiTicketResponse.java
+END
+KualiUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiUserDetailsService.java
+END
+KualiDistributedSessionExpiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiDistributedSessionExpiredException.java
+END
+KualiDistributedSessionExpiredAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiDistributedSessionExpiredAuthentication.java
+END
+KualiUserDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/client/acegi/KualiUserDetailsServiceImpl.java
+END

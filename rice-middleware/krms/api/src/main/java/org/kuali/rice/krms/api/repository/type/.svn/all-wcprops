@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/44519/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type
+END
+KrmsTypeRepositoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsTypeRepositoryService.java
+END
+KrmsTypeAttributeContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsTypeAttributeContract.java
+END
+KrmsTypeBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsTypeBoService.java
+END
+KrmsTypeAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44519/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsTypeAttribute.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/package-info.java
+END
+KrmsTypeDefinitionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsTypeDefinitionContract.java
+END
+KrmsAttributeDefinitionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsAttributeDefinitionContract.java
+END
+KrmsTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsTypeDefinition.java
+END
+KrmsAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/api/src/main/java/org/kuali/rice/krms/api/repository/type/KrmsAttributeDefinition.java
+END

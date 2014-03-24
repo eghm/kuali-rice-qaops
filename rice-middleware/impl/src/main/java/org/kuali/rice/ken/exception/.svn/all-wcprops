@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/exception
+END
+NotificationMessageDismissalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/exception/NotificationMessageDismissalException.java
+END
+ErrorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/exception/ErrorList.java
+END
+NotificationAutoRemoveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/exception/NotificationAutoRemoveException.java
+END
+NotificationMessageDeliveryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/exception/NotificationMessageDeliveryException.java
+END

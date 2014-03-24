@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse
+END
+BeanTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/BeanTag.java
+END
+BeanTagAttributeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/BeanTagAttributeInfo.java
+END
+BeanTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/BeanTags.java
+END
+CustomTagAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/CustomTagAnnotations.java
+END
+BeanTagAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/BeanTagAttribute.java
+END
+CustomNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/CustomNamespace.java
+END
+CustomSchemaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/CustomSchemaParser.java
+END
+StringListConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/StringListConverter.java
+END
+StringMapConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/StringMapConverter.java
+END
+BeanTagInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/parse/BeanTagInfo.java
+END

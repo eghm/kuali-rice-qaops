@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/rice/!svn/ver/45364/trunk/rice-middleware/it/location
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/rice/!svn/ver/44337/trunk/rice-middleware/it/location/.classpath
+END
+rice-it-location.iml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/rice/!svn/ver/45364/trunk/rice-middleware/it/location/rice-it-location.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/it/location/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/rice/!svn/ver/44830/trunk/rice-middleware/it/location/pom.xml
+END

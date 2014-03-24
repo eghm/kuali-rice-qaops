@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/platform/testincrementers
+END
+CustomIncrementerOracleVersion11.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/platform/testincrementers/CustomIncrementerOracleVersion11.java
+END
+CustomIncrementerMySQLVersion5.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/platform/testincrementers/CustomIncrementerMySQLVersion5.java
+END

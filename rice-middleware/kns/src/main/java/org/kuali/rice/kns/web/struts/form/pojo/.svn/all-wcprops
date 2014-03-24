@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44858/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo
+END
+StrutsExceptionIncidentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/StrutsExceptionIncidentHandler.java
+END
+PojoPropertyUtilsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44858/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/PojoPropertyUtilsBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/package-info.java
+END
+PojoFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/PojoFormBase.java
+END
+PojoPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/PojoPlugin.java
+END
+PojoForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/PojoForm.java
+END
+AuthorizationExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/form/pojo/AuthorizationExceptionHandler.java
+END

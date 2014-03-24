@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes
+END
+TravelFiscalOfficerInfoDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/TravelFiscalOfficerInfoDocType.xml
+END
+TravelAccountDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/TravelAccountDocType.xml
+END
+TravelFiscalOfficerDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/TravelFiscalOfficerDocType.xml
+END
+TravelAuthorizationDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/TravelAuthorizationDocType.xml
+END
+BookStoreRequestDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/BookStoreRequestDocType.xml
+END
+VendorMaintenanceDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/VendorMaintenanceDocType.xml
+END
+BookOrderDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/BookOrderDocType.xml
+END
+TravelRequestDocType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/docTypes/TravelRequestDocType.xml
+END

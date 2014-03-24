@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo
+END
+ModelObjectComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/ModelObjectComplete.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/package-info.java
+END
+ModelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/ModelBuilder.java
+END
+ModelObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/ModelObjectUtils.java
+END
+AbstractDataTransferObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/AbstractDataTransferObject.java
+END
+ModelObjectBasic.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/mo/ModelObjectBasic.java
+END

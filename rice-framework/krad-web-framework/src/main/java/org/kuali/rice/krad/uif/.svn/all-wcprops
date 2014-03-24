@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/45535/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif
+END
+UifConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44893/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/UifConstants.java
+END
+CssConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/CssConstants.java
+END
+UifParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/45233/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/UifParameters.java
+END
+UifPropertyPaths.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/UifPropertyPaths.java
+END

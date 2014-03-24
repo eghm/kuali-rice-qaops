@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/.classpath
+END
+rice-impex-client-demo.iml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/44309/trunk/db/impex/client/demo/rice-impex-client-demo.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/rice/!svn/ver/44830/trunk/db/impex/client/demo/pom.xml
+END

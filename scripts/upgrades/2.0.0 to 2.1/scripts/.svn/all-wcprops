@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.0.0%20to%202.1/scripts
+END
+delete_old_docsearch_attributes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.0.0%20to%202.1/scripts/delete_old_docsearch_attributes.sql
+END
+DeleteOldDocSearchAttributesCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.0.0%20to%202.1/scripts/DeleteOldDocSearchAttributesCommand.groovy
+END

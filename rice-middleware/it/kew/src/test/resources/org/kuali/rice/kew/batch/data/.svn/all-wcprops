@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data
+END
+EDocLiteRouting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/EDocLiteRouting.xml
+END
+RuleContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/RuleContent.xml
+END
+EDocLiteContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/EDocLiteContent.xml
+END
+KEWBootstrap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/KEWBootstrap.xml
+END
+BadFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/BadFile.xml
+END
+RuleAttributeContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/RuleAttributeContent.xml
+END
+widgetsTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/widgetsTest.xml
+END
+EDocLiteStyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/EDocLiteStyle.xml
+END
+UserContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/UserContent.xml
+END
+WorkgroupContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/WorkgroupContent.xml
+END
+ApplicationConstantsContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/ApplicationConstantsContent.xml
+END
+DocumentTypeContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/DocumentTypeContent.xml
+END
+RuleTemplateContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/batch/data/RuleTemplateContent.xml
+END

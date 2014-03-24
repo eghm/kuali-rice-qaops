@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui
+END
+ExtraButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/ExtraButton.java
+END
+FieldBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/FieldBridge.java
+END
+SectionBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/SectionBridge.java
+END
+PropertyRenderingConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/PropertyRenderingConfigElement.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/Field.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/Section.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/package-info.java
+END
+ResultRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/ResultRow.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/Row.java
+END
+FormatAwareDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/FormatAwareDecorator.java
+END
+HeaderField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/HeaderField.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/ui/Column.java
+END

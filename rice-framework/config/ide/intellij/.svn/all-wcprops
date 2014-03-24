@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/rice/!svn/ver/40326/trunk/rice-framework/config/ide/intellij
+END
+rice-krad-development-tools.iml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-krad-development-tools.iml
+END
+rice-krad-sampleapp.iml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-krad-sampleapp.iml
+END
+rice-krad-theme-builder-test.iml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/40084/trunk/rice-framework/config/ide/intellij/rice-krad-theme-builder-test.iml
+END
+rice-krad-theme-builder.iml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/40084/trunk/rice-framework/config/ide/intellij/rice-krad-theme-builder.iml
+END
+rice-krad-web-framework.iml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-krad-web-framework.iml
+END
+rice-krad-app-framework.iml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-krad-app-framework.iml
+END
+rice-it-krad.iml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-it-krad.iml
+END
+rice-krad-web.iml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-krad-web.iml
+END
+rice-framework.iml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-framework.iml
+END
+rice-krad-service-impl.iml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/rice-framework/config/ide/intellij/rice-krad-service-impl.iml
+END

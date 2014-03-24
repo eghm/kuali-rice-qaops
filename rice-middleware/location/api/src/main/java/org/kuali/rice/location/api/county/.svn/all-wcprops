@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/api/src/main/java/org/kuali/rice/location/api/county
+END
+CountyContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/api/src/main/java/org/kuali/rice/location/api/county/CountyContract.java
+END
+County.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/api/src/main/java/org/kuali/rice/location/api/county/County.java
+END
+CountyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/api/src/main/java/org/kuali/rice/location/api/county/CountyService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/api/src/main/java/org/kuali/rice/location/api/county/package-info.java
+END
+CountyQueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/api/src/main/java/org/kuali/rice/location/api/county/CountyQueryResults.java
+END

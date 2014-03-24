@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/resources
+END
+KSBTestHarnessNoJtaSpring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/resources/KSBTestHarnessNoJtaSpring.xml
+END
+KSBTestServiceOverrides.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/resources/KSBTestServiceOverrides.xml
+END
+RiceNoJtaOJB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/resources/RiceNoJtaOJB.properties
+END
+KSBTestHarnessSpring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/resources/KSBTestHarnessSpring.xml
+END

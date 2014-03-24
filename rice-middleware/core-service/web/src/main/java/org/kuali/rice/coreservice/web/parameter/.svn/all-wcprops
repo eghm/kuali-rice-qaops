@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/java/org/kuali/rice/coreservice/web/parameter
+END
+ParameterLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/java/org/kuali/rice/coreservice/web/parameter/ParameterLookupableHelperServiceImpl.java
+END
+ParameterOperatorValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/java/org/kuali/rice/coreservice/web/parameter/ParameterOperatorValuesFinder.java
+END
+ParameterMaintainableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/java/org/kuali/rice/coreservice/web/parameter/ParameterMaintainableImpl.java
+END
+ParameterRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/java/org/kuali/rice/coreservice/web/parameter/ParameterRule.java
+END
+ParameterTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/web/src/main/java/org/kuali/rice/coreservice/web/parameter/ParameterTypeValuesFinder.java
+END

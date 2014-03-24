@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44856/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader
+END
+ObjectDefinitionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/ObjectDefinitionResolver.java
+END
+SpringResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44856/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/SpringResourceLoader.java
+END
+RiceSpringResourceLoaderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/RiceSpringResourceLoaderConfigurer.java
+END
+BaseResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/BaseResourceLoader.java
+END
+RiceResourceLoaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/RiceResourceLoaderFactory.java
+END
+BeanFactoryResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/BeanFactoryResourceLoader.java
+END
+GlobalResourceLoaderServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/43830/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/GlobalResourceLoaderServiceFactoryBean.java
+END
+SimpleServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/resourceloader/SimpleServiceLocator.java
+END

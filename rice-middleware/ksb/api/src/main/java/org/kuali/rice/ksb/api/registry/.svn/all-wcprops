@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43945/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry
+END
+ServiceDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceDescriptor.java
+END
+ServiceEndpointContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceEndpointContract.java
+END
+ServiceEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceEndpoint.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/package-info.java
+END
+ServiceEndpointStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceEndpointStatus.java
+END
+RemoveAndPublishResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/RemoveAndPublishResult.java
+END
+ServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceRegistry.java
+END
+ServiceInfoContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43945/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceInfoContract.java
+END
+ServiceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43945/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceInfo.java
+END
+ServiceDescriptorContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/api/src/main/java/org/kuali/rice/ksb/api/registry/ServiceDescriptorContract.java
+END

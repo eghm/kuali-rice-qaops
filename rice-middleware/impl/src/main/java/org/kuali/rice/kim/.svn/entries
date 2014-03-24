@@ -1,0 +1,64 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim
+https://svn.kuali.org/repos/rice
+
+
+
+2014-03-11T21:44:45.228640Z
+45299
+sonam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+bo
+dir
+
+inquiry
+dir
+
+service
+dir
+
+impl
+dir
+
+config
+dir
+
+rule
+dir
+
+lookup
+dir
+
+rules
+dir
+
+workflow
+dir
+
+util
+dir
+
+web
+dir
+
+document
+dir
+

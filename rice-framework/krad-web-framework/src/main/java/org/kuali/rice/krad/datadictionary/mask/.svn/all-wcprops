@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/mask
+END
+MaskFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/mask/MaskFormatter.java
+END
+MaskFormatterSubString.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/mask/MaskFormatterSubString.java
+END
+Mask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/mask/Mask.java
+END
+MaskFormatterLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/mask/MaskFormatterLiteral.java
+END

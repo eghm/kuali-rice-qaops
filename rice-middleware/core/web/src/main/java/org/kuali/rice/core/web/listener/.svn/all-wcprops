@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44134/trunk/rice-middleware/core/web/src/main/java/org/kuali/rice/core/web/listener
+END
+BootstrapListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/web/src/main/java/org/kuali/rice/core/web/listener/BootstrapListener.java
+END
+KualiInitializeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44134/trunk/rice-middleware/core/web/src/main/java/org/kuali/rice/core/web/listener/KualiInitializeListener.java
+END

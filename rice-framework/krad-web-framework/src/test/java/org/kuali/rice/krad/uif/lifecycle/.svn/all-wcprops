@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/45310/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/lifecycle
+END
+ComponentFreemarkerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44887/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/lifecycle/ComponentFreemarkerTest.java
+END
+ViewLifecycleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/45310/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/lifecycle/ViewLifecycleTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/util/collect
+END
+ConstantsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/util/collect/ConstantsMap.java
+END
+PropertiesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/util/collect/PropertiesMap.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/util/collect/CollectionUtils.java
+END

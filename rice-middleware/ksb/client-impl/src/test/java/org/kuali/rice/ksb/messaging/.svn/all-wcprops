@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44621/trunk/rice-middleware/ksb/client-impl/src/test/java/org/kuali/rice/ksb/messaging
+END
+BogusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/test/java/org/kuali/rice/ksb/messaging/BogusService.java
+END
+BogusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/test/java/org/kuali/rice/ksb/messaging/BogusServiceImpl.java
+END
+StaticWeavingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44621/trunk/rice-middleware/ksb/client-impl/src/test/java/org/kuali/rice/ksb/messaging/StaticWeavingTest.java
+END

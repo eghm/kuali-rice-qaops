@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44652/trunk/rice-middleware/kim/kim-impl/src/main/resources/org/kuali/rice/kim/impl/permission
+END
+PermissionTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/main/resources/org/kuali/rice/kim/impl/permission/PermissionTemplate.xml
+END
+UberPermission.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44652/trunk/rice-middleware/kim/kim-impl/src/main/resources/org/kuali/rice/kim/impl/permission/UberPermission.xml
+END
+PermissionBo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/kim/kim-impl/src/main/resources/org/kuali/rice/kim/impl/permission/PermissionBo.xml
+END
+PermissionAttribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/main/resources/org/kuali/rice/kim/impl/permission/PermissionAttribute.xml
+END

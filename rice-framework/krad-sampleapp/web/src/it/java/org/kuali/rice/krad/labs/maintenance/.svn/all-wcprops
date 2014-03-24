@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44533/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance
+END
+LabsMaintenanceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceBase.java
+END
+LabsMaintenancePresentationControllerAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenancePresentationControllerAft.java
+END
+LabsMaintenanceOverrideValuesAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44363/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceOverrideValuesAft.java
+END
+LabsMaintenanceAddingExternalJavaScriptFileAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceAddingExternalJavaScriptFileAft.java
+END
+LabsMaintenanceConfiguringHelpLinkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/44322/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceConfiguringHelpLinkAft.java
+END
+LabsMaintenanceCopyWithRestrictedFieldAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceCopyWithRestrictedFieldAft.java
+END
+LabsMaintenanceSampleBasicAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44321/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceSampleBasicAft.java
+END
+LabsMaintenanceCopyLinkOnSearchResultAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/44533/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceCopyLinkOnSearchResultAft.java
+END
+LabsMaintenanceDefineControlAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceDefineControlAft.java
+END
+LabsMaintenanceDisableNewAndCopyAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/maintenance/LabsMaintenanceDisableNewAndCopyAft.java
+END

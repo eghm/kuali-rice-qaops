@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/test
+END
+DefaultPerTestData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/test/DefaultPerTestData.sql
+END
+DefaultPerTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/test/DefaultPerTestData.xml
+END
+DefaultSuiteTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ken/src/test/resources/org/kuali/rice/ken/test/DefaultSuiteTestData.xml
+END

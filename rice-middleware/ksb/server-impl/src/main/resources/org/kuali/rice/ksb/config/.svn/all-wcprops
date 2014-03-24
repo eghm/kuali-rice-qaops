@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44947/trunk/rice-middleware/ksb/server-impl/src/main/resources/org/kuali/rice/ksb/config
+END
+KsbRegistryServerSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/server-impl/src/main/resources/org/kuali/rice/ksb/config/KsbRegistryServerSpringBeans.xml
+END
+KsbJpaRegistrySpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44947/trunk/rice-middleware/ksb/server-impl/src/main/resources/org/kuali/rice/ksb/config/KsbJpaRegistrySpringBeans.xml
+END

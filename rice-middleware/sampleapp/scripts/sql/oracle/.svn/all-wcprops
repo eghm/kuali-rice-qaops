@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/sql/oracle
+END
+create_bookstore_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/sql/oracle/create_bookstore_tables.sql
+END
+default_bookstore_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/sql/oracle/default_bookstore_data.sql
+END
+create_travel_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/sql/oracle/create_travel_tables.sql
+END
+default_travel_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/scripts/sql/oracle/default_travel_data.sql
+END

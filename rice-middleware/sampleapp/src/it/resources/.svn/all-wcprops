@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/44513/trunk/rice-middleware/sampleapp/src/it/resources
+END
+TravelAccountTypeLookup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/resources/TravelAccountTypeLookup.properties
+END
+sample-app-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/resources/sample-app-config.xml
+END
+DeleteSubCollectionLine.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/resources/DeleteSubCollectionLine.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44102/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/config/module
+END
+WebModuleLoaderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/config/module/WebModuleLoaderListener.java
+END
+ModuleConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44102/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/config/module/ModuleConfigurer.java
+END
+WebModuleConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/config/module/WebModuleConfiguration.java
+END

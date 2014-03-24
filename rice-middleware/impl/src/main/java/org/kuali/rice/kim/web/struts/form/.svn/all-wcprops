@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/web/struts/form
+END
+IdentityManagementPersonDocumentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/web/struts/form/IdentityManagementPersonDocumentForm.java
+END
+IdentityManagementDocumentFormBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/web/struts/form/IdentityManagementDocumentFormBase.java
+END
+IdentityManagementGroupDocumentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/web/struts/form/IdentityManagementGroupDocumentForm.java
+END
+IdentityManagementRoleDocumentForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/web/struts/form/IdentityManagementRoleDocumentForm.java
+END

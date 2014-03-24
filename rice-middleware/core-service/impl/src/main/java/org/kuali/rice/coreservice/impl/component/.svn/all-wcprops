@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44218/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component
+END
+ComponentId.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44218/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/ComponentId.java
+END
+ComponentSetBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44141/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/ComponentSetBo.java
+END
+ComponentSetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/ComponentSetDao.java
+END
+ComponentBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44141/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/ComponentBo.java
+END
+ComponentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/ComponentServiceImpl.java
+END
+DerivedComponentBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44141/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/DerivedComponentBo.java
+END
+ComponentSetDaoJpa.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/java/org/kuali/rice/coreservice/impl/component/ComponentSetDaoJpa.java
+END

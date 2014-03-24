@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/result
+END
+BasicResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/result/BasicResult.java
+END
+Log4jResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/result/Log4jResultListener.java
+END
+ResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/result/ResultListener.java
+END
+TimingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/result/TimingResult.java
+END
+EngineResultListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/main/java/org/kuali/rice/krms/framework/engine/result/EngineResultListener.java
+END

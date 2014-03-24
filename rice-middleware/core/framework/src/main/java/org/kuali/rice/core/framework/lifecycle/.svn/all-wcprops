@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/lifecycle
+END
+ServiceDelegatingLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/lifecycle/ServiceDelegatingLifecycle.java
+END

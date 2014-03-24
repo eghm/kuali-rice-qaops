@@ -1,0 +1,1116 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<!--
+
+    Copyright 2005-2014 The Kuali Foundation
+
+    Licensed under the Educational Community License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.opensource.org/licenses/ecl2.php
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<chapter xml:id="data_objects" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://docbook.org/ns/docbook"  version="5.0">
+    <title> Data Objects and Persistence </title>
+    <note>
+        <para>This document outlines the KRAD Data Framework as of Kuali Rice 2.4+. If you are
+            working with older KRAD code and OJB, you will want to reference this document in pre
+            2.4 versions of the KRAD Guide. See <link xlink:show="new"
+                xlink:href="http://rice.kuali.org/docs">http://rice.kuali.org/docs</link> for links
+            to older versions of the Kuali Rice documentation.</para>
+    </note>
+    <section>
+        <title>Data Framework</title>
+        <para>KRAD includes a "krad-data" module which provides data and persistence-related
+            services. The data framework provided by this module has a number of goals:<orderedlist>
+                <listitem>
+                    <para>Provide CRUD (Create, Read, Update, Delete) operations for data.</para>
+                </listitem>
+                <listitem>
+                    <para>Maintain a Metadata repository for storing additional information about
+                        data objects and their attributes.</para>
+                </listitem>
+                <listitem>
+                    <para>Provide a mechanism to integrate custom persistence and metadata
+                        providers.</para>
+                </listitem>
+                <listitem>
+                    <para>Include a default implementation based on the Java Persistence API
+                        (JPA).</para>
+                </listitem>
+            </orderedlist>As stated, it is intended that data which is consumed and processed by a
+            KRAD application may be stored in any number of backend data stores or accessed using
+            any number of different technologies.</para>
+        <para>For many KRAD applications, this data will be stored in a relational database and
+            accessed using the Java Persistence API (JPA). This is the default persistence
+            technology that KRAD supports, however the design of the data framework facilitates
+            integration with other technologies (plain JDBC and SQL, spring-data, web services,
+            etc.) and backend data stores (key-value stores, document databases, object databases,
+            etc.). This is accomplished through a service provider interface (SPI) that allows for
+            the creation and integration of custom providers.</para>
+        <para>In addition to providing persistence operations, the krad-data module also provides a
+            Metadata repository which stores various bits of metadata about the data objects that it
+            is managing. Specifically, this includes information about what the keys and
+            relationships are between data objects. It also contains information like human-readable
+            labels for data object properties and constraints related to the valid representation of
+            the data.</para>
+        <para>The krad-data module provides an API to interact with data objects and their metadata
+            which is then consumed by the other components within the KRAD framework whenever they
+            need to perform data-related operations. This API can also be used elsewhere within the
+            application when it needs to interact with its data objects.</para>
+    </section>
+    <section>
+        <title> Data Objects </title>
+        <section>
+            <title>Data Objects</title>
+            <para>We begin our training for the Kuali Rapid Application Development framework with the
+                data access layer. Enterprise applications generally have a large number of CRUD (Create
+                Read Update Delete) operations; therefore, the access of data is a very important
+                concern of development. KRAD builds on top of other tools to provide general facilities
+                that greatly reduce the development time. These facilities are known as the KRAD
+                Persistence Framework. </para>
+            <para>The foundation of the KRAD Persistence Framework is the third party ORM (Object
+                Relational Mapping) tool. ORM tools target the persistence of data with a relational
+                database. This is achieved by mapping a Java object that contains the data to one or
+                more database tables. When a persistence operation is requested, the ORM tool performs
+                the work of translating the request along with the corresponding object(s) to the
+                necessary DML statement. This provides a great advantage to the application as it
+                generally requires no database dependent code (database specific code might be required
+                in certain cases). More information on particular ORM tooling will be provided in the
+                sections 'OJB Primer' and 'Using JPA'. </para>
+            <para>In order to prepare our application for persisting data using an ORM tool, we must
+                build the objects that will hold the application data. From the established data model,
+                we can determine the objects needed using a mapping strategy. Although the strategies
+                and options available depend on the ORM solution we are using, generally we have the
+                following mapping options: <orderedlist>
+                    <listitem>
+                        <para> One table to one object </para>
+                    </listitem>
+                    <listitem>
+                        <para> One table to multiple objects (polymorphism) </para>
+                    </listitem>
+                    <listitem>
+                        <para> Multiple tables to one object </para>
+                    </listitem>
+                </orderedlist></para>
+            <para>Once we have determined how an object will relate with its database table(s), each
+                object property is associated with a table column through configuration. This
+                configuration will also give the ORM tool information on data type conversion and
+                constraints. The final piece to our object mapping is specifying any relationships.
+                This includes one-to-one, one-to-many, and many-to-many relationships. </para>
+            <tip><para>Referential Integrity: It is not required to have referential integrity set up in the database
+                    for relationships declared for the persistent metadata. However, it is generally
+                    good practice to do so.</para></tip>
+            <para>Now let's set aside the mapping concerns and have a closer look at our 'data' objects.
+                Technically, these objects are not complex at all. First, they must adhere to the POJO
+                (Plain Old Java Object) and JavaBean guidelines. These guidelines are as follows: <orderedlist>
+                    <listitem>
+                        <para>Is Serializable (implements the java.io. Serializable interface) </para>
+                    </listitem>
+                    <listitem>
+                        <para>Has a no-arg constructor </para>
+                    </listitem>
+                    <listitem>
+                        <para>Provides property getter and setter methods using the conventional
+                            (get{PropertyName} for getter, set{PropertyName} for setter, and
+                            is{PropertyName} for Booleans) </para>
+                    </listitem>
+                </orderedlist></para>
+            <para>In addition to the 'primitive' property types a data object may contain, a data
+                object may also be composed of nested data objects (representing a one-to-one
+                relationship), or a collection of data objects (representing a one-to-many
+                relationship). </para>
+            <tip><para><emphasis role="keyword">Related Data Objects</emphasis>: It is important to setup the related
+                    data object properties. As we will see later on, the framework can take care of
+                    many things for us automatically based on the metadata derived from these
+                    relationships. </para></tip>
+            <para>Next, well that's it! However, as we will see in just a bit, in order to take
+                advantage of the additional persistence features KRAD provides, there is one
+                additional thing we need to add. </para>
+            <para>KRAD refers to any object that provides data as a 'Data Object'. Data objects provide
+                a very central role in an enterprise application. Within the suggested KRAD
+                architecture, they are not bound to just the data access layer, but can freely move
+                between the other application layers as well. This means we can use data objects in our
+                services, and we can use them to build our user interfaces. </para>
+            <tip><para><emphasis role="keyword">'Data Object'</emphasis>: The 'Data Object' term can refer to objects
+                    that are mapped to a persistence mechanism, but also might not be. For example,
+                    it might be an object whose data is assembled by a service call, which in turn
+                    interacts with other persisted objects or other services. This flexibility is
+                    important for allowing other KRAD modules to be used with a variety of data
+                    sources and strategies.</para></tip>
+            <para><emphasis role="bold">Best Practice</emphasis>: Keep data objects simple! Try to avoid
+                introducing any business logic or presentation logic into the objects. </para>
+        </section>
+        <section>
+            <title>Business Objects </title>
+            <para>A special type of data object in KRAD is known as a Business Object. These are
+                data objects that implement the interface org.kuali.rice.krad.bo.BusinessObject.
+                There are two primary types of business object: those that persist to the database
+                and those that do not. Those business objects that do persist to the database should
+                implement the org.kuali.rice.krad.bo.PersistableBusinessObject interface. This
+                interface adds persistence related methods that are invoked throughout the
+                framework. </para>
+            <para>Generally, when creating a new data object, it is more convenient to extend one of
+                the provided base classes that implement the necessary interfaces. For persistable
+                objects, this base class is org.kuali.rice.krad.bo. PersistableBusinessObjectBase.
+                Within this base class, default implementations for the persistable methods exist
+                along with properties for the common fields required for all persisted objects.
+                These are described in more detail later on in this section. Business objects that
+                do not persist to the database can extend
+                org.kuali.rice.krad.bo.TransientBusinessObjectBase. </para>
+            <tip><para><emphasis role="keyword">Transient Business Objects</emphasis>: Transient business objects were
+                    necessary in earlier versions of Rice, due to the framework requiring all
+                    objects to be business objects (including the UI generation). With version 2.0
+                    of Rice and KRAD, this restriction no longer exists; therefore there is really
+                    no need for the transient business object concept. </para></tip>
+            <para>In order to take advantage of all the features KRAD provides, it is recommended
+                that all persistable objects (and therefore tables) contain two properties: <orderedlist>
+                    <listitem>
+                        <para>Version Number – This property holds a version for the record that is
+                            maintained by the ORM tool to perform optimistic locking. The number is
+                            initially set to 0. Each time the record is updated, the version number
+                            is incremented. Before updating the record, the ORM tool performs a
+                            comparison between the version number on the data object, and the
+                            version number of the record in the database. If they are different, the
+                            tool knows the record has been updated since the record was pulled and
+                            throws an optimistic lock exception. </para>
+                    </listitem>
+                    <listitem>
+                        <para>Object Id – This property holds a GUID value for each record in the
+                            database. This is used in the framework as an alternate key for the
+                            record. Example usages of the object id include the notes and
+                            attachments framework. Notes are associated with a record by its object
+                            id. Another example is its use within the multi-value lookup framework.
+                            Selected records are identified and retrieved based on their unique
+                            object ids. </para>
+                    </listitem>
+                </orderedlist></para>
+        </section>
+        <section>
+            <title>Special Business Objects </title>
+            <para>Additional functionality exists for a few special types of business objects. One
+                of these special types is business objects that have an active status. That is, each
+                record has a state of active (which generally means the record is valid for using)
+                or inactive (meaning the record should not be used due to being old or not currently
+                valid). Objects of this type should implement the Inactivatable interface. This
+                interface requires the methods isActive() and setActive(Boolean active) to be
+                implemented. </para>
+            <para>The simplest form of inactivatable business objects are those that maintain a
+                single field that indicates the active status as a Boolean field. Another common
+                case is that of an active date range (also known as effective dating). These objects
+                maintain two fields that work together for determining the active status. This first
+                of these fields is the active begin date which indicates the date on which the
+                record becomes active. This field can have a null value indicating the record is
+                active for all dates before the end date. The second field is the active end date
+                which indicates the date on which the record becomes inactive. This field can have a
+                null value indicating the record has no inactive date set. </para>
+            <para> Record is active if:
+                <programlisting linenumbering = "numbered">(activeFromDate == null ||
+    asOfDate >= activeFromDate.getMillis()) &amp;&amp;  (activeToDate == null ||
+    asOfDate &lt; activeToDate.getMillis());   </programlisting>
+                where the asOfDate is the current date or a date we wish to simulate the active
+                check for. </para>
+            <para>For inactivatable business objects that use effective dating, the
+                org.kuali.rice.krad.bo.InactivatableFromToImpl class can be extended which holds the
+                necessary properties and implements the logic necessary to determine the active
+                status (note that this class implements the Inactivatable and InactivatableFromTo
+                interfaces). </para>
+            <para>When an object is marked as inactivatable, KRAD will give us some nice features
+                for handling the active status: <itemizedlist>
+                    <listitem>
+                        <para><emphasis role="bold">Validation of active status for foreign key
+                                fields </emphasis></para>
+                        <para>As we will see later on in the section 'Automatic Validation', KRAD
+                            can perform a lot of the common validation tasks for us. One of these is
+                            known as default existence checks. This is validation that is performed
+                            on one or more user inputted fields to verify the value given exists in
+                            the related database table. To perform this validation, the framework
+                            uses the configured relationship for the inputted fields (inputted
+                            fields are the foreign keys). In addition to performing the existence
+                            checks, we can ask for the active status to be verified as well. If the
+                            record exists but the active flag is false, an error message will be
+                            displayed to the user. </para>
+                    </listitem>
+                    <listitem>
+                        <para><emphasis role="bold">Inactivation Blocking </emphasis></para>
+                        <para>Changing the active status for a record to false (or inactive) is
+                            known as inactivation. Problems with data integrity can occur if we
+                            inactivate a record that is referenced (by a foreign key relationship)
+                            by another active record. For these cases we want to ensure the record
+                            with the relationship is inactivated before the related record. Using a
+                            feature known as Inactivation Blocking we can disallow the user from
+                            inactivating a record when this condition exists. </para>
+                    </listitem>
+                    <listitem>
+                        <para><emphasis role="bold">Inactive Collection Row Filtering</emphasis>
+                        </para>
+                        <para>When displaying a collection with the UIF (User Interface Framework)
+                            whose items implement the Inactivatable interface, a filter is presented
+                            allow the user to view all records or only those that are active.
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para><emphasis role="bold">Key Value Finders</emphasis>
+                        </para>
+                        <para>UI controls like the select and radio group can get their option
+                            values from a class known as KeyValueFinder (more on this in 'Types of
+                            Controls'). For easy building of these option classes, the UIF provides
+                            a generic configurable KeyValueFinder that will exclude inactive records
+                            from the options list if the option providing class implements
+                            Inactivatable. </para>
+                    </listitem>
+                </itemizedlist></para>
+            <para>Another special type of business objects are code/name objects. These objects all
+                contain a field that represents a code, and a field that gives the name for that
+                code (or description). In many cases these are the only two fields present. Business
+                objects of this type should implement the org.kuali.rice.krad.bo.KualiCode interface
+                (or extend org.kuali.rice.krad.bo.KualiCodeBase). When presenting code values that
+                have a related object of type KualiCode, the framework will do translation to
+                display the name or the code and name. </para>
+            <tip><para><emphasis role="bold">Planned Feature</emphasis></para>
+                <para><emphasis role="bold">Code Table:</emphasis> In the future KRAD will provide
+                    the facilities for storing KualiCode objects in a single code table. This will
+                    allow new codes to be created quickly (without the need for a table and
+                    mapping). </para></tip>
+        </section>
+        <section>
+        	<title>Extending Data Objects</title>
+        	<para>At times, there is a need to add additional attributes to existing objects in Rice or 
+        	in a Rice-based client application.  Since not all objects can be subclassed safely (as some
+        	code may instantiate the base classes directly, we recommend creating an &quot;extension&quot;
+        	object with the additional attributes.  This object will need to have the same primary key 
+        	field(s) as the class being extended.</para>
+        	<para>Rice helps to faciltate this through two additional features.
+        	</para>
+       		<itemizedlist>
+               	<listitem><para>The base class used for KRAD data objects 
+               	(<emphasis role="keyword">org.kuali.rice.krad.bo.DataObjectBase</emphasis>) contains a placeholder
+               	extensionObject property that can be used to traverse to your extension object.</para></listitem>
+               	<listitem><para>A special annotation <emphasis role="keyword">@ExtensionFor</emphasis> which is used
+               	on your extension class in order to link it to the base system data object.  It links the objects
+               	automatically within the JPA layer and sets the extension object to JOIN-fetch with the
+               	extended object.</para></listitem>
+            </itemizedlist>
+            <section>
+            	<title>Usage</title>
+            	<para>To make use of this feature, you need to do a few things.</para>
+            	<orderedlist>
+            		<listitem><para>Create a table for your extension attributes.  This table's primary key
+            			must have the same fields and datatypes as the data object you are extending.</para>
+            			<tip><para><emphasis role="bold">Warning</emphasis></para>
+            				<para>Do NOT add a referential integrity constraint back to the main table.
+            					While that is a logically correct relationship, we do not have full control
+            					over the order in which the ORM tools insert the records in this case.
+            					As such, the system may attempt to insert your extension record first.
+            					(Which would fail if such a constraint were in place.)</para></tip>
+            		</listitem>
+            		<listitem><para>Create a Java class to represent the extension and annotate normally for JPA.</para></listitem>
+            		<listitem><para>Add the <emphasis role="keyword">@ExtensionFor</emphasis> to the class.  
+            		See below for examples.</para></listitem>
+            	</orderedlist>
+            </section>
+            <section>
+            	<title>@ExtensionFor Annotation</title>
+            	<para>There are two properties on the <emphasis role="keyword">@ExtensionFor</emphasis> annoation.</para>
+            	<itemizedlist>
+            		<listitem><para><emphasis role="bold">value (default)</emphasis> : The class to which this extension 
+            		should be attached.</para></listitem>
+            		<listitem><para><emphasis role="bold">extensionPropertyName</emphasis> : On the above class, 
+            		the property with this name should be used to make the attachment.  This property must
+            		be a superclass of your actual extension object.  (Baseline setup simply has the property
+            		set up as an Object.)</para></listitem>
+            	</itemizedlist>
+	            <section role="NotInToc">
+	            	<title>Examples</title>
+	            	<para><emphasis role="bold">Using Default Extension Property</emphasis></para>
+	            	<programlisting>
+@Entity
+@Table(name="TRV_ACCT_EXT")
+@ExtensionFor(Account.class)
+public class AccountExtension { ...} 
+	            	</programlisting>
+	            	<para><emphasis role="bold">Using Custom Extension Property</emphasis></para>
+	            	<programlisting>
+@Entity
+@Table(name="TRV_ACCT_EXT")
+@ExtensionFor(value=Account.class,extensionPropertyName="extensionObject")
+public class AccountExtension { ...} 
+	            	</programlisting>
+	            </section>
+            </section>
+        </section>
+        <section role="NotInToc">
+            <title>RECAP</title>
+            <itemizedlist>
+                <listitem>
+                    <para>Data objects are standard JavaBeans that hold application data. Generally,
+                        the data from these objects is persisted to the database with use of an ORM
+                        tool.</para>
+                </listitem>
+                <listitem>
+                    <para>Metadata provides the mapping between a data object class and a database
+                        table. Each object property is mapped to a table field, and one-to-one,
+                        one-to-many, and many-to-many relationships can be configured. </para>
+                </listitem>
+                <listitem>
+                    <para>Data objects are a central piece to the KRAD framework. These objects and
+                        their metadata are used to provide features such as inquiries, lookups,
+                        maintenance, and validation. </para>
+                </listitem>
+                <listitem>
+                    <para>A business object is a special kind of data object that provides
+                        properties and methods for persistence and other framework functionality.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>All persistable data objects should have the version number and object id
+                        properties. </para>
+                </listitem>
+                <listitem>
+                    <para>Business objects that have an active status implement the Inactivatable
+                        interface.</para>
+                </listitem>
+                <listitem>
+                    <para>KRAD provides additional functionality for inactivatable objects. </para>
+                </listitem>
+                <listitem>
+                    <para>KualiCode represents a business object that has a code and name property.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>The @ExtensionFor annotation allows for extending baseline data objects without
+                    making any changes to the baseline system code or configuration.</para>
+                </listitem>
+            </itemizedlist>
+        </section>
+    </section>
+    <section>
+        <title>Java Persistence API</title>
+        <section>
+            <title>KRAD Entity Manager Factories</title>
+            <para><emphasis role="bold">KradEntityManagerFactoryBean</emphasis></para>
+            <para>
+                The KradEntitymanagerFactory is a KRAD-managed entity manager factory bean which can be used to configure a JPA
+                persistence unit using the Spring Framework. This implementation does not support the use of a custom
+                PersistenceUnitManager, but rather stores and manages one internally. This is intended to be an alternative to
+                direct usage of Spring's LocalContainerEntityManagerFactoryBean in order to make JPA configuration with
+                KRAD simpler.
+            </para>
+            <para><emphasis role="bold">Configuration</emphasis></para>
+            <para>
+                The minimal configuration for the KRADEntityManagerFactory is a persistence unit name, JTA or non-JTA datasource,
+                and JPA vendor adapter.
+            </para>
+            <note><para>Persistence unit names must be unique</para></note>
+            
+            <para><emphasis role="bold">Behavior</emphasis></para>
+            <para> When leveraging this class, persistence.xml files are not used. Rather,
+                persistence unit configuration is loaded via the various settings provided on this
+                factory bean which contain everything needed to create the desired persistence unit
+                configuration in the majority of cases. If a KRAD application needs more control
+                over the configuration of the persistence unit or wants to use persistence.xml and
+                JPA's default bootstrapping and classpath scanning behavior, an EntityManagerFactory
+                can be configured using the other classes provided by the Spring framework or by
+                other means as needed. See the LocalContainerEntityManagerFactoryBean class for an
+                alternative approach. </para>
+            <para> Only one of JTA or non-JTA datasource can be set. Depending on which one is set,
+                the underlying persistence unit will have it's
+                javax.persistence.spi.PersistenceUnitTransactionType set to either RESOURCE_LOCAL or
+                JTA. If both of these are set, then this class will throw an IllegalStateException
+                when the afterPropertiesSet method is invoked by the Spring Framework. </para>
+            <para> Elsewhere, this class delegates to implementations of
+                LocalContainerEntityManagerFactoryBean and DefaultPersistenceUnitManager, so
+                information on the specific behavior of some of the settings and methods on this
+                class can be found on the javadoc for those classes as well. </para>
+            <para><emphasis role="bold">JPA Property Defaults</emphasis></para>
+            <para>
+                When the afterPropertiesSet method is invoked, this class will scan the current config context for JPA
+                properties and make them available to the persistence unit. It will combine these with any properties that were set
+                directly on this factory bean via the setJpaProperties(java.util.Properties) or the setJpaPropertyMap(java.util.Map)
+                methods.
+            </para>
+            <para>
+                This scanning occurs in the following order, items later in the list will override any properties from earlier if
+                they happen to set the same effective property value:
+            </para>
+            <orderedlist>
+                <listitem>
+                    <para>
+                        Scan ConfigContext for properties that begin with "rice.krad.jpa.global." For any found, strip off this prefix
+                        prior to placing it into the JPA property map.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para> Scan ConfigContext for properties that begin with
+                        "rice.krad.jpa.&lt;persistence-unit-name&gt;" where "persistence-unit-name"
+                        is the configured name of this persistence unit. For any found, strip off
+                        this prefix prior to placing it into the JPA property map. </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Invoke loadCustomJpaDefaults(java.util.Map) method to allow for possible subclass customization of JPA
+                        property defaults.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Load the JPA properties configured via setJpaPropertyMap(java.util.Map) method and
+                        setJpaProperties(java.util.Properties) method. It is potentially non-deterministic which of these setters will
+                        take precedence over the other, so it is recommended to only invoke one of them on a given instance of this
+                        factory bean.
+                    </para>
+                </listitem>
+            </orderedlist>
+            <para><emphasis role="bold">KradEclipseLinkEntityManagerFactoryBean</emphasis></para>
+            <para>
+                The KradEclipseLinkEntityManagerFactory is a KRAD-managed enitity manager factory which can be used to configure an
+                EclipseLink persistence unit using JPA. This class inherits from the KradEntityManagerFactoryBean class, but adds the
+                following behavior:
+            </para>
+            <orderedlist>
+                <listitem>
+                    <para>Sets the jpa vendor adapter to an EclipsLink vendor adapter</para>
+                </listitem>
+                <listitem>
+                    <para>
+                        Detects if Java Transation API (JTA) is being used and, if so sets a JPA property value accordingly to allow
+                        EclipseLink integration with the Java Transation API
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>Configures an EclipsLink customizer to allow a configurable sequence management strategy.</para>
+                </listitem>
+                <listitem>
+                    <para>Disables the shared cache.</para>
+                </listitem>
+            </orderedlist>
+            <para><emphasis role="bold">Typical KradEclipsLinkEntityManagerFactoryBean Configuration</emphasis></para>
+            <programlisting>
+<![CDATA[
+<bean id="sampleApplicationDataSource" class="org.kuali.rice.core.framework.persistence.jdbc.datasource.PrimaryDataSourceFactoryBean" lazy-init="true">
+	<property name="preferredDataSourceParams">
+		<list>
+			<value>sampleApplication.datasource</value>
+		</list>
+	</property>
+	<property name="preferredDataSourceJndiParams">
+		<list>
+			<value>sampleApplication.datasource.jndi.location</value>
+		</list>
+	</property>
+	<property
+		name="serverDataSource"
+		value="false" />
+</bean>
+
+<bean id="jpaPersistenceUnitName" class="java.lang.String">
+		<constructor-arg value="sample-application" />
+</bean>
+
+<util:list id="sampleJpaPackagesToScan">
+	<value>org.kuali.rice.krad.sampleapp.jpa</value>
+	<value>org.kuali.rice.krad.sampleapp.bo</value>
+</util:list>
+
+// empty since we are doing package scans
+<util:list id="managedClassNames" />
+
+<bean id="entityManagerFactory" class="org.kuali.rice.krad.data.jpa.eclipselink.KradEclipseLinkEntityManagerFactoryBean"
+    p:jtaDataSource-ref="sampleApplicationDataSource" p:persistenceUnitName-ref="jpaPersistenceUnitName"
+    p:packagesToScan-ref="sampleJpaPackagesToScan" p:managedClassNames-ref="managedClassNames" />
+]]>
+            </programlisting>
+
+        </section>
+        <section>
+            <title>Persistence Providers</title>
+            <para>Persistence providers are implementations of the Java Persistence API (JPA) specification.</para>
+            <note><para>Currently Kuali Rice only has support for the EclipseLink JPA vendor.</para></note>
+            <para>When creating a new instance of the JpaPersistenceProvider, a reference to a "shared" entity manager like that created by
+                Spring's org.springframework.orm.jpa.support.SharedEntityManagerBean must be injected. Additionally, a reference to a 
+                DataObjectService must be injected as well.</para>
+            <para><emphasis role="bold">Spring JpaPersistenceProvider Setup</emphasis></para>
+            <programlisting>
+<![CDATA[
+<util:list id="location.managedClassNames">
+   <value>org.kuali.rice.foo.FooBo</value>
+   <value>org.kuali.rice.foo.BarBo</value>
+</util:list>
+
+<bean id="location.entityManagerFactory" class="org.kuali.rice.krad.data.jpa.eclipselink.KradEclipseLinkEntityManagerFactoryBean"
+    p:jtaDataSource-ref="locationDataSource" p:persistenceUnitName="rice.location"
+    p:managedClassNames-ref="location.managedClassNames"/>
+
+<bean id="dataObjectService" class="org.kuali.rice.krad.data.KradDataFactoryBean"/>
+            
+<bean id="sharedEntityManager" class="org.springframework.orm.jpa.support.SharedEntityManagerBean"
+    p:entityManagerFactory-ref="entityManagerFactory" />
+
+<bean id="jpaPersistenceProvider" class="org.kuali.rice.krad.data.jpa.JpaPersistenceProvider"
+    p:dataObjectService-ref="dataObjectService" p:sharedEntityManager-ref="sharedEntityManager"/>
+]]>
+        </programlisting>
+            <para>The JpaPersistenceProvider must then be registered with the Provider Registry in one of two ways:</para>
+            <orderedlist>
+                <listitem><para>Use a ProviderRegistar bean</para></listitem>
+                <listitem><para>Inject into the ModuleConfiguration</para></listitem>
+            </orderedlist>
+            <para><emphasis role="bold">Inject into ProviderRegistar bean</emphasis></para>
+            <programlisting>
+<![CDATA[
+<bean id="location.providerRegistrar" class="org.kuali.rice.krad.data.provider.ProviderRegistrar">
+    <property name="providerRegistry" ref="providerRegistry" />
+    <property name="providers">
+      <util:list>
+        <ref bean="location.jpaPersistenceProvider" />
+        <ref bean="location.metadataProvider" />
+      </util:list>
+    </property>
+  </bean>
+ ]]>
+        </programlisting>
+            <para><emphasis role="bold">Inject into the ModuleConfiguration</emphasis></para>
+            <programlisting>
+<![CDATA[
+<bean id="locationModuleConfiguration" class="org.kuali.rice.krad.bo.ModuleConfiguration">
+    <property name="namespaceCode" value="location"/>
+    <property name="dataSourceName" value="locationDataSource"/>
+    ...
+    <property name="providers">
+      <list>
+        <ref bean="jpaPersistenceProvider"/>
+        <ref bean="metadataProvider"/>
+      </list>
+    </property>
+    ...
+</bean>      
+]]>
+        </programlisting>
+        </section>
+        <section>
+            <title>Metadata Provider</title>
+            <para>
+                To assist with the processing and displaying of information, Kuali Rice comes with a JPA-based
+                metadata provider that extracts information from the JPA annotations and infers information about
+                object keys, attributes, collections, relationships, and default display values.  This is an essential
+                part of any JPA-based setup, so any application implementing JPA in Rice must at the very least hook
+                up to the metadata provider.
+            </para>
+            <para>
+                In the configuration for each module, the following must be included to hook into the provider.
+                <programlisting>&lt;property name="entityManager" ref="sharedEntityManager"/>
+&lt;property name="providers">
+    &lt;list>
+        &lt;ref bean="jpaPersistenceProvider"/>
+        &lt;ref bean="metadataProvider"/>
+    &lt;/list>
+&lt;/property></programlisting>
+                The key here is the <emphasis role="keyword">metadataProvider</emphasis> which is a list that includes
+                the JPA metadata provider, among others.  By default, this points back into Rice to
+                <programlisting>&lt;bean id="metadataProviderJpa"
+    class="org.kuali.rice.krad.data.jpa.eclipselink.EclipseLinkJpaMetadataProviderImpl"
+    p:entityManager-ref="sharedEntityManager" /></programlisting>
+                which uses the EclipseLink reference implementation classes to populate metadata objects.  Only applications
+                that wish to use a different JPA implementation would ever have to override this bean.
+            </para>
+        </section>
+        <section>
+            <title>Queries</title>
+            <para>In JPA there are several ways to execute queries. The following are the best practices
+                that should be used when using JPA in Kuali applications. In general the order of
+                consideration for a query should go as the following:
+                <orderedlist>
+                    <listitem>
+                        <para>Use DataObjectService methods in service methods.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Create custom DAOs method to use NamedQuery in JPA.</para>
+                    </listitem>
+                    <listitem>
+                        <para>Use Rice Criteria API if query is too complicated and would require
+                            dynamic generation(String concatenation).</para>
+                    </listitem>
+                    <listitem>
+                        <para>Use JPA Criteria API if query requires functions not supported in Rice
+                            Criteria API.</para>
+                    </listitem>
+                </orderedlist>
+                <emphasis role="bold"> Simple DataObjectService fetch by Primary Key</emphasis>
+                <programlisting>CountryBo countryBo = getDataObjectService().find(CountryBo.class,code);
+
+// Fetch by Compound Primary Key
+final Map&lt;String, Object> map = new HashMap&lt;String, Object>();
+map.put("countryCode", countryCode);
+map.put("code", code);
+StateBo stateBo = getDataObjectService().find(StateBo.class,new CompoundKey(map)));</programlisting>
+                <emphasis role="bold">DataObjectService query for matching results</emphasis>
+                <programlisting>// Fetch all matching results by countryCode and that have active equivalent to true
+final Map&lt;String, Object> map = new HashMap&lt;String, Object>();
+map.put("countryCode", countryCode);
+map.put("active", Boolean.TRUE);
+
+QueryResults&lt;PostalCodeBo> postalCodeBoQueryResults = getDataObjectService().
+    findMatching(PostalCodeBo.class,QueryByCriteria.Builder.andAttributes(map).build());
+
+// Fetch all Countries that have alternateCountryCode equal to value passed in
+QueryByCriteria qbc = QueryByCriteria.Builder.forAttribute(
+    KRADPropertyConstants.ALTERNATE_POSTAL_COUNTRY_CODE, alternateCode).build();
+QueryResults&lt;CountryBo> countryBoQueryResults = getDataObjectService().findMatching(CountryBo.class,qbc);
+List&lt;CountryBo> countryList = countryBoQueryResults.getResults();</programlisting>
+                <emphasis role="bold"> DataObjectService query returning the count based on Criteria </emphasis>
+                <programlisting>//Fetch count based on document id and principal id and current indicator being true
+QueryByCriteria.Builder criteria = QueryByCriteria.Builder.create().setPredicates(
+                                       equal(DOCUMENT_ID, documentId),
+                                       equal(PRINCIPAL_ID, principalId),
+                                       equal(CURRENT_INDICATOR, Boolean.TRUE));
+criteria.setCountFlag(CountFlag.ONLY);
+return getDataObjectService().findMatching(ActionTakenValue.class, criteria.build()).getTotalRowCount();</programlisting>
+            </para>
+            <para><emphasis role="bold">DataObjectService save</emphasis></para>
+            <programlisting>// Fetch by Compound Primary Key
+final Map&lt;String, Object> map = new HashMap&lt;String, Object>();
+map.put("countryCode", countryCode);
+map.put("code", code);
+StateBo stateBo = getDataObjectService().find(StateBo.class,new CompoundKey(map)));
+
+// make the StateBo inactive
+stateBo.setActiveToDate(new Timestamp(System.currentTimeMillis());
+
+// save the StateBo and get the updated instance
+stateBo = getDataObjectService().save(stateBo);</programlisting>
+            <para><emphasis role="bold">DataObjectService save with PersistenceOption</emphasis></para>
+            <programlisting>// Fetch by Compound Primary Key
+final Map&lt;String, Object> map = new HashMap&lt;String, Object>();
+map.put("countryCode", countryCode);
+map.put("code", code);
+StateBo stateBo = getDataObjectService().find(StateBo.class,new CompoundKey(map)));
+
+// make the StateBo inactive
+stateBo.setActiveToDate(new Timestamp(System.currentTimeMillis());
+
+// save the StateBo, include a PersistenceOption, and get the updated instance
+stateBo = getDataObjectService().save(stateBo, PersistenceOption.FLUSH);</programlisting>
+            <para><emphasis>PersistenceOptions</emphasis></para>
+            <para>
+                One or more persistence options can be passed to indicate whether or not linking should be performed prior to
+                persistence.  By default, linking foreign key values on the wrapped data object is performed.  Below is a
+                list of PersistionOption values.
+            </para>
+            <orderedlist>
+                <listitem>
+                    <para>
+                        FLUSH - Synchronize the persistence context to the underlying data store.
+                    </para>
+                </listitem>
+                <listitem>
+                    <para>
+                        LINK_KEYS - Synchronize the persistence context to the underlying data store, and
+                        link values into foreign keys that are "read-only" according to the metadata of the data object.
+                    </para>
+                </listitem>
+            </orderedlist>
+            <para><emphasis role="bold">DataObjectService delete</emphasis></para>
+            <programlisting>// Fetch by Compound Primary Key
+final Map&lt;String, Object> map = new HashMap&lt;String, Object>();
+map.put("countryCode", countryCode);
+map.put("code", code);
+StateBo stateBo = getDataObjectService().find(StateBo.class,new CompoundKey(map)));
+
+// delete the StateBo
+getDataObjectService().delete(stateBo);</programlisting>
+            <para>
+                <emphasis role="bold">Injecting the Shared Entity Manager</emphasis>
+                <programlisting>// Add the following to your Spring DAO implementation to assign the appropriate Persistence Unit to your DAO
+public class DocumentTypeDAOJpa implements DocumentTypeDAO {
+
+    @PersistenceContext(unitName="kew")
+    private EntityManager entityManager;
+
+}</programlisting>
+            </para>
+            <para>
+                <emphasis role="bold"> Simple example of Named Query in Rice</emphasis>
+                <programlisting>// Fetch Application Document ID by Document ID
+// Define constants for named query in DAO - In this case DocumentRouteHeaderDAOJpa
+// Name your queries such that they start with the Entity name
+// like @NamedQuery(name="ParameterBo.findAll", query="SELECT p FROM ParameterBo")
+public static final String GET_APP_DOC_STATUS_NAME = "DocumentRouteHeaderValue.GetAppDocStatus";
+public static final String GET_APP_DOC_STATUS_QUERY = "SELECT d.appDocStatus from "
+            + "DocumentRouteHeaderValue as d where d.documentId = :documentId";
+
+// Definition of NamedQuery on Queried Entity(DocumentRouteHeaderValue)
+@NamedQuery(name=DocumentRouteHeaderDAOJpa.GET_APP_DOC_STATUS_NAME, query =
+    DocumentRouteHeaderDAOJpa.GET_APP_DOC_STATUS_QUERY)
+
+// Code to call NamedQuery
+TypedQuery&lt;String> query = getEntityManager().createNamedQuery("DocumentRouteHeaderValue.GetAppDocId",String.class);
+query.setParameter("documentId",documentId);
+
+String applicationDocId = null;
+if (query.getResultList() != null &amp;&amp; !query.getResultList().isEmpty()){
+    applicationDocId = query.getResultList().get(0);
+}
+
+return applicationDocId;</programlisting>
+                <emphasis role="bold">More Complex example of NamedQuery </emphasis>
+                <programlisting>// Fetch all distinct document IDs by document type and application document ID
+public static final String GET_DOCUMENT_ID_BY_DOC_TYPE_APP_ID_NAME =
+            "DocumentRouteHeaderValue.GetDocumentIdByDocTypeAndAppId";
+public static final String GET_DOCUMENT_ID_BY_DOC_TYPE_APP_ID_QUERY = "SELECT "
+            + "DISTINCT(DH.documentId) FROM DocumentRouteHeaderValue DH, DocumentType DT "
+            + "WHERE DH.appDocId = :appDocId AND DH.documentTypeId = DT.documentTypeId  AND DT.name = :name";
+
+@NamedQuery(name=DocumentRouteHeaderDAOJpa.GET_DOCUMENT_ID_BY_DOC_TYPE_APP_ID_NAME, query =
+    DocumentRouteHeaderDAOJpa.GET_DOCUMENT_ID_BY_DOC_TYPE_APP_ID_QUERY)
+
+TypedQuery&lt;String> query = getEntityManager().createNamedQuery(GET_DOCUMENT_ID_BY_DOC_TYPE_APP_ID_NAME, String.class);
+query.setParameter("appDocId",appId);
+query.setParameter("name",documentTypeName);
+
+return query.getResultList();</programlisting>
+                <tip>
+                    <para> When building named queries you must use an alias the object  "select
+                            <emphasis role="bold">r</emphasis> from KUL_RICE_T <emphasis role="bold"
+                            >r</emphasis>". If you get the below error you are probably missing an
+                        alias.
+                        <programlisting>Caused by: java.lang.ClassCastException:
+                        org.eclipse.persistence.jpa.jpql.parser.NullExpression
+                        cannot be cast to org.eclipse.persistence.jpa.jpql.parser.IdentificationVariable
+                     </programlisting>
+                    </para>
+                </tip>
+                <emphasis role="bold">Using Rice Criteria API </emphasis>
+                <programlisting>// Example of Dynamic query, this query needs to add date checks dates if effectiveDate parameter is not null
+// This should be in a DAO class - RuleDAOJpa in this case
+
+public List&lt;RuleBaseValues> fetchAllCurrentRulesForTemplateDocCombination(String ruleTemplateId, List documentTypes,
+        Timestamp effectiveDate) {
+    QueryByCriteria.Builder builder = QueryByCriteria.Builder.create();
+    List&lt;Predicate> predicates = new ArrayList&lt;Predicate>();
+    predicates.add(equal("ruleTemplateId",ruleTemplateId));
+    predicates.add(in("docTypeName", documentTypes));
+    predicates.add(equal("active", Boolean.TRUE));
+    predicates.add(equal("delegateRule",Boolean.FALSE));
+    predicates.add(equal("templateRuleInd",Boolean.FALSE));
+
+    if (effectiveDate != null) {
+        predicates.add(lessThanOrEqual("activationDate",effectiveDate));
+        predicates.add(greaterThanOrEqual("deactivationDate", effectiveDate));
+    }
+
+    List&lt;Predicate> datePredicateList = generateFromToDatePredicate(new Date());
+    Predicate[] datePreds = generateFromToDatePredicate(new Date()).toArray(new Predicate[datePredicateList.size()]);
+    predicates.add(and(datePreds));
+    Predicate[] preds = predicates.toArray(new Predicate[predicates.size()]);
+    builder.setPredicates(preds);
+    QueryResults&lt;RuleBaseValues> results = getDataObjectService().findMatching(RuleBaseValues.class, builder.build());
+
+    return results.getResults();
+}
+
+public List&lt;Predicate> generateFromToDatePredicate(Date date){
+    List&lt;Predicate> datePredicates = new ArrayList&lt;Predicate>();
+
+    Predicate orFromDateValue = or(lessThanOrEqual("fromDateValue",new Timestamp(date.getTime())), isNull("fromDateValue"));
+    Predicate orToDateValue = or(greaterThanOrEqual("toDateValue",new Timestamp(date.getTime())), isNull("toDateValue"));
+
+    datePredicates.add(orFromDateValue);
+    datePredicates.add(orToDateValue);
+
+    return datePredicates;
+}</programlisting>
+                <emphasis role="bold">Using JPA Criteria API</emphasis>
+                <programlisting>// Using JPA Criteria Builder
+
+public List&lt;RuleBaseValues> search(String docTypeName, String ruleId, String ruleTemplateId, String ruleDescription, String groupId,
+        String principalId, Boolean delegateRule, Boolean activeInd, Map extensionValues, String workflowIdDirective) {
+    CriteriaBuilder cb = getEntityManager().getCriteriaBuilder();
+    CriteriaQuery&lt;RuleBaseValues> cq = cb.createQuery(RuleBaseValues.class);
+    Root&lt;RuleBaseValues> root = cq.from(RuleBaseValues.class);
+    List&lt;javax.persistence.criteria.Predicate> predicates = getSearchCriteria(root, cq, docTypeName, ruleTemplateId,
+        ruleDescription, delegateRule, activeInd, extensionValues);
+
+    if (ruleId != null) {
+        predicates.add(cb.equal(root.get("id"),ruleId));
+    }
+
+    if (groupId != null) {
+        predicates.add(cb.in(root.get("id")).value(getRuleResponsibilitySubQuery(groupId, cq)));
+    }
+
+    Collection&lt;String> kimGroupIds = new HashSet&lt;String>();
+    Boolean searchUser = Boolean.FALSE;
+    Boolean searchUserInWorkgroups = Boolean.FALSE;
+        
+    if ("group".equals(workflowIdDirective)) {
+        searchUserInWorkgroups = Boolean.TRUE;
+    } else if (StringUtils.isBlank(workflowIdDirective)) {
+        searchUser = Boolean.TRUE;
+        searchUserInWorkgroups = Boolean.TRUE;
+    } else {
+        searchUser = Boolean.TRUE;
+    }
+        
+    if (!org.apache.commons.lang.StringUtils.isEmpty(principalId) &amp;&amp; searchUserInWorkgroups) {
+        Principal principal = KimApiServiceLocator.getIdentityService().getPrincipal(principalId);
+
+        if (principal == null) {
+            throw new RiceRuntimeException("Failed to locate user for the given principal id: " + principalId);
+        }
+
+        kimGroupIds = KimApiServiceLocator.getGroupService().getGroupIdsByPrincipalId(principalId);
+    }
+
+    Subquery&lt;RuleResponsibilityBo> subquery
+        = addResponsibilityCriteria(cq,kimGroupIds, principalId, searchUser, searchUserInWorkgroups);
+
+    if (subquery != null){
+        predicates.add(cb.in(root.get("id")).value(subquery));
+    }
+
+    cq.distinct(true);
+    javax.persistence.criteria.Predicate[] preds = predicates.toArray(new javax.persistence.criteria.Predicate[predicates.size()]);
+    cq.where(preds);
+    TypedQuery&lt;RuleBaseValues> q = getEntityManager().createQuery(cq);
+
+    return q.getResultList();
+}
+
+private Subquery&lt;RuleResponsibilityBo> getRuleResponsibilitySubQuery(String ruleRespName, CriteriaQuery&lt;RuleBaseValues> query) {
+    CriteriaBuilder cb = getEntityManager().getCriteriaBuilder();
+    Subquery&lt;RuleResponsibilityBo> subquery = query.subquery(RuleResponsibilityBo.class);
+    Root fromResp = subquery.from(RuleResponsibilityBo.class);
+    subquery.where(cb.equal(fromResp.get("ruleResponsibilityName"),ruleRespName));
+    subquery.select(fromResp.get("ruleBaseValuesId"));
+
+    return subquery;
+}</programlisting>
+                <emphasis role="bold">Miscellaneous JPA information </emphasis>
+                <tip>
+                    <para>
+                        <programlisting>//Relationship foreign key updating can go wrong if missing
+//"nullable" on JoinColumn.  It can insert null into the column instead of
+//the actual value of the foreign entity key
+
+public class RouteNodeInstance implements Serializable {
+    @ManyToOne
+    @JoinColumn(name="RTE_NODE_ID", <emphasis role="bold">nullable = false</emphasis>)
+    private RouteNode routeNode;
+}
+                      </programlisting>
+                    </para>
+                </tip>
+            </para>
+        </section>
+        <section>
+          <title>Sequences</title>
+          <para>
+              For automatically generating values for identifier fields, JPA provides <emphasis role="keyword">@GeneratedValue</emphasis>
+              to place on any field or method.  While this works for many databases like Oracle that have their own concepts
+              of sequence objects, some databases like MySQL do not have sequence objects and need additional support.
+              Kuali Rice uses the standard of "sequence tables" in MySQL that use the MyISAM auto increment feature to
+              simulate sequences.  This has prompted the creation of <emphasis role="keyword">@PortableSequenceGenerator</emphasis>
+              to work alongside <emphasis role="keyword">@GeneratedValue</emphasis> to provide automatic application support
+              for both Oracle and MySQL.
+          </para>
+          <para>
+              To use this feature, place it with any <emphasis role="keyword">@GeneratedValue</emphasis> annotation.
+              <programlisting>@PortableSequenceGenerator(name = "TABLE_S")
+@GeneratedValue(generator = "TABLE_S")
+@Id
+@Column(name = "TABLE_ID")
+private String id;</programlisting>
+              In this example, <emphasis role="keyword">TABLE_S</emphasis> is the name of the portable sequence generator,
+              and by default, it is taken as the sequence name in the database.  In order to specify a separate generator
+              name from the database sequence name, use the <emphasis role="keyword">name</emphasis> attribute for the
+              generator name instead and add the <emphasis role="keyword">sequenceName</emphasis> attribute for the database
+              sequence name.  Also, the generator can be configured to start at a specified value by using <emphasis role="keyword">initialValue</emphasis>.
+              By default, it starts at 1000.
+              <programlisting>@PortableSequenceGenerator(name = "TABLE_S_GEN", sequenceName = "TABLE_S", initialValue = 1)
+@GeneratedValue(generator = "TABLE_S")
+@Id
+@Column(name = "TABLE_ID")
+private String id;</programlisting>
+          </para>
+          <para>
+              Some situations call for being able to access the sequences in Spring beans.  The <emphasis role="keyword">MaxValueIncrementerFactoryBean</emphasis>
+              allows for this.  These sequences can then be used in situations where automatically placing them on data
+              objects is not possible or desirable.
+              <programlisting>&lt;bean id="tableIncrementer" class="org.kuali.rice.krad.data.platform.MaxValueIncrementerFactoryBean">
+  &lt;property name="dataSource" ref="dataSource" />
+  &lt;property name="incrementerName" value="TABLE_S" />
+&lt;/bean></programlisting>
+              This returns a <emphasis role="keyword">DataFieldMaxValueIncrementer</emphasis> which can be used to access
+              the next values of the sequence, either through <emphasis role="keyword">nextIntValue</emphasis>, <emphasis role="keyword">nextLongValue</emphasis>,
+              or <emphasis role="keyword">nextStringValue</emphasis>.
+          </para>
+        </section>
+        <section>
+            <title>Entity Attribute Converters</title>
+            <para>
+                Entity Attribute Converters - Converts the current state of the entity attribute value
+                into a data store representation and back again.
+            </para>
+            <note>
+              <para>
+                When the KradEclipseLinkEntityManagerFactoryBean or the KradEntityManagerFactoryBean classes
+                are used the Kuali Rice entity attribute converters are automatically registered within the
+                persistence context.
+              </para>
+            </note>
+
+            <para><emphasis role="bold">Auto Apply</emphasis></para>
+            <para>
+                The autoApply attribute of a converter may be set to 'true' or 'false'.  When set to true
+                the JPA provider will use the converter to convert all entity attributes of the given type.
+                If autoApply is set to false then a javax.persistence.Convert annotation will need to be added
+                to all attributes that shall be converted, along with the Converter class.
+            </para>
+            <para>Converters are typically specified on a mapping using the @Convert annotation</para>
+            <programlisting>
+@Entity
+public class Channel {
+...
+@Convert(converter = BooleanTFConverter.class)
+@Column(name = "SUBSCRB_IND", nullable = false)
+private boolean subscribable;
+...
+}
+            </programlisting>
+            <para> The current attribute converters available in Kuali Rice: <table frame="all" tabstyle="striped" pgwide="1">
+                <title>Kuali Rice Standard Converters</title>
+                <tgroup cols="3">
+                    <colspec colnum="1" colname="name" colwidth="2.5*" align="left"/>
+                    <colspec colnum="2" colname="desc" colwidth="6.0*" align="left"/>
+                    <colspec colnum="3" colname="autoApply" colwidth="1.0*" align="center"/>
+                    <thead>
+                        <row>
+                            <entry>JPA Field Converter Class</entry>
+                            <entry>Description</entry>
+                            <entry>Auto Apply</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>
+                              <link xlink:show="new"
+                                    xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/BooleanYNConverter.html">
+                                BooleanYNConverter
+                              </link>
+                            </entry>
+                          <entry>Converts java.lang.Boolean True or False values
+                              to java.lang.String characters 'Y' or 'N' to be
+                              persisted to the data store.  Data store values are
+                              converted back to java.lang.Boolean True or False when
+                              injected back into a data object.</entry>
+                            <entry>YES</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/Boolean01BigDecimalConverter.html">Boolean01BigDecimalConverter</link></entry>
+                            <entry>Converts java.lang.Boolean True or False values to java.math.BigDecimal
+                              to be persisted to the data store.  Data store values
+                              are converted back to java.lang.Boolean True or False values when injected
+                              back into a data object.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/Boolean01Converter.html">Boolean01Converter</link></entry>
+                            <entry>Converts java.lang.Boolean True or False values to
+                                java.math.BigInteger to be persisted to the data store.
+                                Data store values are converted back to
+                                java.lang.Boolean True or False values when injected
+                                back into a data object.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/BooleanAIConverter.html">BooleanAIConverter</link></entry>
+                            <entry>Converts java.lang.Boolean True or False to
+                                java.lang.String characters 'A' or 'I' (A - active,
+                                I - inactive) to be persisted to the data store.
+                                Data store values are converted back to
+                                java.lang.Boolean True or False values when injected
+                                back into a data object.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/BooleanTFConverter.html">BooleanTFConverter</link></entry>
+                            <entry>Converts java.lang.Boolean True or False
+                                to java.lang.String characters 'T' or 'F'
+                                (T - true, F - false) to be persisted to the
+                                data store.  Data store values are converted back
+                                to java.lang.Boolean True or False values when
+                                injected back into a data object.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/EncryptionConverter.html">EncryptionConverter</link></entry>
+                            <entry>Calls the core service to encrypt/decrypt
+                              values being persisted to and from the data store.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/HashConverter.html">HashConverter</link></entry>
+                            <entry>Calls the core service to hash values
+                              being persisted to the data store.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/InverseBooleanYNConverter.html">InverseBooleanYNConverter</link></entry>
+                            <entry>Converts the java.lang.Boolean True or
+                              False value to it's inverse java.lang.String
+                              character representation to be persisted to the data store.
+                              Data store values are converted back to their inverse
+                              java.lang.Boolean True or False values when injected
+                              back into a data object.</entry>
+                            <entry>NO</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/KualiDecimalConverter.html">KualiDecimalConverter</link></entry>
+                            <entry>Converts KualiDecimal values to BigDecimals
+                              to be persisted to the datasource.  Data store
+                              values are converted back to KualiDecimals when
+                              injected back into a data object.</entry>
+                            <entry>YES</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/KualiIntegerConverter.html">KualiIntegerConverter</link></entry>
+                            <entry>Converts KualiIntegers to java.lang.Longs
+                              to be persisted to the data store.  Data store
+                              values are converted back to KualiIngeters when
+                              injected back into a data object.</entry>
+                            <entry>YES</entry>
+                        </row>
+                        <row>
+                            <entry><link xlink:show="new" xlink:href="http://site.kuali.org/rice/${project.version}/apidocs/org/kuali/rice/krad/data/jpa/converters/KualiPercentConverter.html">KualiPercentConverter</link></entry>
+                            <entry>converts KualiPercents to java.math.BigDecimal
+                              to be persisted to the data store.  Data store
+                              values are convert back to KualiPercents when
+                              injected back into a data object.</entry>
+                            <entry>YES</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></para>
+        </section>
+        </section>
+<!-- TODO
+    <section>
+        <title> The Business Object Service </title>
+        <para></para>
+    </section>
+    <section>
+        <title> Building DAOs and using Spring Templates </title>
+        <para></para>
+    </section>
+    <section>
+        <title> Persistence Metadata </title>
+        <para></para>
+    </section>
+-->    
+</chapter>

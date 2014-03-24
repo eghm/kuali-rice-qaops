@@ -1,0 +1,80 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/kew/framework/src/main/java/org/kuali/rice/kew/framework
+https://svn.kuali.org/repos/rice
+
+
+
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+postprocessor
+dir
+
+rule
+dir
+
+actionlist
+dir
+
+KewFrameworkServiceLocator.java
+file
+
+
+
+
+2014-01-09T01:34:28.000000Z
+969d1535fb8068e9d3e28aec546dced9
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3921
+
+validation
+dir
+
+peopleflow
+dir
+
+document
+dir
+

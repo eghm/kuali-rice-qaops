@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44417/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test
+END
+KEWTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/KEWTestCase.java
+END
+TestSpringLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/TestSpringLifecycle.java
+END
+FakeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/FakeService.java
+END
+FakeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/FakeServiceImpl.java
+END
+TestMessageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/TestMessageBean.java
+END
+TestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/TestUtilities.java
+END
+OjbBeanTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/OjbBeanTestCase.java
+END
+TestConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/test/TestConstants.java
+END

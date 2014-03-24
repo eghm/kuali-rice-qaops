@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/45524/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness
+END
+DemoClientResponsivenessAjaxFieldQueryAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness/DemoClientResponsivenessAjaxFieldQueryAft.java
+END
+DemoClientResponsivenessComponentRefreshAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/rice/!svn/ver/45524/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness/DemoClientResponsivenessComponentRefreshAft.java
+END
+DemoClientResponsivenessConditionalRefreshAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness/DemoClientResponsivenessConditionalRefreshAft.java
+END
+DemoClientResponsivenessDisableAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/rice/!svn/ver/45404/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness/DemoClientResponsivenessDisableAft.java
+END
+DemoClientResponsivenessEventsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness/DemoClientResponsivenessEventsAft.java
+END
+DemoClientResponsivenessProgressiveDisclosureAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/rice/!svn/ver/45264/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/clientresponsiveness/DemoClientResponsivenessProgressiveDisclosureAft.java
+END

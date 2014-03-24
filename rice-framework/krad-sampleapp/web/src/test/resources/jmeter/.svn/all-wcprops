@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/45033/trunk/rice-framework/krad-sampleapp/web/src/test/resources/jmeter
+END
+KRAD.jmx.off
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44875/trunk/rice-framework/krad-sampleapp/web/src/test/resources/jmeter/KRAD.jmx.off
+END
+KRAD-JMeter.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43993/trunk/rice-framework/krad-sampleapp/web/src/test/resources/jmeter/KRAD-JMeter.ftl
+END
+KRAD.csv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44951/trunk/rice-framework/krad-sampleapp/web/src/test/resources/jmeter/KRAD.csv
+END

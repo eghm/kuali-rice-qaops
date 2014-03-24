@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44900/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity
+END
+IdentityRoleBlanketAppBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityRoleBlanketAppBkMrkAft.java
+END
+IdentityPersonCreateNewBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonCreateNewBkMrkAft.java
+END
+IdentityPersonBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonBkMrkAft.java
+END
+IdentityPermissionNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPermissionNavAft.java
+END
+IdentityRoleBlanketAppAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityRoleBlanketAppAftBase.java
+END
+IdentityPersonLookUpEditAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44900/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonLookUpEditAftBase.java
+END
+PersonNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/PersonNavAft.java
+END
+IdentityPersonBlanketAppAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonBlanketAppAftBase.java
+END
+IdentityGroupBlanketAppNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityGroupBlanketAppNavAft.java
+END
+IdentityPersonGroupRoleAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44900/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonGroupRoleAft.java
+END
+IdentityResponsibilityBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityResponsibilityBkMrkAft.java
+END
+IdentityRoleBlanketAppNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityRoleBlanketAppNavAft.java
+END
+IdentityPersonCreateNewNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonCreateNewNavAft.java
+END
+GroupBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/GroupBkMrkAft.java
+END
+PermissionAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/PermissionAftBase.java
+END
+IdentityResponsibilityAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44654/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityResponsibilityAftBase.java
+END
+IdentityPersonNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonNavAft.java
+END
+IdentityPermissionBlanketAppBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPermissionBlanketAppBkMrkAft.java
+END
+IdentityPermissionAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44681/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPermissionAftBase.java
+END
+IdentityGroupBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityGroupBkMrkAft.java
+END
+IdentityResponsibilityNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityResponsibilityNavAft.java
+END
+PersonAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/PersonAftBase.java
+END
+GroupNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/GroupNavAft.java
+END
+IdentityRoleBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityRoleBkMrkAft.java
+END
+IdentityGroupBlanketAppAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityGroupBlanketAppAftBase.java
+END
+IdentityRoleAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityRoleAftBase.java
+END
+IdentityPersonLookUpEditBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonLookUpEditBkMrkAft.java
+END
+IdentityPermissionBlanketAppNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPermissionBlanketAppNavAft.java
+END
+IdentityPersonBlanketAppBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonBlanketAppBkMrkAft.java
+END
+IdentityPersonCreateNewAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44720/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonCreateNewAftBase.java
+END
+IdentityGroupNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityGroupNavAft.java
+END
+IdentityPersonAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonAftBase.java
+END
+PermissionBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/PermissionBkMrkAft.java
+END
+IdentityRoleNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityRoleNavAft.java
+END
+IdentityResponsibilityBlanketAppBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityResponsibilityBlanketAppBkMrkAft.java
+END
+IdentityPersonLookUpEditNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonLookUpEditNavAft.java
+END
+IdentityResponsibilityBlanketAppAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityResponsibilityBlanketAppAftBase.java
+END
+IdentityPersonBlanketAppNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPersonBlanketAppNavAft.java
+END
+GroupAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/GroupAftBase.java
+END
+IdentityPermissionBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPermissionBkMrkAft.java
+END
+PermissionNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/PermissionNavAft.java
+END
+PersonBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/PersonBkMrkAft.java
+END
+IdentityGroupBlanketAppBkMrkAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityGroupBlanketAppBkMrkAft.java
+END
+IdentityPermissionBlanketAppAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityPermissionBlanketAppAftBase.java
+END
+IdentityResponsibilityBlanketAppNavAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityResponsibilityBlanketAppNavAft.java
+END
+IdentityGroupAftBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44483/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/kim/api/identity/IdentityGroupAftBase.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test
+END
+DefaultSuiteTestData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/DefaultSuiteTestData.sql
+END
+DefaultSuiteTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/DefaultSuiteTestData.xml
+END
+KRADOverrideTestSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44308/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/KRADOverrideTestSpringBeans.xml
+END

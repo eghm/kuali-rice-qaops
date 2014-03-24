@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/test
+END
+DefaultPerTestData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/test/DefaultPerTestData.sql
+END
+DefaultPerTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/test/DefaultPerTestData.xml
+END
+DefaultSuiteTestData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/test/DefaultSuiteTestData.sql
+END
+DefaultSuiteTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/test/DefaultSuiteTestData.xml
+END
+OneTimeDefaultTestData.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/test/OneTimeDefaultTestData.sql
+END

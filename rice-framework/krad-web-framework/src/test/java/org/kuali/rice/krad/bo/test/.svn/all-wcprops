@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/test
+END
+TestEBOInterfaceSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/test/TestEBOInterfaceSub.java
+END
+TestEBOInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/test/TestEBOInterface.java
+END
+TestEBOConcrete.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/test/TestEBOConcrete.java
+END
+TestEBOAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/test/TestEBOAbstract.java
+END

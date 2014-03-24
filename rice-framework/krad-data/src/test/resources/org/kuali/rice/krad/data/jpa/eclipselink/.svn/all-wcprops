@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/resources/org/kuali/rice/krad/data/jpa/eclipselink
+END
+KradEclipseLinkEntityManagerFactoryBeanTest_Minimal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/resources/org/kuali/rice/krad/data/jpa/eclipselink/KradEclipseLinkEntityManagerFactoryBeanTest_Minimal.xml
+END
+TestMappingResource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/resources/org/kuali/rice/krad/data/jpa/eclipselink/TestMappingResource.xml
+END
+KradEclipseLinkEntityManagerFactoryBeanTest_Jta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/resources/org/kuali/rice/krad/data/jpa/eclipselink/KradEclipseLinkEntityManagerFactoryBeanTest_Jta.xml
+END
+KradEclipseLinkEntityManagerFactoryBeanTest_LoadTimeWeaving.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/resources/org/kuali/rice/krad/data/jpa/eclipselink/KradEclipseLinkEntityManagerFactoryBeanTest_LoadTimeWeaving.xml
+END
+KradEclipseLinkEntityManagerFactoryBeanTest_Full.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/resources/org/kuali/rice/krad/data/jpa/eclipselink/KradEclipseLinkEntityManagerFactoryBeanTest_Full.xml
+END

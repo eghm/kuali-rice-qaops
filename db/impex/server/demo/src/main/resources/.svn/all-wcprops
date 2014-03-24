@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources
+END
+BK_ADDRESS_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_ADDRESS_TYP_T.xml
+END
+TRV_DOC_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/TRV_DOC_2.xml
+END
+TRVL_TRAVELER_DTL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/42815/trunk/db/impex/server/demo/src/main/resources/TRVL_TRAVELER_DTL_T.xml
+END
+KRIM_ENT_NM_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ENT_NM_TYP_T.xml
+END
+data.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/rice/!svn/ver/45200/trunk/db/impex/server/demo/src/main/resources/data.dtd
+END
+KRCR_NMSPC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRCR_NMSPC_T.xml
+END
+KREW_USR_OPTN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_USR_OPTN_T.xml
+END
+KRIM_ENTITY_EMAIL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ENTITY_EMAIL_T.xml
+END
+BK_BOOK_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_BOOK_T.xml
+END
+KREN_PRODCR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_PRODCR_T.xml
+END
+KRIM_PERM_ATTR_DATA_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_PERM_ATTR_DATA_T.xml
+END
+KRIM_GRP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_GRP_T.xml
+END
+KRMS_AGENDA_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_AGENDA_T.xml
+END
+TRVL_EXP_ITM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/TRVL_EXP_ITM_T.xml
+END
+KREN_RECIP_LIST_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_RECIP_LIST_T.xml
+END
+KRNS_MAINT_LOCK_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42281/trunk/db/impex/server/demo/src/main/resources/KRNS_MAINT_LOCK_T.xml
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/45477/trunk/db/impex/server/demo/src/main/resources/schema.xml
+END
+KRNS_NTE_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRNS_NTE_TYP_T.xml
+END
+TRV_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42281/trunk/db/impex/server/demo/src/main/resources/TRV_ACCT.xml
+END
+KREN_RVWER_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_RVWER_T.xml
+END
+KRMS_CNTXT_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CNTXT_ATTR_T.xml
+END
+TRVL_PD_EXP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/TRVL_PD_EXP_T.xml
+END
+KRIM_ATTR_DEFN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ATTR_DEFN_T.xml
+END
+BK_BOOK_AUTHOR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_BOOK_AUTHOR_T.xml
+END
+KRIM_TYP_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_TYP_ATTR_T.xml
+END
+KREW_RULE_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_ATTR_T.xml
+END
+BK_AUTHOR_ACCOUNT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_AUTHOR_ACCOUNT_T.xml
+END
+KRNS_MAINT_DOC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRNS_MAINT_DOC_T.xml
+END
+KREW_RULE_EXPR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_EXPR_T.xml
+END
+KRIM_ENTITY_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ENTITY_T.xml
+END
+KREW_ATTR_DEFN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_ATTR_DEFN_T.xml
+END
+KRNS_DOC_HDR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRNS_DOC_HDR_T.xml
+END
+KREW_RULE_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_T.xml
+END
+KRIM_ENTITY_ENT_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ENTITY_ENT_TYP_T.xml
+END
+KRMS_CNTXT_VLD_TERM_SPEC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CNTXT_VLD_TERM_SPEC_T.xml
+END
+KRMS_ATTR_DEFN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/41263/trunk/db/impex/server/demo/src/main/resources/KRMS_ATTR_DEFN_T.xml
+END
+BK_BOOK_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_BOOK_TYP_T.xml
+END
+KRMS_TERM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TERM_T.xml
+END
+KRMS_RULE_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_RULE_T.xml
+END
+KREN_CHNL_SUBSCRP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_CHNL_SUBSCRP_T.xml
+END
+KRIM_ENT_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ENT_TYP_T.xml
+END
+KRIM_EMAIL_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_EMAIL_TYP_T.xml
+END
+KRIM_ROLE_PERM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_ROLE_PERM_T.xml
+END
+KRIM_ROLE_RSP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_ROLE_RSP_T.xml
+END
+KREW_EDL_DEF_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_EDL_DEF_T.xml
+END
+KREW_DOC_TYP_PROC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/45477/trunk/db/impex/server/demo/src/main/resources/KREW_DOC_TYP_PROC_T.xml
+END
+KRIM_PRNCPL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_PRNCPL_T.xml
+END
+KRCR_PARM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRCR_PARM_T.xml
+END
+KRMS_ACTN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_ACTN_T.xml
+END
+KRCR_STYLE_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRCR_STYLE_T.xml
+END
+KRIM_RSP_TMPL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_RSP_TMPL_T.xml
+END
+TRV_ACCT_TYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/43547/trunk/db/impex/server/demo/src/main/resources/TRV_ACCT_TYPE.xml
+END
+KRIM_ROLE_MBR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ROLE_MBR_T.xml
+END
+KRMS_CTGRY_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CTGRY_T.xml
+END
+KREW_RTE_NODE_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/45477/trunk/db/impex/server/demo/src/main/resources/KREW_RTE_NODE_T.xml
+END
+KRIM_ENTITY_NM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ENTITY_NM_T.xml
+END
+KREW_DOC_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KREW_DOC_TYP_T.xml
+END
+KRLC_CMP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRLC_CMP_T.xml
+END
+TRVL_MLG_RT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/TRVL_MLG_RT_T.xml
+END
+KRMS_PROP_PARM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_PROP_PARM_T.xml
+END
+KREW_RULE_TMPL_OPTN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_TMPL_OPTN_T.xml
+END
+KRIM_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_TYP_T.xml
+END
+KRIM_EMP_STAT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_EMP_STAT_T.xml
+END
+KRIM_EMP_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_EMP_TYP_T.xml
+END
+KREN_CNTNT_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_CNTNT_TYP_T.xml
+END
+KRCR_CMPNT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42508/trunk/db/impex/server/demo/src/main/resources/KRCR_CMPNT_T.xml
+END
+KREN_CHNL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_CHNL_T.xml
+END
+KREW_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_TYP_T.xml
+END
+KREN_RECIP_DELIV_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_RECIP_DELIV_T.xml
+END
+KREW_EDL_ASSCTN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_EDL_ASSCTN_T.xml
+END
+KRMS_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TYP_T.xml
+END
+TRVL_CO_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/TRVL_CO_T.xml
+END
+KRLC_CNTRY_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRLC_CNTRY_T.xml
+END
+KRCR_PARM_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRCR_PARM_TYP_T.xml
+END
+KRMS_PROP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_PROP_T.xml
+END
+KRCR_CMPNT_SET_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRCR_CMPNT_SET_T.xml
+END
+BK_AUTHOR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_AUTHOR_T.xml
+END
+KREW_RULE_EXT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_EXT_T.xml
+END
+KRMS_CMPND_PROP_PROPS_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CMPND_PROP_PROPS_T.xml
+END
+KREW_RULE_EXT_VAL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_EXT_VAL_T.xml
+END
+KRCR_DRVD_CMPNT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRCR_DRVD_CMPNT_T.xml
+END
+KRIM_ROLE_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_ROLE_T.xml
+END
+KRMS_CNTXT_VLD_RULE_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CNTXT_VLD_RULE_TYP_T.xml
+END
+KRMS_TERM_RSLVR_PARM_SPEC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TERM_RSLVR_PARM_SPEC_T.xml
+END
+KRIM_PERM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_PERM_T.xml
+END
+KRLC_CMP_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRLC_CMP_TYP_T.xml
+END
+KREN_PRIO_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_PRIO_T.xml
+END
+KRSB_QRTZ_LOCKS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRSB_QRTZ_LOCKS.xml
+END
+KRIM_EXT_ID_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_EXT_ID_TYP_T.xml
+END
+KREW_RTE_NODE_LNK_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/45187/trunk/db/impex/server/demo/src/main/resources/KREW_RTE_NODE_LNK_T.xml
+END
+KRMS_TERM_RSLVR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TERM_RSLVR_T.xml
+END
+TRVL_AUTH_DOC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/TRVL_AUTH_DOC_T.xml
+END
+KREW_TYP_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_TYP_ATTR_T.xml
+END
+TRAV_DOC_2_ACCOUNTS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/TRAV_DOC_2_ACCOUNTS.xml
+END
+KREW_DOC_TYP_PLCY_RELN_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_DOC_TYP_PLCY_RELN_T.xml
+END
+BK_ADDRESS_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/BK_ADDRESS_T.xml
+END
+KRLC_ST_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRLC_ST_T.xml
+END
+KRMS_CNTXT_VLD_ACTN_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CNTXT_VLD_ACTN_TYP_T.xml
+END
+KRMS_TYP_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TYP_ATTR_T.xml
+END
+KREW_RTE_BRCH_PROTO_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RTE_BRCH_PROTO_T.xml
+END
+TRVL_DEST_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/TRVL_DEST_T.xml
+END
+KRIM_RSP_ATTR_DATA_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_RSP_ATTR_DATA_T.xml
+END
+KRIM_GRP_MBR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_GRP_MBR_T.xml
+END
+KREN_CHNL_PRODCR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREN_CHNL_PRODCR_T.xml
+END
+KRMS_TERM_SPEC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TERM_SPEC_T.xml
+END
+KRIM_PERM_TMPL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_PERM_TMPL_T.xml
+END
+KRIM_AFLTN_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_AFLTN_TYP_T.xml
+END
+KRMS_TERM_PARM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_TERM_PARM_T.xml
+END
+KREW_RULE_RSP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_RSP_T.xml
+END
+KREW_DOC_TYP_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_DOC_TYP_ATTR_T.xml
+END
+KRMS_AGENDA_ITM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_AGENDA_ITM_T.xml
+END
+KREW_RULE_TMPL_ATTR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_TMPL_ATTR_T.xml
+END
+KREW_RTE_NODE_CFG_PARM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/45477/trunk/db/impex/server/demo/src/main/resources/KREW_RTE_NODE_CFG_PARM_T.xml
+END
+KRIM_RSP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/45519/trunk/db/impex/server/demo/src/main/resources/KRIM_RSP_T.xml
+END
+KRIM_PHONE_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_PHONE_TYP_T.xml
+END
+KRIM_ADDR_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRIM_ADDR_TYP_T.xml
+END
+KREW_RULE_TMPL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KREW_RULE_TMPL_T.xml
+END
+TRV_SUB_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/43234/trunk/db/impex/server/demo/src/main/resources/TRV_SUB_ACCT.xml
+END
+KRMS_CNTXT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CNTXT_T.xml
+END
+KRMS_CNTXT_VLD_AGENDA_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/37666/trunk/db/impex/server/demo/src/main/resources/KRMS_CNTXT_VLD_AGENDA_TYP_T.xml
+END
+database.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44098/trunk/db/impex/server/demo/src/main/resources/database.dtd
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif
+END
+KeyLabeled.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/KeyLabeled.java
+END
+RemotableRadioButtonGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableRadioButtonGroup.java
+END
+RemotableAttributeErrorContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAttributeErrorContract.java
+END
+RemotableSelectContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableSelectContract.java
+END
+RemotableAttributeError.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAttributeError.java
+END
+RemotableAttributeLookupSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAttributeLookupSettings.java
+END
+RemotableControlContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableControlContract.java
+END
+RemotableSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableSelect.java
+END
+RowsCols.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RowsCols.java
+END
+RemotableWidgetContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableWidgetContract.java
+END
+RemotablePasswordInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotablePasswordInput.java
+END
+WidgetCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/WidgetCopy.java
+END
+AttributeLookupSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/AttributeLookupSettings.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/package-info.java
+END
+RemotableQuickFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableQuickFinder.java
+END
+RemotableAbstractControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAbstractControl.java
+END
+RemotableTextInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableTextInput.java
+END
+RemotableAttributeFieldContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAttributeFieldContract.java
+END
+RemotableAbstractWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAbstractWidget.java
+END
+RemotableAttributeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableAttributeField.java
+END
+Watermarked.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/Watermarked.java
+END
+RemotableDatepicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableDatepicker.java
+END
+RemotableHiddenInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableHiddenInput.java
+END
+RemotableTextarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableTextarea.java
+END
+ControlCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/ControlCopy.java
+END
+Sized.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/Sized.java
+END
+RemotableTextExpand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableTextExpand.java
+END
+RemotableCheckbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableCheckbox.java
+END
+RemotableSelectGroupContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableSelectGroupContract.java
+END
+AttributeLookupConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/AttributeLookupConfiguration.java
+END
+RemotableSelectGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableSelectGroup.java
+END
+RemotableCheckboxGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api/uif/RemotableCheckboxGroup.java
+END

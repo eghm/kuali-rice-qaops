@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config
+END
+_KRMSCommonSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/_KRMSCommonSpringBeans.xml
+END
+OJB-repository-krms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/OJB-repository-krms.xml
+END
+_KRMSOjbSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/_KRMSOjbSpringBeans.xml
+END
+_KRMSJpaSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/_KRMSJpaSpringBeans.xml
+END
+KRMSLocalSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/KRMSLocalSpringBeans.xml
+END
+KRMSRemoteSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/KRMSRemoteSpringBeans.xml
+END
+krms.ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/krms.ehcache.xml
+END
+_KRMSLocalServiceBusSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/resources/org/kuali/rice/krms/config/_KRMSLocalServiceBusSpringBeans.xml
+END

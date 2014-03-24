@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif
+END
+RemotablePasswordInputTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotablePasswordInputTest.groovy
+END
+RemotableCheckboxGroupTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableCheckboxGroupTest.groovy
+END
+RemotableQuickFinderTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableQuickFinderTest.groovy
+END
+RemotableTextExpandTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableTextExpandTest.groovy
+END
+RemotableTextInputTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableTextInputTest.groovy
+END
+RemotableCheckboxTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableCheckboxTest.groovy
+END
+RemotableAttributeFieldTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableAttributeFieldTest.groovy
+END
+RemotableRadioButtonGroupTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableRadioButtonGroupTest.groovy
+END
+RemotableDatepickerTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableDatepickerTest.groovy
+END
+RemotableHiddenInputTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableHiddenInputTest.groovy
+END
+RemotableSelectGroupTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableSelectGroupTest.groovy
+END
+RemotableAttributeErrorTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableAttributeErrorTest.groovy
+END
+RemotableTextareaTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableTextareaTest.groovy
+END
+RemotableSelectTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/uif/RemotableSelectTest.groovy
+END

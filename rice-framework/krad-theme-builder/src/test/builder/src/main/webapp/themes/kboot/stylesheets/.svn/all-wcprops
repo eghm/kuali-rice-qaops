@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/themes/kboot/stylesheets
+END
+two.css
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/themes/kboot/stylesheets/two.css
+END
+one.css
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/themes/kboot/stylesheets/one.css
+END
+reset.css
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/test/builder/src/main/webapp/themes/kboot/stylesheets/reset.css
+END

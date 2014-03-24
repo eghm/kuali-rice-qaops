@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn
+END
+DistributedSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/DistributedSession.java
+END
+SessionIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/SessionIdGenerator.java
+END

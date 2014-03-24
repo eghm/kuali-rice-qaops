@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule
+END
+GenericPermissionMaintenanceDocumentRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule/GenericPermissionMaintenanceDocumentRule.java
+END
+IdentityManagementRoleDocumentRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule/IdentityManagementRoleDocumentRule.java
+END
+IdentityManagementPersonDocumentRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule/IdentityManagementPersonDocumentRule.java
+END
+ActiveRoleMemberHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule/ActiveRoleMemberHelper.java
+END
+IdentityManagementGroupDocumentRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule/IdentityManagementGroupDocumentRule.java
+END
+AttributeValidationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/document/rule/AttributeValidationHelper.java
+END

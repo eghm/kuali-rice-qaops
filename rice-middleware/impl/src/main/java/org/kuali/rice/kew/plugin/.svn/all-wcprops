@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin
+END
+PluginConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginConfigParser.java
+END
+PluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginListener.java
+END
+ZipFilePluginLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/ZipFilePluginLoader.java
+END
+PluginClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginClassLoader.java
+END
+PluginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginException.java
+END
+ServerPluginRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/ServerPluginRegistry.java
+END
+PluginUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginUtils.java
+END
+PluginRegistryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginRegistryFactory.java
+END
+BasePluginLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/BasePluginLoader.java
+END
+BasePluginRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/BasePluginRegistry.java
+END
+PluginEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginEnvironment.java
+END
+PluginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginConfig.java
+END
+PluginLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginLoader.java
+END
+PluginRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginRegistry.java
+END
+PluginNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/PluginNameComparator.java
+END
+Reloadable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/Reloadable.java
+END
+Modifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/Modifiable.java
+END
+Reloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/Reloader.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/Plugin.java
+END
+HotDeployer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/plugin/HotDeployer.java
+END

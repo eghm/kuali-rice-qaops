@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/mail/service/impl
+END
+BaseEmailContentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/mail/service/impl/BaseEmailContentServiceImpl.java
+END
+ActionListEmailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/mail/service/impl/ActionListEmailServiceImpl.java
+END
+CustomizableActionListEmailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/mail/service/impl/CustomizableActionListEmailServiceImpl.java
+END
+ActionListImmediateProcessorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/mail/service/impl/ActionListImmediateProcessorImpl.java
+END
+StyleableEmailContentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/mail/service/impl/StyleableEmailContentServiceImpl.java
+END

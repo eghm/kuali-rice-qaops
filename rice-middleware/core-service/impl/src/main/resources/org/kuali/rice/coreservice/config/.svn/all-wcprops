@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config
+END
+CoreServiceLocalSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/CoreServiceLocalSpringBeans.xml
+END
+CoreServiceRemoteSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/CoreServiceRemoteSpringBeans.xml
+END
+coreService.ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/coreService.ehcache.xml
+END
+OJB-repository-core-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/OJB-repository-core-service.xml
+END
+_CoreServiceCommonSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/_CoreServiceCommonSpringBeans.xml
+END
+_CoreServiceBusSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/_CoreServiceBusSpringBeans.xml
+END
+_CoreServiceJpaSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/_CoreServiceJpaSpringBeans.xml
+END
+_CoreServiceOjbSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/impl/src/main/resources/org/kuali/rice/coreservice/config/_CoreServiceOjbSpringBeans.xml
+END

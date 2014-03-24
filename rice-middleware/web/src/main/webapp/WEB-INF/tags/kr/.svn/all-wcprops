@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr
+END
+fieldShowChangedIcon.tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowChangedIcon.tag
+END
+preserveWhitespace.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/preserveWhitespace.tag
+END
+multipleValueLookupExportBanner.tag
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/multipleValueLookupExportBanner.tag
+END
+auditMode.tag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/auditMode.tag
+END
+page.tag
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/40786/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/page.tag
+END
+subtab.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/subtab.tag
+END
+lockMessages.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/lockMessages.tag
+END
+auditSet.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/auditSet.tag
+END
+hiddenTab.tag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/hiddenTab.tag
+END
+workflowWorkgroupLookup.tag
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/workflowWorkgroupLookup.tag
+END
+backdoor.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/backdoor.tag
+END
+enterKey.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/enterKey.tag
+END
+htmlControlAttribute.tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/htmlControlAttribute.tag
+END
+displayMultipleValueLookupResults.tag
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/displayMultipleValueLookupResults.tag
+END
+directInquiry.tag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/directInquiry.tag
+END
+rowDisplay.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/rowDisplay.tag
+END
+auditRow.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/auditRow.tag
+END
+containerElementSubTabTitle.tag
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/containerElementSubTabTitle.tag
+END
+dateInputNoAttributeEntry.tag
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/dateInputNoAttributeEntry.tag
+END
+containerRowDisplay.tag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/containerRowDisplay.tag
+END
+htmlAttributeHeaderCell.tag
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/htmlAttributeHeaderCell.tag
+END
+documentControls.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/documentControls.tag
+END
+tableRenderPagingBanner.tag
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/tableRenderPagingBanner.tag
+END
+tab.tag
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/tab.tag
+END
+fileSize.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fileSize.tag
+END
+directInquiryClose.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/directInquiryClose.tag
+END
+fieldRadioValues.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldRadioValues.tag
+END
+inquiryControls.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/inquiryControls.tag
+END
+expandedTextArea.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/expandedTextArea.tag
+END
+notes.tag
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/notes.tag
+END
+directInquiryPage.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/directInquiryPage.tag
+END
+tableWrapper.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/tableWrapper.tag
+END
+help.tag
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/help.tag
+END
+htmlAttributeLabel.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/htmlAttributeLabel.tag
+END
+hiddenLabel.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/hiddenLabel.tag
+END
+editablePropertiesGuid.tag
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/editablePropertiesGuid.tag
+END
+inquiry.tag
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/inquiry.tag
+END
+sectionOldNewBar.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/sectionOldNewBar.tag
+END
+pageLookup.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/pageLookup.tag
+END
+checkErrors.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/checkErrors.tag
+END
+documentPage.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/documentPage.tag
+END
+errors.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/errors.tag
+END
+user.tag
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/user.tag
+END
+fieldMultiSelectValues.tag
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldMultiSelectValues.tag
+END
+panelFooter.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/panelFooter.tag
+END
+fieldShowIcons.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowIcons.tag
+END
+hiddenDocumentFields.tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/hiddenDocumentFields.tag
+END
+readonlyfield.tag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/readonlyfield.tag
+END
+fieldShowLookupIcon.tag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowLookupIcon.tag
+END
+tabTop.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/tabTop.tag
+END
+checkTabHighlight.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/checkTabHighlight.tag
+END
+dateInput.tag
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/dateInput.tag
+END
+inquiryPage.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/inquiryPage.tag
+END
+footer.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/footer.tag
+END
+fieldSelectValues.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldSelectValues.tag
+END
+adHocRecipients.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/adHocRecipients.tag
+END
+documentOverview.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/documentOverview.tag
+END
+fieldShowHelpIcon.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowHelpIcon.tag
+END
+fieldShowErrorIcon.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowErrorIcon.tag
+END
+messages.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/messages.tag
+END
+fieldShowDirectInquiryIcon.tag
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowDirectInquiryIcon.tag
+END
+lookup.tag
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/lookup.tag
+END
+superUserActions.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/superUserActions.tag
+END
+displayIfErrors.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/displayIfErrors.tag
+END
+multipleValueLookup.tag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/multipleValueLookup.tag
+END
+fieldShowReadOnly.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowReadOnly.tag
+END
+fieldDefaultLabel.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldDefaultLabel.tag
+END
+routeLog.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/routeLog.tag
+END
+innerTab.tag
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/innerTab.tag
+END
+errorCount.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/errorCount.tag
+END
+auditErrors.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/auditErrors.tag
+END
+fieldShowExpandedTextareaIcon.tag
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kr/fieldShowExpandedTextareaIcon.tag
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/permission
+END
+PermissionServiceImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/permission/PermissionServiceImplTest.groovy
+END
+PermissionAttributeBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/permission/PermissionAttributeBoTest.groovy
+END
+PermissionTemplateBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/permission/PermissionTemplateBoTest.groovy
+END
+PermissionBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/permission/PermissionBoTest.groovy
+END

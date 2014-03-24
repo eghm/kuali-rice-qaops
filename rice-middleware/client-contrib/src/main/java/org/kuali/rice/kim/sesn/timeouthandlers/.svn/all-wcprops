@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/timeouthandlers
+END
+TimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/timeouthandlers/TimeoutHandler.java
+END
+GlobalTimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/timeouthandlers/GlobalTimeoutHandler.java
+END
+AbstractTimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/timeouthandlers/AbstractTimeoutHandler.java
+END
+DisabledTimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/kim/sesn/timeouthandlers/DisabledTimeoutHandler.java
+END

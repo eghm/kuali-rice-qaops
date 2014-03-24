@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl
+END
+KENIntegrationServiceDirectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/KENIntegrationServiceDirectImpl.java
+END
+MessagingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/MessagingServiceImpl.java
+END
+MessageDelivererRegistryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/MessageDelivererRegistryServiceImpl.java
+END
+RecipientPreferenceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/RecipientPreferenceServiceImpl.java
+END
+MessageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/MessageServiceImpl.java
+END
+EmailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/EmailServiceImpl.java
+END
+MessageDeliveryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/service/impl/MessageDeliveryServiceImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform
+END
+DerbyDatabasePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/DerbyDatabasePlatform.java
+END
+MySQLDatabasePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/MySQLDatabasePlatform.java
+END
+OracleDatabasePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/OracleDatabasePlatform.java
+END
+Oracle9iDatabasePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/Oracle9iDatabasePlatform.java
+END
+ANSISqlDatabasePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/ANSISqlDatabasePlatform.java
+END
+DatabasePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/DatabasePlatform.java
+END
+OraclePlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/framework/src/main/java/org/kuali/rice/core/framework/persistence/platform/OraclePlatform.java
+END

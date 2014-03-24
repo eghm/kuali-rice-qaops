@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3%20to%202.4/db-updates-client
+END
+mysql-2013-08-20-travel-data-fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3%20to%202.4/db-updates-client/mysql-2013-08-20-travel-data-fix.sql
+END
+2013-09-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3%20to%202.4/db-updates-client/2013-09-21.sql
+END
+mysql-2013-09-21.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3%20to%202.4/db-updates-client/mysql-2013-09-21.sql
+END
+2013-08-20-travel-data-fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3%20to%202.4/db-updates-client/2013-08-20-travel-data-fix.sql
+END

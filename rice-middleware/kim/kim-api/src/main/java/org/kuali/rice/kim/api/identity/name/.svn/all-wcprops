@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api/identity/name
+END
+StringToKimEntityNameInfoMapAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api/identity/name/StringToKimEntityNameInfoMapAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api/identity/name/package-info.java
+END
+EntityNameQueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api/identity/name/EntityNameQueryResults.java
+END
+EntityNameContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api/identity/name/EntityNameContract.java
+END
+EntityName.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api/identity/name/EntityName.java
+END

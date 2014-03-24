@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates
+END
+2013-08-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-23.sql
+END
+2013-08-14.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-14.sql
+END
+2013-09-05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-09-05.sql
+END
+2013-08-23b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-23b.sql
+END
+2013-08-14b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-14b.sql
+END
+mysql-2013-08-23.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-23.sql
+END
+mysql-2013-08-14.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-14.sql
+END
+2013-08-23c.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-23c.sql
+END
+2013-08-08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-08.sql
+END
+mysql-2013-09-05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-09-05.sql
+END
+2013-08-09.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/2013-08-09.sql
+END
+mysql-2013-08-23b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-23b.sql
+END
+mysql-2013-08-14b.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-14b.sql
+END
+mysql-2013-08-23c.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-23c.sql
+END
+mysql-2013-08-08.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-08.sql
+END
+mysql-2013-08-09.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.3.0%20to%202.3.1/db-updates/mysql-2013-08-09.sql
+END

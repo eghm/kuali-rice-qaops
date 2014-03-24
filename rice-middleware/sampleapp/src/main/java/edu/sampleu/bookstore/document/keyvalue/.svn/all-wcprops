@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/keyvalue
+END
+AddressTypeKeyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/keyvalue/AddressTypeKeyValues.java
+END
+BookKeyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/keyvalue/BookKeyValues.java
+END
+BookTypeKeyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/document/keyvalue/BookTypeKeyValues.java
+END

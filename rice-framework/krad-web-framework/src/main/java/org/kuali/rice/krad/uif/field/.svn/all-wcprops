@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/45248/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field
+END
+SpaceField.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/SpaceField.java
+END
+FieldGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/FieldGroup.java
+END
+LinkField.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/LinkField.java
+END
+InputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44741/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/InputField.java
+END
+DataFieldSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/DataFieldSecurity.java
+END
+DataFieldBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/45191/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/DataFieldBase.java
+END
+FieldSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/FieldSecurity.java
+END
+DataField.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44741/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/DataField.java
+END
+FieldBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/45032/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/FieldBase.java
+END
+RemoteFieldsHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/RemoteFieldsHolder.java
+END
+GenericField.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/GenericField.java
+END
+ActionField.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/ActionField.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/Field.java
+END
+ImageField.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/ImageField.java
+END
+AttributeQueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/AttributeQueryResult.java
+END
+MessageField.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/MessageField.java
+END
+AttributeQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44892/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/AttributeQuery.java
+END
+InitializeDataFieldFromDictionaryTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/45248/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/InitializeDataFieldFromDictionaryTask.java
+END
+InputFieldBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44892/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/field/InputFieldBase.java
+END

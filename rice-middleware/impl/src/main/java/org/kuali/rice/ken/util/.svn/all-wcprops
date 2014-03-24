@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util
+END
+DocumentNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/DocumentNamespaceContext.java
+END
+SimpleErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/SimpleErrorHandler.java
+END
+CompoundEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/CompoundEntityResolver.java
+END
+PerformanceLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/PerformanceLog.java
+END
+ContentTypeLSResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ContentTypeLSResourceResolver.java
+END
+CompoundNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/CompoundNamespaceContext.java
+END
+ContentTypeResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ContentTypeResourceResolver.java
+END
+ConfiguredNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ConfiguredNamespaceContext.java
+END
+XslSourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/XslSourceResolver.java
+END
+ResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ResourceResolver.java
+END
+ClassLoaderEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ClassLoaderEntityResolver.java
+END
+TracingTransactionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/TracingTransactionInterceptor.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/Util.java
+END
+CompoundLSResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/CompoundLSResourceResolver.java
+END
+TransactionedCallable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/TransactionedCallable.java
+END
+NotificationPropertyPlaceholderConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/NotificationPropertyPlaceholderConfigurer.java
+END
+NotificationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/NotificationConstants.java
+END
+ClassLoaderLSResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ClassLoaderLSResourceResolver.java
+END
+ClassLoaderResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ClassLoaderResourceResolver.java
+END
+ContentTypeEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ContentTypeEntityResolver.java
+END
+ContentTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/util/ContentTransformer.java
+END

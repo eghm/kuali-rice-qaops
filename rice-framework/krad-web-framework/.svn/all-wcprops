@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/rice/!svn/ver/45535/trunk/rice-framework/krad-web-framework
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/44647/trunk/rice-framework/krad-web-framework/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/44308/trunk/rice-framework/krad-web-framework/.project
+END
+testresources-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/44886/trunk/rice-framework/krad-web-framework/testresources-build.xml
+END
+rice-krad-web-framework.iml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-web-framework/rice-krad-web-framework.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/44855/trunk/rice-framework/krad-web-framework/pom.xml
+END

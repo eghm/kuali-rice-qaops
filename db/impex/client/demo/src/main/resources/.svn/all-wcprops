@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources
+END
+BK_ADDRESS_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_ADDRESS_TYP_T.xml
+END
+TRVL_AUTH_DOC_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources/TRVL_AUTH_DOC_T.xml
+END
+TRV_DOC_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/TRV_DOC_2.xml
+END
+TRVL_TRAVELER_DTL_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/42816/trunk/db/impex/client/demo/src/main/resources/TRVL_TRAVELER_DTL_T.xml
+END
+TRAV_DOC_2_ACCOUNTS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/TRAV_DOC_2_ACCOUNTS.xml
+END
+data.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/rice/!svn/ver/45201/trunk/db/impex/client/demo/src/main/resources/data.dtd
+END
+BK_ADDRESS_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_ADDRESS_T.xml
+END
+BK_BOOK_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_BOOK_TYP_T.xml
+END
+BK_BOOK_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_BOOK_T.xml
+END
+TRVL_DEST_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources/TRVL_DEST_T.xml
+END
+TRVL_CO_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources/TRVL_CO_T.xml
+END
+TRVL_EXP_ITM_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources/TRVL_EXP_ITM_T.xml
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/45201/trunk/db/impex/client/demo/src/main/resources/schema.xml
+END
+BK_AUTHOR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_AUTHOR_T.xml
+END
+KRNS_NTE_TYP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/KRNS_NTE_TYP_T.xml
+END
+TRV_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42281/trunk/db/impex/client/demo/src/main/resources/TRV_ACCT.xml
+END
+TRV_ACCT_TYPE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/43548/trunk/db/impex/client/demo/src/main/resources/TRV_ACCT_TYPE.xml
+END
+TRVL_PD_EXP_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources/TRVL_PD_EXP_T.xml
+END
+BK_BOOK_AUTHOR_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_BOOK_AUTHOR_T.xml
+END
+KRSB_QRTZ_LOCKS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/KRSB_QRTZ_LOCKS.xml
+END
+BK_AUTHOR_ACCOUNT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/37666/trunk/db/impex/client/demo/src/main/resources/BK_AUTHOR_ACCOUNT_T.xml
+END
+TRVL_MLG_RT_T.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/45520/trunk/db/impex/client/demo/src/main/resources/TRVL_MLG_RT_T.xml
+END
+TRV_SUB_ACCT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/43235/trunk/db/impex/client/demo/src/main/resources/TRV_SUB_ACCT.xml
+END
+database.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44098/trunk/db/impex/client/demo/src/main/resources/database.dtd
+END

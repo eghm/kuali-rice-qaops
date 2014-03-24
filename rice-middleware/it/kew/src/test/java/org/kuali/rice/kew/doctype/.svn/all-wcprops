@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/doctype
+END
+DocumentTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44613/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/doctype/DocumentTypeTest.java
+END
+KewDocumentTypeJpaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/doctype/KewDocumentTypeJpaTest.java
+END
+DocumentTypeMaintainableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/doctype/DocumentTypeMaintainableTest.java
+END
+DocumentTypePermissionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/doctype/DocumentTypePermissionServiceTest.java
+END

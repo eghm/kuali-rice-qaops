@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options
+END
+MemberTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options/MemberTypeValuesFinder.java
+END
+ActionPolicyValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options/ActionPolicyValuesFinder.java
+END
+NamePrefixValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options/NamePrefixValuesFinder.java
+END
+ActionTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options/ActionTypeValuesFinder.java
+END
+NameSuffixValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options/NameSuffixValuesFinder.java
+END
+GroupMemberTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/options/GroupMemberTypeValuesFinder.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-app-framework/src/test/java/org/kuali/rice/krad/util
+END
+BeanPropertyComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-app-framework/src/test/java/org/kuali/rice/krad/util/BeanPropertyComparatorTest.java
+END
+MessageMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-app-framework/src/test/java/org/kuali/rice/krad/util/MessageMapTest.java
+END
+UrlFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-app-framework/src/test/java/org/kuali/rice/krad/util/UrlFactoryTest.java
+END

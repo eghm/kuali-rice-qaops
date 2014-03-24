@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44837/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service
+END
+GroupServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/GroupServiceImplTest.java
+END
+GroupUpdateServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/GroupUpdateServiceImplTest.java
+END
+AuthorizationServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/AuthorizationServiceImplTest.java
+END
+PermissionServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/PermissionServiceTest.java
+END
+PersonServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44837/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/PersonServiceImplTest.java
+END
+IdentityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/IdentityServiceTest.java
+END
+IdentityArchiveServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/IdentityArchiveServiceTest.java
+END
+GroupServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44539/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/GroupServiceTest.java
+END
+UiDocumentServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44474/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/UiDocumentServiceImplTest.java
+END
+RoleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/RoleServiceTest.java
+END
+PermissionServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/PermissionServiceRemoteTest.java
+END
+IdentityServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/IdentityServiceRemoteTest.java
+END
+IdentityArchiveServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/IdentityArchiveServiceRemoteTest.java
+END
+GroupServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44384/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/GroupServiceRemoteTest.java
+END
+IdentityServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44345/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/IdentityServiceImplTest.java
+END
+LDAPIdentityServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/LDAPIdentityServiceImplTest.java
+END
+RoleServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kim/src/test/java/org/kuali/rice/kim/test/service/RoleServiceRemoteTest.java
+END

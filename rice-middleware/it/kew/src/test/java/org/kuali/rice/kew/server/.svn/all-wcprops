@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/server
+END
+TestSplitNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/server/TestSplitNode.java
+END
+DTOConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/server/DTOConverterTest.java
+END
+WorkflowUtilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/server/WorkflowUtilityTest.java
+END

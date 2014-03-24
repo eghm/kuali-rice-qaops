@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/rice/!svn/ver/44830/trunk/config/deploy
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/rice/!svn/ver/42281/trunk/config/deploy/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/rice/!svn/ver/42281/trunk/config/deploy/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/rice/!svn/ver/44830/trunk/config/deploy/pom.xml
+END
+rice-deploy.iml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/rice/!svn/ver/44789/trunk/config/deploy/rice-deploy.iml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/group
+END
+GroupBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/group/GroupBoTest.groovy
+END
+GroupAttributeBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/group/GroupAttributeBoTest.groovy
+END
+GroupMemberBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/group/GroupMemberBoTest.groovy
+END

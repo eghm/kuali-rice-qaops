@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/security
+END
+rice.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/security/rice.keystore
+END
+keytool-notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/security/keytool-notes.txt
+END
+rice.cer
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/security/rice.cer
+END

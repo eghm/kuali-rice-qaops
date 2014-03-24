@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/batch
+END
+XmlIngestionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/batch/XmlIngestionTest.java
+END
+XmlSchemaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/batch/XmlSchemaTest.java
+END
+IngesterActionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/batch/IngesterActionTest.java
+END

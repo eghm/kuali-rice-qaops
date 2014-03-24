@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 55
+target
+jetty-tmp
+atomikos-tmp
+.classpath
+.project
+work
+
+END

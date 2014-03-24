@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element
+END
+actionLink.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/actionLink.ftl
+END
+link.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/link.ftl
+END
+dataTablesJson.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/dataTablesJson.ftl
+END
+menuAction.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/menuAction.ftl
+END
+iframe.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/iframe.ftl
+END
+action.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/action.ftl
+END
+label.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/label.ftl
+END
+dataTable.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/dataTable.ftl
+END
+dropdownMenu.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/dropdownMenu.ftl
+END
+div.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/div.ftl
+END
+image.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/image.ftl
+END
+viewHeader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44506/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/viewHeader.ftl
+END
+message.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44506/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/message.ftl
+END
+navigationBar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/navigationBar.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44506/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/header.ftl
+END
+icon.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/icon.ftl
+END
+appHeader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44506/trunk/rice-framework/krad-web/src/main/webapp/krad/WEB-INF/ftl/components/element/appHeader.ftl
+END

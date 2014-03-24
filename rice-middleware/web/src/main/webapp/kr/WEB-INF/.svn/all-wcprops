@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/45485/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/struts-config.xml
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/webapp/kr/WEB-INF/validator-rules.xml
+END

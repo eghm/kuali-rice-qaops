@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/datadictionary/validation
+END
+Address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/datadictionary/validation/Address.xml
+END
+Company.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/datadictionary/validation/Company.xml
+END
+Person.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/datadictionary/validation/Person.xml
+END
+Employee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/org/kuali/rice/krad/test/datadictionary/validation/Employee.xml
+END

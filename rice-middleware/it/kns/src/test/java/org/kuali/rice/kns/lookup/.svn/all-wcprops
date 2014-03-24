@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44667/trunk/rice-middleware/it/kns/src/test/java/org/kuali/rice/kns/lookup
+END
+KualiLookupableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44667/trunk/rice-middleware/it/kns/src/test/java/org/kuali/rice/kns/lookup/KualiLookupableTest.java
+END
+LookupResultsDDBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kns/src/test/java/org/kuali/rice/kns/lookup/LookupResultsDDBo.java
+END
+LookupResultsDDBoLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kns/src/test/java/org/kuali/rice/kns/lookup/LookupResultsDDBoLookupableHelperServiceImpl.java
+END
+LookupResultsServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/kns/src/test/java/org/kuali/rice/kns/lookup/LookupResultsServiceTest.java
+END

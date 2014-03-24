@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/postalcode
+END
+PostalCodeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/postalcode/PostalCodeServiceImpl.java
+END
+PostalCodeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/postalcode/PostalCodeId.java
+END
+PostalCodeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44219/trunk/rice-middleware/location/impl/src/main/java/org/kuali/rice/location/impl/postalcode/PostalCodeBo.java
+END

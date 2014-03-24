@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/KRMS_Guide
+END
+KRMS_AdminGuide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/KRMS_Guide/KRMS_AdminGuide.xml
+END
+KRMS_Overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/KRMS_Guide/KRMS_Overview.xml
+END
+KRMS_Concepts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/KRMS_Guide/KRMS_Concepts.xml
+END
+KRMS_UserInterface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/KRMS_Guide/KRMS_UserInterface.xml
+END

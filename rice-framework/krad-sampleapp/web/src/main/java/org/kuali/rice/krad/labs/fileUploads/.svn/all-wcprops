@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/labs/fileUploads
+END
+XmlIngesterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/labs/fileUploads/XmlIngesterController.java
+END
+XmlIngesterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/labs/fileUploads/XmlIngesterForm.java
+END
+LabsFileUploadsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/labs/fileUploads/LabsFileUploadsController.java
+END
+LabsFileUploadsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/labs/fileUploads/LabsFileUploadsForm.java
+END
+XmlIngesterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/labs/fileUploads/XmlIngesterConstants.java
+END

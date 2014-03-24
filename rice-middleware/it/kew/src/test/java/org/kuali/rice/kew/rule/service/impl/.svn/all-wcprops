@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/rule/service/impl
+END
+RoleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/rule/service/impl/RoleServiceTest.java
+END
+KewRuleDataJpaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/rule/service/impl/KewRuleDataJpaTest.java
+END
+RuleServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/rule/service/impl/RuleServiceTest.java
+END

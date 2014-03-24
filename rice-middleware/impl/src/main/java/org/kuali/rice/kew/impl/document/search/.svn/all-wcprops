@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44272/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search
+END
+DocumentSearchCriteriaTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentSearchCriteriaTranslator.java
+END
+DocumentSearchCriteriaTranslatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentSearchCriteriaTranslatorImpl.java
+END
+RouteNodeLookupLogicValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/RouteNodeLookupLogicValuesFinder.java
+END
+DocumentSearchCriteriaBoLookupableHelperService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentSearchCriteriaBoLookupableHelperService.java
+END
+DocumentSearchCriteriaBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44272/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentSearchCriteriaBo.java
+END
+DocumentStatusValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentStatusValuesFinder.java
+END
+FormFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/FormFields.java
+END
+DocumentSearchGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentSearchGenerator.java
+END
+DocumentSearchGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/impl/document/search/DocumentSearchGeneratorImpl.java
+END

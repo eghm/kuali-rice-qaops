@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44788/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference
+END
+AddressTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44788/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/AddressTypeAft.java
+END
+AffiliationTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/AffiliationTypeAft.java
+END
+ExternalIdentifierTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/ExternalIdentifierTypeAft.java
+END
+EmailTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/EmailTypeAft.java
+END
+RoleGroupPermissionResponsibilityTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/RoleGroupPermissionResponsibilityTypeAft.java
+END
+EmploymentTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/EmploymentTypeAft.java
+END
+PhoneTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/PhoneTypeAft.java
+END
+CitizenshipStatusAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/CitizenshipStatusAft.java
+END
+EmploymentStatusAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/EmploymentStatusAft.java
+END
+EntityTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/EntityTypeAft.java
+END
+NameTypeAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/java/edu/sampleu/krad/reference/NameTypeAft.java
+END

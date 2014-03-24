@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor
+END
+CollectionConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/CollectionConstraintProcessor.java
+END
+RangeConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/RangeConstraintProcessor.java
+END
+ValidCharactersConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/ValidCharactersConstraintProcessor.java
+END
+OptionalElementConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/OptionalElementConstraintProcessor.java
+END
+MandatoryElementConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/MandatoryElementConstraintProcessor.java
+END
+DataTypeConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/DataTypeConstraintProcessor.java
+END
+CaseConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/CaseConstraintProcessor.java
+END
+BasePrerequisiteConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/BasePrerequisiteConstraintProcessor.java
+END
+ConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/ConstraintProcessor.java
+END
+PrerequisiteConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/PrerequisiteConstraintProcessor.java
+END
+LengthConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/LengthConstraintProcessor.java
+END
+MustOccurConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/MustOccurConstraintProcessor.java
+END
+CollectionSizeConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/CollectionSizeConstraintProcessor.java
+END
+ExistenceConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/ExistenceConstraintProcessor.java
+END
+SimpleConstraintProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/datadictionary/validation/processor/SimpleConstraintProcessor.java
+END

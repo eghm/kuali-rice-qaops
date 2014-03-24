@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/44647/trunk/rice-framework/krad-development-tools/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44647/trunk/rice-framework/krad-development-tools/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.m2e.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/40326/trunk/rice-framework/krad-development-tools/.settings/org.eclipse.m2e.core.prefs
+END
+org.eclipse.core.resources.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/40326/trunk/rice-framework/krad-development-tools/.settings/org.eclipse.core.resources.prefs
+END
+org.eclipse.wst.common.project.facet.core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44647/trunk/rice-framework/krad-development-tools/.settings/org.eclipse.wst.common.project.facet.core.xml
+END
+org.eclipse.wst.validation.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/40397/trunk/rice-framework/krad-development-tools/.settings/org.eclipse.wst.validation.prefs
+END

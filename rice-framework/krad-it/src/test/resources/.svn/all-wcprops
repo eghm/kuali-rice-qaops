@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/45247/trunk/rice-framework/krad-it/src/test/resources
+END
+testValidationMessages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/testValidationMessages.sql
+END
+testDataObjects.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/45247/trunk/rice-framework/krad-it/src/test/resources/testDataObjects.sql
+END
+OJB-repository-krad-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/resources/OJB-repository-krad-test.xml
+END
+testAccountUseRate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/testAccountUseRate.sql
+END
+testAccountsNew.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/testAccountsNew.sql
+END
+TestApplicationResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/TestApplicationResources.properties
+END
+testAccountType.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/45213/trunk/rice-framework/krad-it/src/test/resources/testAccountType.sql
+END
+DictionaryValidationServiceSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/DictionaryValidationServiceSpringBeans.xml
+END
+TestDataDictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44573/trunk/rice-framework/krad-it/src/test/resources/TestDataDictionary.xml
+END
+KRADTestHarnessSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44947/trunk/rice-framework/krad-it/src/test/resources/KRADTestHarnessSpringBeans.xml
+END
+testAccountTypeNew.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/testAccountTypeNew.sql
+END
+testExternalMessages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/testExternalMessages.sql
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/44099/trunk/rice-framework/krad-it/src/test/resources/log4j.properties
+END
+testAccountExtensions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44324/trunk/rice-framework/krad-it/src/test/resources/testAccountExtensions.sql
+END
+TestModuleResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/TestModuleResources.properties
+END
+testAccounts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/44268/trunk/rice-framework/krad-it/src/test/resources/testAccounts.sql
+END

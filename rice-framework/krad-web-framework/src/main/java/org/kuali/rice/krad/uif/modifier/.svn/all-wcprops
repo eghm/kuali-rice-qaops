@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier
+END
+ComparableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier/ComparableInfo.java
+END
+ComponentModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44744/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier/ComponentModifier.java
+END
+ComponentConvertModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier/ComponentConvertModifier.java
+END
+LabelSeparateModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44729/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier/LabelSeparateModifier.java
+END
+ComponentModifierBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier/ComponentModifierBase.java
+END
+CompareFieldCreateModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/modifier/CompareFieldCreateModifier.java
+END

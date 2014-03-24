@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/43849/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util
+END
+PerformanceLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/PerformanceLogger.java
+END
+ClassDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/ClassDumper.java
+END
+ResponsibleParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/ResponsibleParty.java
+END
+ConfigStringLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/ConfigStringLookup.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43849/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/Utilities.java
+END
+WebFriendlyRecipient.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/WebFriendlyRecipient.java
+END
+FutureRequestDocumentStateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/util/FutureRequestDocumentStateManager.java
+END

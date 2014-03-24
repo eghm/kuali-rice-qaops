@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif
+END
+DocumentTypeInquiry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/DocumentTypeInquiry.xml
+END
+StyleInquiry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/StyleInquiry.xml
+END
+DocumentTypeMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/DocumentTypeMaintenanceDocument.xml
+END
+RuleTemplateInquiry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/RuleTemplateInquiry.xml
+END
+RuleAttributeLookup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/RuleAttributeLookup.xml
+END
+StatsView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/StatsView.xml
+END
+DocumentTypeLookup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/DocumentTypeLookup.xml
+END
+StyleLookup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/StyleLookup.xml
+END
+RuleAttributeInquiry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/RuleAttributeInquiry.xml
+END
+RuleTemplateLookup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/kew/uif/RuleTemplateLookup.xml
+END

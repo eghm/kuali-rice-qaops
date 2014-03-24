@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/45535/trunk/rice-framework/krad-sampleapp/web/src/main/resources
+END
+KradSampleAppModuleBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/KradSampleAppModuleBeans.xml
+END
+KradSampleAppStandaloneBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/KradSampleAppStandaloneBeans.xml
+END
+OJB-repository-krad-sampleapp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44503/trunk/rice-framework/krad-sampleapp/web/src/main/resources/OJB-repository-krad-sampleapp.xml
+END
+_KradSampleAppJpaSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/_KradSampleAppJpaSpringBeans.xml
+END
+KradSampleAppResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-sampleapp/web/src/main/resources/KradSampleAppResources.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43978/trunk/rice-framework/krad-sampleapp/web/src/main/resources/log4j.properties
+END
+KradSampleAppBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/44134/trunk/rice-framework/krad-sampleapp/web/src/main/resources/KradSampleAppBeans.xml
+END

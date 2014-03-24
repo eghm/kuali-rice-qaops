@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/rice/!svn/ver/45346/trunk/scripts/bean-rename
+END
+BeanRename.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/rice/!svn/ver/44549/trunk/scripts/bean-rename/BeanRename.groovy
+END
+CssRename.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/rice/!svn/ver/43801/trunk/scripts/bean-rename/CssRename.groovy
+END
+beanReplacements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/44588/trunk/scripts/bean-rename/beanReplacements.txt
+END
+cssReplacements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/rice/!svn/ver/45346/trunk/scripts/bean-rename/cssReplacements.txt
+END

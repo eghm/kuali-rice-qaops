@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/rice/!svn/ver/44830/trunk/rice-middleware/kew/framework
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/44647/trunk/rice-middleware/kew/framework/.classpath
+END
+rice-kew-framework.iml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44789/trunk/rice-middleware/kew/framework/rice-kew-framework.iml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/rice/!svn/ver/40326/trunk/rice-middleware/kew/framework/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/rice/!svn/ver/44830/trunk/rice-middleware/kew/framework/pom.xml
+END

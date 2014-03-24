@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/44513/trunk/rice-middleware/sampleapp/src/it/resources/XML
+END
+SimpleGroupContent.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/43981/trunk/rice-middleware/sampleapp/src/it/resources/XML/SimpleGroupContent.ftl
+END
+SimpleUserContent.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43981/trunk/rice-middleware/sampleapp/src/it/resources/XML/SimpleUserContent.ftl
+END
+neustarJS.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/resources/XML/neustarJS.properties
+END
+UserGroupListIngestion.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44513/trunk/rice-middleware/sampleapp/src/it/resources/XML/UserGroupListIngestion.ftl
+END
+xmlingester.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44028/trunk/rice-middleware/sampleapp/src/it/resources/XML/xmlingester.properties
+END
+CreateNewTmpl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/43978/trunk/rice-middleware/sampleapp/src/it/resources/XML/CreateNewTmpl.ftl
+END
+UserListIngestion.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44513/trunk/rice-middleware/sampleapp/src/it/resources/XML/UserListIngestion.ftl
+END

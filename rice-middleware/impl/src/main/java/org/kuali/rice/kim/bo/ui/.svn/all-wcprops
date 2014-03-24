@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui
+END
+PersonDocumentPhone.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentPhone.java
+END
+KimDocumentRoleResponsibilityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentRoleResponsibilityAction.java
+END
+KimDocumentRoleResponsibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentRoleResponsibility.java
+END
+KimDocumentRoleQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentRoleQualifier.java
+END
+PersonDocumentPrivacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentPrivacy.java
+END
+PersonDocumentName.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentName.java
+END
+KimDocumentRolePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentRolePermission.java
+END
+PersonDocumentAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentAddress.java
+END
+PersonDocumentAffiliation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentAffiliation.java
+END
+KimDocumentBoActivatableToFromEditableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoActivatableToFromEditableBase.java
+END
+PersonDocumentEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentEmail.java
+END
+KimDocumentBoActiveToFromBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoActiveToFromBase.java
+END
+PersonDocumentCitizenship.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentCitizenship.java
+END
+KimDocumentBoActivatableToFromBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoActivatableToFromBase.java
+END
+PersonDocumentGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentGroup.java
+END
+GroupDocumentMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/GroupDocumentMember.java
+END
+RoleDocumentDelegationMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/RoleDocumentDelegationMember.java
+END
+KimDocumentBoEditableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoEditableBase.java
+END
+KimDocumentBoActivatableEditableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoActivatableEditableBase.java
+END
+PersonDocumentBoDefaultBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentBoDefaultBase.java
+END
+RoleDocumentDelegationMemberQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/RoleDocumentDelegationMemberQualifier.java
+END
+PersonDocumentRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentRole.java
+END
+KimDocumentRoleMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentRoleMember.java
+END
+PersonDocumentEmploymentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/PersonDocumentEmploymentInfo.java
+END
+KimDocumentBoActivatableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoActivatableBase.java
+END
+KimDocumentBoBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentBoBase.java
+END
+KimDocumentAttributeDataBusinessObjectBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44618/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/KimDocumentAttributeDataBusinessObjectBase.java
+END
+RoleDocumentDelegation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/RoleDocumentDelegation.java
+END
+GroupDocumentQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/bo/ui/GroupDocumentQualifier.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44806/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary
+END
+Author.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/Author.xml
+END
+Address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/Address.xml
+END
+BookOrder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/BookOrder.xml
+END
+Book.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/Book.xml
+END
+Account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44806/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/Account.xml
+END
+BSAddressType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/BSAddressType.xml
+END
+BookType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/BookType.xml
+END
+BookstoreKimAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/businessobject/datadictionary/BookstoreKimAttributes.xml
+END

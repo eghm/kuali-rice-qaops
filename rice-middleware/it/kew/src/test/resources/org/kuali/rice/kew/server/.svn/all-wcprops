@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/server
+END
+WorkflowUtilitySplitConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/server/WorkflowUtilitySplitConfig.xml
+END
+WorkflowUtilityConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/server/WorkflowUtilityConfig.xml
+END
+WorkflowUtilityRuleReportConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/server/WorkflowUtilityRuleReportConfig.xml
+END
+SimpleDocumentActionsConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/server/SimpleDocumentActionsConfig.xml
+END

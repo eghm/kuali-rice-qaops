@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/45418/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository
+END
+KrmsTypeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsTypeBo.java
+END
+TypeTypeRelationSequenceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TypeTypeRelationSequenceComparator.java
+END
+TypeTypeRelationBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TypeTypeRelationBo.java
+END
+AgendaInquiryHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44675/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaInquiryHelperServiceImpl.java
+END
+PropositionBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionBo.java
+END
+FunctionBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/FunctionBo.java
+END
+NaturalLanguageTemplateAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageTemplateAttributeBo.java
+END
+AgendaItemBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaItemBo.java
+END
+ActionTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ActionTypeValuesFinder.java
+END
+RepositoryBoIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RepositoryBoIncrementer.java
+END
+CategoryBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/CategoryBo.java
+END
+ContextTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextTypeValuesFinder.java
+END
+PropositionTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionTypeValuesFinder.java
+END
+PropositionParameterTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionParameterTypeValuesFinder.java
+END
+KrmsTypeBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsTypeBoServiceImpl.java
+END
+ReferenceObjectBindingBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/45418/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ReferenceObjectBindingBoServiceImpl.java
+END
+RuleManagementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44675/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleManagementServiceImpl.java
+END
+ContextBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextBoServiceImpl.java
+END
+TermResolverParameterSpecificationBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermResolverParameterSpecificationBo.java
+END
+RuleAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleAttributeBo.java
+END
+KrmsRepositoryServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsRepositoryServiceLocator.java
+END
+ActionAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44797/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ActionAttributeBo.java
+END
+ReferenceObjectBindingBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ReferenceObjectBindingBoService.java
+END
+ContextBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextBoService.java
+END
+NaturalLanguageTemplateBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageTemplateBo.java
+END
+TermBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/45117/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermBo.java
+END
+RuleBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44815/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleBo.java
+END
+TermParameterBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermParameterBo.java
+END
+TermBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44797/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermBoServiceImpl.java
+END
+RuleBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44797/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleBoServiceImpl.java
+END
+ReferenceObjectBindingBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ReferenceObjectBindingBo.java
+END
+ActionBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ActionBoServiceImpl.java
+END
+ContextBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextBo.java
+END
+TypeTypeRelationBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TypeTypeRelationBoServiceImpl.java
+END
+PropositionLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionLookupableHelperServiceImpl.java
+END
+PropositionParameterBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionParameterBo.java
+END
+FunctionParameterBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/FunctionParameterBo.java
+END
+TermBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermBoService.java
+END
+RuleBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleBoService.java
+END
+PropositionBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionBoServiceImpl.java
+END
+FunctionBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/FunctionBoServiceImpl.java
+END
+TermResolverBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermResolverBo.java
+END
+KrmsAttributeDefinitionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsAttributeDefinitionServiceImpl.java
+END
+ActionBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ActionBoService.java
+END
+NaturalLanguageUsageBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageUsageBo.java
+END
+KrmsTypeRepositoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsTypeRepositoryServiceImpl.java
+END
+RuleTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleTypeValuesFinder.java
+END
+CompoundPropositionComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/CompoundPropositionComparator.java
+END
+NaturalLanguageUsageBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/45399/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageUsageBoServiceImpl.java
+END
+TypeTypeRelationBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TypeTypeRelationBoService.java
+END
+KrmsTypeAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsTypeAttributeBo.java
+END
+AgendaAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaAttributeBo.java
+END
+ContextValidAgendaBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextValidAgendaBo.java
+END
+PropositionBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/PropositionBoService.java
+END
+FunctionBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/FunctionBoService.java
+END
+ContextAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextAttributeBo.java
+END
+NaturalLanguageTemplateBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/45414/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageTemplateBoServiceImpl.java
+END
+KrmsAttributeDefinitionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsAttributeDefinitionService.java
+END
+TermSpecificationInquiryHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/rice/!svn/ver/44806/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermSpecificationInquiryHelperServiceImpl.java
+END
+RuleStudentInquiryViewHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/rice/!svn/ver/44744/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleStudentInquiryViewHelperServiceImpl.java
+END
+AgendaLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaLookupableHelperServiceImpl.java
+END
+AgendaBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44675/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaBo.java
+END
+NaturalLanguageUsageBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageUsageBoService.java
+END
+AgendaBoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44686/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaBoServiceImpl.java
+END
+AgendaNamespaceValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaNamespaceValuesFinder.java
+END
+NaturalLanguageTemplateBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/NaturalLanguageTemplateBoService.java
+END
+RuleRepositoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44559/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/RuleRepositoryServiceImpl.java
+END
+ContextValidRuleBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextValidRuleBo.java
+END
+ContextValidTermBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44797/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextValidTermBo.java
+END
+BaseAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/BaseAttributeBo.java
+END
+AgendaBoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaBoService.java
+END
+TranslationUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TranslationUtility.java
+END
+ContextValidActionBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextValidActionBo.java
+END
+ContextValidEventBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ContextValidEventBo.java
+END
+AgendaTypeValuesFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/AgendaTypeValuesFinder.java
+END
+TermSpecificationBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44797/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermSpecificationBo.java
+END
+KrmsAttributeDefinitionBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/KrmsAttributeDefinitionBo.java
+END
+BusinessObjectServiceMigrationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/BusinessObjectServiceMigrationUtils.java
+END
+ActionBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44797/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/ActionBo.java
+END
+TermResolverAttributeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44597/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/repository/TermResolverAttributeBo.java
+END

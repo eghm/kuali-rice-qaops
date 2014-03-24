@@ -1,0 +1,26 @@
+K 13
+svn:mergeinfo
+V 2971
+/branches/rice-2.0/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:31105-32638,33004-33019
+/branches/rice-2.1/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:30818-31061,36384-37014,37030-37070,37073-37627,37733-39550
+/branches/rice-2.1-kc/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:33440-34537
+/branches/rice-2.2/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:37031-37071,37160-38043,38048-38149,38158-39057,39085-39570
+/branches/rice-2.3/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:40250-41261,42099-42462,42844-43279
+/sandbox/KULRICE-10156/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:40749-40805
+/sandbox/KULRICE-10296/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:40970-42280
+/sandbox/KULRICE-10937/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:44520-44779
+/sandbox/KULRICE-6282/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:24482-32330
+/sandbox/KULRICE-9872/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:40642-40663
+/sandbox/branches/rice-2.1-kfs/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:35210-35522
+/sandbox/branches/rice-2.3-jpa/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:37691-40318
+/sandbox/branches/rice-2.4-perf/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:43158
+/sandbox/rice-2.1-kfs/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:34339-34557,34910-35209
+/sandbox/rice-2.1-msu/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:34788-35189,35209-36081
+/sandbox/rice-2.1-upgrade-cxf-br/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:35449-35473
+/sandbox/rice-2.4-jpa/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:41675-42040
+/sandbox/rice-2.4-jpa-actionlist/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:41909-41931
+/sandbox/rice-2.4-jpa-ksb/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:43070-43366
+/trunk/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:36213-36383,36686-37658
+/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:36213-37575
+/trunk/rice-middleware/krad/krad-web-framework/src/test/java/org/kuali/rice/krad/uif/field/InputFieldTest.java:38069,38766
+END

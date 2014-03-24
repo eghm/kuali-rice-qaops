@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/rice/!svn/ver/44830/trunk/config/archetype/quickstart
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/rice/!svn/ver/37666/trunk/config/archetype/quickstart/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/rice/!svn/ver/44830/trunk/config/archetype/quickstart/pom.xml
+END
+rice-archetype-quickstart.iml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/44309/trunk/config/archetype/quickstart/rice-archetype-quickstart.iml
+END

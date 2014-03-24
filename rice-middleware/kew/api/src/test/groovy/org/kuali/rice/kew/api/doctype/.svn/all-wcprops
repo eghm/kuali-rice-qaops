@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/doctype
+END
+DocumentTypeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/doctype/DocumentTypeTest.groovy
+END
+RouteNodeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/test/groovy/org/kuali/rice/kew/api/doctype/RouteNodeTest.groovy
+END

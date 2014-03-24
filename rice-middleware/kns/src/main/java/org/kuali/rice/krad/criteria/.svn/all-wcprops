@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44207/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/criteria
+END
+CriteriaLookupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/criteria/CriteriaLookupServiceImpl.java
+END
+CriteriaLookupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/criteria/CriteriaLookupDao.java
+END
+CriteriaLookupDaoProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/criteria/CriteriaLookupDaoProxy.java
+END
+CriteriaLookupDaoOjb.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/krad/criteria/CriteriaLookupDaoOjb.java
+END

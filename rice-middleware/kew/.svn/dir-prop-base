@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 16
+.project
+target
+
+K 13
+svn:mergeinfo
+V 773
+/branches/rice-2.2/kew:37512-37874
+/branches/rice-2.3/rice-middleware/kew:40250-41261,41657-41693,42099-42462,42844-44037
+/sandbox/KULRICE-10156/rice-middleware/kew:40749-40805
+/sandbox/KULRICE-10296/rice-middleware/kew:40970-42280
+/sandbox/KULRICE-10937/rice-middleware/kew:44520-44779
+/sandbox/KULRICE-9872/rice-middleware/kew:40642-40663
+/sandbox/branches/rice-2.3-jpa/rice-middleware/kew:37691-40318
+/sandbox/branches/rice-2.4-perf/rice-middleware/kew:44377,44471,44523
+/sandbox/jkeller/kim-conv-M4/rice-middleware/kew:43831-44307
+/sandbox/rice-2.4-jpa/rice-middleware/kew:41675-42040
+/sandbox/rice-2.4-jpa-actionlist/rice-middleware/kew:41909-41931
+/sandbox/rice-2.4-jpa-ksb/rice-middleware/kew:43070-43366
+/trunk/kew:36213-37658
+/trunk/rice-middleware/kew:36213-37575
+END

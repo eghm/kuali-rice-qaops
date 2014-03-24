@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/45463/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif
+END
+UifControlDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifControlDefinitions.xml
+END
+UifInitiateDocumentInfoDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44995/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifInitiateDocumentInfoDefinitions.xml
+END
+UifMaintenanceDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43825/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifMaintenanceDefinitions.xml
+END
+UifRiceDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifRiceDefinitions.xml
+END
+UifWidgetDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/45463/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifWidgetDefinitions.xml
+END
+UifFieldDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifFieldDefinitions.xml
+END
+UifElementDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/45346/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifElementDefinitions.xml
+END
+UifIncidentReportDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44588/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifIncidentReportDefinitions.xml
+END
+UifGroupDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifGroupDefinitions.xml
+END
+UifInquiryDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifInquiryDefinitions.xml
+END
+UifMenuDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44506/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifMenuDefinitions.xml
+END
+UifViewPageDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifViewPageDefinitions.xml
+END
+UifConfigurationDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44549/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifConfigurationDefinitions.xml
+END
+UifHeaderFooterDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifHeaderFooterDefinitions.xml
+END
+UifLayoutManagerDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifLayoutManagerDefinitions.xml
+END
+UifLookupDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifLookupDefinitions.xml
+END
+UifActionDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/45346/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifActionDefinitions.xml
+END
+UifDocumentDefinitions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/45284/trunk/rice-framework/krad-web-framework/src/main/resources/org/kuali/rice/krad/uif/UifDocumentDefinitions.xml
+END

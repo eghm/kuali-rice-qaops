@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/45348/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation
+END
+ShortLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/ShortLabel.java
+END
+UifValidCharactersConstraintBeanName.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/UifValidCharactersConstraintBeanName.java
+END
+Relationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/Relationship.java
+END
+BusinessKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/BusinessKey.java
+END
+ForceUppercase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/ForceUppercase.java
+END
+InheritProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/InheritProperty.java
+END
+Sensitive.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/Sensitive.java
+END
+ReadOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/ReadOnly.java
+END
+CollectionRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/CollectionRelationship.java
+END
+UifAutoCreateViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/UifAutoCreateViews.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/Label.java
+END
+InheritProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/InheritProperties.java
+END
+UifDisplayHints.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/UifDisplayHints.java
+END
+NonPersistentProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/NonPersistentProperty.java
+END
+PropertyEditorClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/PropertyEditorClass.java
+END
+SerializationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/45348/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/SerializationContext.java
+END
+ExtensionFor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/ExtensionFor.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/Description.java
+END
+AttributeRelationship.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/AttributeRelationship.java
+END
+KeyValuesFinderClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/KeyValuesFinderClass.java
+END
+CollectionSortAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/CollectionSortAttribute.java
+END
+Serialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/45348/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/Serialized.java
+END
+UifDisplayHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/UifDisplayHint.java
+END
+MergeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/MergeAction.java
+END
+UifAutoCreateViewType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/UifAutoCreateViewType.java
+END
+UifDisplayHintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/main/java/org/kuali/rice/krad/data/provider/annotation/UifDisplayHintType.java
+END

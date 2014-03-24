@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/45261/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow
+END
+PeopleFlowMemberContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowMemberContract.java
+END
+PeopleFlowMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/45261/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowMember.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/package-info.java
+END
+PeopleFlowDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowDefinition.java
+END
+PeopleFlowDelegateContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowDelegateContract.java
+END
+PeopleFlowDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/45261/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowDelegate.java
+END
+PeopleFlowContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowContract.java
+END
+PeopleFlowService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/peopleflow/PeopleFlowService.java
+END

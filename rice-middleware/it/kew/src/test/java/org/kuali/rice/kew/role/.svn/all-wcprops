@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44682/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/role
+END
+TestQualifierResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/role/TestQualifierResolver.java
+END
+RoleRouteModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44682/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/role/RoleRouteModuleTest.java
+END
+XPathQualifierResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/role/XPathQualifierResolverTest.java
+END

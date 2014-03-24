@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/repos/rice/!svn/ver/45543/trunk
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/rice/!svn/ver/43801/trunk/settings.xml
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/rice/!svn/ver/44098/trunk/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/rice/!svn/ver/37666/trunk/LICENSE.txt
+END
+rice.iml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/rice/!svn/ver/43978/trunk/rice.iml
+END
+.jshintrc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/rice/!svn/ver/43332/trunk/.jshintrc
+END
+settings.xml.developer
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/rice/!svn/ver/37666/trunk/settings.xml.developer
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/rice/!svn/ver/42281/trunk/.project
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/rice/!svn/ver/43801/trunk/project.xml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/rice/!svn/ver/40326/trunk/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/rice/!svn/ver/45498/trunk/pom.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/rice/!svn/ver/44308/trunk/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/rice/!svn/ver/43801/trunk/build.xml
+END

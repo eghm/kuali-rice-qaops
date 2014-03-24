@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb
+END
+NameAndNamespacePairValidatingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/NameAndNamespacePairValidatingAdapter.java
+END
+RiceXmlListGetterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/RiceXmlListGetterListener.java
+END
+RiceXmlExportList.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/RiceXmlExportList.java
+END
+RiceXmlListAdditionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/RiceXmlListAdditionListener.java
+END
+JaxbDateAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/JaxbDateAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/package-info.java
+END
+StringToDateTimeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/StringToDateTimeAdapter.java
+END
+RiceXmlImportList.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/RiceXmlImportList.java
+END
+NameAndNamespacePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/NameAndNamespacePair.java
+END
+StringTrimmingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/java/org/kuali/rice/core/util/jaxb/StringTrimmingAdapter.java
+END

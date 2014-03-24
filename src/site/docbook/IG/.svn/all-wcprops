@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG
+END
+client_application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/client_application.xml
+END
+additional_configurations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/additional_configurations.xml
+END
+build_database.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/build_database.xml
+END
+appendix_server_configs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/appendix_server_configs.xml
+END
+overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/overview.xml
+END
+tuning_rice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/tuning_rice.xml
+END
+standalone_server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/44098/trunk/src/site/docbook/IG/standalone_server.xml
+END

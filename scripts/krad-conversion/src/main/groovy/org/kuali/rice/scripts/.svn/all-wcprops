@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44973/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts
+END
+FormConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/FormConverter.groovy
+END
+DBConversionUtils.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/DBConversionUtils.groovy
+END
+StrutsConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/StrutsConverter.groovy
+END
+DictionaryConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44577/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/DictionaryConverter.groovy
+END
+GroovyShellWrapper.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/GroovyShellWrapper.groovy
+END
+KimPermissionConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44130/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/KimPermissionConverter.groovy
+END
+ClassParserUtils.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/ClassParserUtils.groovy
+END
+JstlConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/JstlConverter.groovy
+END
+ActionConverter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/ActionConverter.groovy
+END
+ConversionUtils.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44566/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/ConversionUtils.groovy
+END
+KradConversion.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43991/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/KradConversion.groovy
+END
+ScaffoldGenerator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/ScaffoldGenerator.groovy
+END
+JspParserUtils.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/scripts/krad-conversion/src/main/groovy/org/kuali/rice/scripts/JspParserUtils.groovy
+END

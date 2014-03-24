@@ -1,0 +1,80 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad
+https://svn.kuali.org/repos/rice
+
+
+
+2014-03-12T13:55:21.590915Z
+45310
+jkneal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+datadictionary
+dir
+
+bo
+dir
+
+service
+dir
+
+uif
+dir
+
+messages
+dir
+
+StaticWeavingTest.java
+file
+
+
+
+
+2014-02-19T12:30:25.000000Z
+d2cc680de8d03c5ecfe3242e9317632d
+2014-02-18T16:06:51.421642Z
+44776
+ewestfal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4023
+
+lookup
+dir
+

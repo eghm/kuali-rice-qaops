@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/util
+END
+ConstraintStateUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/util/ConstraintStateUtilsTest.java
+END
+ObjectUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/util/ObjectUtilsTest.java
+END
+ValidationMessageRetrievalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/util/ValidationMessageRetrievalTest.java
+END
+WebUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/util/WebUtilsTest.java
+END

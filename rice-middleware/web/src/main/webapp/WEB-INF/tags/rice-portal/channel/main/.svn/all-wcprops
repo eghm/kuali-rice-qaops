@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/39777/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/main
+END
+notification.tag
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/main/notification.tag
+END
+rules.tag
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/39777/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/main/rules.tag
+END
+workflow.tag
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/main/workflow.tag
+END
+riceModules.tag
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/main/riceModules.tag
+END
+KNSMaintenanceDocuments.tag
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/main/KNSMaintenanceDocuments.tag
+END

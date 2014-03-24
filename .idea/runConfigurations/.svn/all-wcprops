@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/rice/!svn/ver/44613/trunk/.idea/runConfigurations
+END
+rice_standalone__tomcat_6_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_standalone__tomcat_6_.xml
+END
+rice_standalone__tomcat_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_standalone__tomcat_7_.xml
+END
+krad_web_theme_builder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/43978/trunk/.idea/runConfigurations/krad_web_theme_builder.xml
+END
+rice_sampleapp__jetty_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_sampleapp__jetty_7_.xml
+END
+rice_sampleapp__jetty_8_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_sampleapp__jetty_8_.xml
+END
+rice_standalone__jetty_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_standalone__jetty_7_.xml
+END
+JPA___Static_Bytecode_Weaving.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/44613/trunk/.idea/runConfigurations/JPA___Static_Bytecode_Weaving.xml
+END
+krad_sampleapp__tomcat_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/krad_sampleapp__tomcat_7_.xml
+END
+rice_sampleapp__tomcat_6_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_sampleapp__tomcat_6_.xml
+END
+rice_serviceregistry__jetty_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_serviceregistry__jetty_7_.xml
+END
+rice_standalone__jetty_8_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_standalone__jetty_8_.xml
+END
+rice_sampleapp__tomcat_7_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/44309/trunk/.idea/runConfigurations/rice_sampleapp__tomcat_7_.xml
+END

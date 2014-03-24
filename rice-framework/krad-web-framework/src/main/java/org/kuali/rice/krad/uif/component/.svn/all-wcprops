@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44940/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component
+END
+DelayedCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44741/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/DelayedCopy.java
+END
+PropertyReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/PropertyReplacer.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44923/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/Component.java
+END
+ScriptEventSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/ScriptEventSupport.java
+END
+MethodInvokerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44892/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/MethodInvokerConfig.java
+END
+KeepExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/KeepExpression.java
+END
+DataBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/DataBinding.java
+END
+Ordered.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/Ordered.java
+END
+ClientSideState.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/ClientSideState.java
+END
+BindingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/BindingInfo.java
+END
+RequestParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/RequestParameter.java
+END
+ReferenceCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/ReferenceCopy.java
+END
+ComponentSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44748/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/ComponentSecurity.java
+END
+ListAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/ListAware.java
+END
+ComponentBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44940/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/uif/component/ComponentBase.java
+END

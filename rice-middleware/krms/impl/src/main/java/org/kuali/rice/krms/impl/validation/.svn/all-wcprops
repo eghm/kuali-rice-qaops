@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/validation
+END
+ValidationRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/validation/ValidationRule.java
+END
+ValidationRuleTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/validation/ValidationRuleTypeServiceImpl.java
+END
+ValidationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/validation/ValidationAction.java
+END
+RadioButtonTypeServiceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/validation/RadioButtonTypeServiceUtil.java
+END
+ValidationActionTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/impl/src/main/java/org/kuali/rice/krms/impl/validation/ValidationActionTypeServiceImpl.java
+END

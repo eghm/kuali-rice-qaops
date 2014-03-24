@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/edl/service/impl
+END
+style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/edl/service/impl/style.xml
+END
+badstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/edl/service/impl/badstyle.xml
+END

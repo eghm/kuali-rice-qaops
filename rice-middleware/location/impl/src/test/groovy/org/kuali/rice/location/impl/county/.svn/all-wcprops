@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/test/groovy/org/kuali/rice/location/impl/county
+END
+CountyBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/test/groovy/org/kuali/rice/location/impl/county/CountyBoTest.groovy
+END
+CountyServiceImplTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/location/impl/src/test/groovy/org/kuali/rice/location/impl/county/CountyServiceImplTest.groovy
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44694/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging
+END
+DigitalSignatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/DigitalSignatureTest.java
+END
+KSBTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/KSBTestUtils.java
+END
+SOAPMessagingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/SOAPMessagingTest.java
+END
+ServiceCallVersioningTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43367/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/ServiceCallVersioningTest.java
+END
+KSBThreadPoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/KSBThreadPoolTest.java
+END
+SimpleServiceCallNoJtaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/SimpleServiceCallNoJtaTest.java
+END
+RemoteFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/RemoteFailureTest.java
+END
+MessagingTestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/MessagingTestObject.java
+END
+DelayedAsynchronousServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/DelayedAsynchronousServiceTest.java
+END
+SimpleServiceCallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/SimpleServiceCallTest.java
+END
+RestServiceDefinitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/RestServiceDefinitionTest.java
+END
+JmsMessagingNoRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/JmsMessagingNoRun.java
+END
+TestExceptionRoutingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/TestExceptionRoutingServiceImpl.java
+END
+ContextObjectMessagingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/ContextObjectMessagingTest.java
+END
+ServiceUpdateAndRemovalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/ServiceUpdateAndRemovalTest.java
+END
+DistributedTopicNoJtaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44133/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/DistributedTopicNoJtaTest.java
+END
+HttpInvokerConnectorConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/HttpInvokerConnectorConfigurationTest.java
+END
+Value1AndValue2PersistedOnMessageCallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44417/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/Value1AndValue2PersistedOnMessageCallTest.java
+END
+DistributedTopicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/DistributedTopicTest.java
+END
+TransactionMessagingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/TransactionMessagingTest.java
+END
+DevModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/DevModeTest.java
+END
+SOAPServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44694/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/SOAPServiceTest.java
+END
+MessageFetcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/MessageFetcherTest.java
+END
+DistributedQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/DistributedQueueTest.java
+END
+SoapServiceDefinitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/SoapServiceDefinitionTest.java
+END
+TestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/TestCallback.java
+END
+ClientAppServiceSharedPayloadObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/ClientAppServiceSharedPayloadObj.java
+END
+ExceptionRetryCountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/ExceptionRetryCountTest.java
+END
+ServiceCallClusterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/ServiceCallClusterTest.java
+END
+RESTServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/ksb/src/test/java/org/kuali/rice/ksb/messaging/RESTServiceTest.java
+END

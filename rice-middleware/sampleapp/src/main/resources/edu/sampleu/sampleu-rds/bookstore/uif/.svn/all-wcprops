@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/uif
+END
+BookTypeLookup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/uif/BookTypeLookup.xml
+END
+BookTypeView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/uif/BookTypeView.xml
+END

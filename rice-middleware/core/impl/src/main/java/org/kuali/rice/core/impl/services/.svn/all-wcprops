@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/services
+END
+CoreImplServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/services/CoreImplServiceLocator.java
+END
+ConfigurationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44259/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/services/ConfigurationServiceImpl.java
+END

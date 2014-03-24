@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim
+END
+personAddress.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personAddress.tag
+END
+responsibilityAction.tag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/responsibilityAction.tag
+END
+personAffln.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personAffln.tag
+END
+personEmail.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personEmail.tag
+END
+cell.tag
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/cell.tag
+END
+personCitizenship.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personCitizenship.tag
+END
+groupOverview.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/groupOverview.tag
+END
+personGroup.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personGroup.tag
+END
+personEmpInfo.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personEmpInfo.tag
+END
+personDelegations.tag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personDelegations.tag
+END
+personExternalId.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personExternalId.tag
+END
+personRole.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personRole.tag
+END
+personRoleQualifier.tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personRoleQualifier.tag
+END
+rolePermissions.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/rolePermissions.tag
+END
+attributeLookup.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/attributeLookup.tag
+END
+roleResponsibilityAction.tag
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/roleResponsibilityAction.tag
+END
+personPhone.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personPhone.tag
+END
+personPrivacy.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personPrivacy.tag
+END
+personName.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personName.tag
+END
+respActionsForModRoleMbrs.tag
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/respActionsForModRoleMbrs.tag
+END
+roleResponsibilities.tag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/roleResponsibilities.tag
+END
+respActionsForSearchResultMbrs.tag
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/respActionsForSearchResultMbrs.tag
+END
+roleDelegations.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/roleDelegations.tag
+END
+personMembership.tag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personMembership.tag
+END
+personContact.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personContact.tag
+END
+roleOverview.tag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/roleOverview.tag
+END
+personDelegationMemberQualifier.tag
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personDelegationMemberQualifier.tag
+END
+personOverview.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/personOverview.tag
+END
+groupAssignees.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/groupAssignees.tag
+END
+responsibilityActions.tag
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/responsibilityActions.tag
+END
+roleAssignees.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/39240/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/roleAssignees.tag
+END
+groupAttributes.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/kim/groupAttributes.tag
+END

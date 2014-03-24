@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/impl/document
+END
+KewDocumentDataJpaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44700/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/impl/document/KewDocumentDataJpaTest.java
+END
+WorkflowDocumentServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/42046/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/impl/document/WorkflowDocumentServiceImplTest.java
+END

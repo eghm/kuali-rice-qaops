@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/serviceregistry/src/main/resources/org/kuali/rice/serviceregistry/config
+END
+ServiceRegistrySpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/serviceregistry/src/main/resources/org/kuali/rice/serviceregistry/config/ServiceRegistrySpringBeans.xml
+END
+serviceregistry-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/serviceregistry/src/main/resources/org/kuali/rice/serviceregistry/config/serviceregistry-config.xml
+END

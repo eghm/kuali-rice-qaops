@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43978/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security
+END
+SignatureSigningResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/SignatureSigningResponseWrapper.java
+END
+SignatureVerifyingInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/SignatureVerifyingInputStream.java
+END
+DigitalSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/DigitalSigner.java
+END
+AbstractDigitalSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/AbstractDigitalSigner.java
+END
+HttpClientHeaderDigitalSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/HttpClientHeaderDigitalSigner.java
+END
+ResponseHeaderDigitalSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/ResponseHeaderDigitalSigner.java
+END
+SignatureSigningOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/SignatureSigningOutputStream.java
+END
+SignatureVerifyingRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/SignatureVerifyingRequestWrapper.java
+END

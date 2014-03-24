@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/config/acegi
+END
+exampleAcegiLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/config/acegi/exampleAcegiLogin.jsp
+END
+acegiBasic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/config/acegi/acegiBasic.xml
+END
+acegiDistributedSession.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/client-contrib/src/main/config/acegi/acegiDistributedSession.xml
+END

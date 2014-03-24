@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44264/trunk/rice-middleware/it/kns/src/test/resources/org/kuali/rice/kns/workflow
+END
+SearchAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44264/trunk/rice-middleware/it/kns/src/test/resources/org/kuali/rice/kns/workflow/SearchAttributes.xml
+END
+RuleAttributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44264/trunk/rice-middleware/it/kns/src/test/resources/org/kuali/rice/kns/workflow/RuleAttributes.xml
+END

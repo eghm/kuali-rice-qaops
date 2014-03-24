@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44424/trunk/rice-middleware/kim/kim-ldap/src/main/java/org/kuali/rice/kim/service/impl
+END
+LdapUiDocumentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44424/trunk/rice-middleware/kim/kim-ldap/src/main/java/org/kuali/rice/kim/service/impl/LdapUiDocumentServiceImpl.java
+END
+LdapIdentityDelegateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-ldap/src/main/java/org/kuali/rice/kim/service/impl/LdapIdentityDelegateServiceImpl.java
+END

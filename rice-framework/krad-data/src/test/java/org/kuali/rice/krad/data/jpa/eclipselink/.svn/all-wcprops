@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/eclipselink
+END
+JtaTransactionControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/eclipselink/JtaTransactionControllerTest.java
+END
+KradEclipseLinkEntityManagerFactoryBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/eclipselink/KradEclipseLinkEntityManagerFactoryBeanTest.java
+END
+EclipseLinkAnnotationMetadataProviderImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-data/src/test/java/org/kuali/rice/krad/data/jpa/eclipselink/EclipseLinkAnnotationMetadataProviderImplTest.java
+END

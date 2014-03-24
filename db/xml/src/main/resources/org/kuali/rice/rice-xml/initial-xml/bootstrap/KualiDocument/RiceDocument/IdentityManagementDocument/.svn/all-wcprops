@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/rice/!svn/ver/43801/trunk/db/xml/src/main/resources/org/kuali/rice/rice-xml/initial-xml/bootstrap/KualiDocument/RiceDocument/IdentityManagementDocument
+END
+IdentityManagementGroupDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/rice/!svn/ver/43801/trunk/db/xml/src/main/resources/org/kuali/rice/rice-xml/initial-xml/bootstrap/KualiDocument/RiceDocument/IdentityManagementDocument/IdentityManagementGroupDocument.xml
+END
+IdentityManagementRoleDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/rice/!svn/ver/43801/trunk/db/xml/src/main/resources/org/kuali/rice/rice-xml/initial-xml/bootstrap/KualiDocument/RiceDocument/IdentityManagementDocument/IdentityManagementRoleDocument.xml
+END
+IdentityManagementReviewResponsibilityMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/repos/rice/!svn/ver/43801/trunk/db/xml/src/main/resources/org/kuali/rice/rice-xml/initial-xml/bootstrap/KualiDocument/RiceDocument/IdentityManagementDocument/IdentityManagementReviewResponsibilityMaintenanceDocument.xml
+END
+IdentityManagementPersonDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/rice/!svn/ver/43801/trunk/db/xml/src/main/resources/org/kuali/rice/rice-xml/initial-xml/bootstrap/KualiDocument/RiceDocument/IdentityManagementDocument/IdentityManagementPersonDocument.xml
+END
+IdentityManagementGenericPermissionMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/repos/rice/!svn/ver/43801/trunk/db/xml/src/main/resources/org/kuali/rice/rice-xml/initial-xml/bootstrap/KualiDocument/RiceDocument/IdentityManagementDocument/IdentityManagementGenericPermissionMaintenanceDocument.xml
+END

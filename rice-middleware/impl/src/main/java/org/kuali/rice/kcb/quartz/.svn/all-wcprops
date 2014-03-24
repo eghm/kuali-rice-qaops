@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/quartz
+END
+ProcessingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/quartz/ProcessingResult.java
+END
+MessageProcessingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44296/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/quartz/MessageProcessingJob.java
+END
+ConcurrentJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kcb/quartz/ConcurrentJob.java
+END

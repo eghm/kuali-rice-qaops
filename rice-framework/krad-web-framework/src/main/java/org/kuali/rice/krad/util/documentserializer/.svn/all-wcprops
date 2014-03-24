@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/45342/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer
+END
+AlwaysTruePropertySerializibilityEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/AlwaysTruePropertySerializibilityEvaluator.java
+END
+PropertySerializerTrie.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/PropertySerializerTrie.java
+END
+BusinessObjectPropertySerializibilityEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/BusinessObjectPropertySerializibilityEvaluator.java
+END
+PropertySerializabilityEvaluatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/PropertySerializabilityEvaluatorBase.java
+END
+AlwaysFalsePropertySerializabilityEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/AlwaysFalsePropertySerializabilityEvaluator.java
+END
+PropertySerializabilityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/PropertySerializabilityMetadata.java
+END
+PropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/PropertyType.java
+END
+PropertySerializabilityEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/PropertySerializabilityEvaluator.java
+END
+PropertySerializerTrieNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/PropertySerializerTrieNode.java
+END
+DocumentSerializationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/DocumentSerializationState.java
+END
+SerializationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/44740/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/util/documentserializer/SerializationState.java
+END

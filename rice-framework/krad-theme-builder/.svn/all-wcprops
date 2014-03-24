@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/rice/!svn/ver/44830/trunk/rice-framework/krad-theme-builder
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/40665/trunk/rice-framework/krad-theme-builder/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/40665/trunk/rice-framework/krad-theme-builder/.project
+END
+rice-krad-theme-builder.iml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44789/trunk/rice-framework/krad-theme-builder/rice-krad-theme-builder.iml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/44830/trunk/rice-framework/krad-theme-builder/pom.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/search
+END
+RangeTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/search/RangeTest.groovy
+END
+SearchExpressionUtilsTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/api/src/test/groovy/org/kuali/rice/core/api/search/SearchExpressionUtilsTest.groovy
+END

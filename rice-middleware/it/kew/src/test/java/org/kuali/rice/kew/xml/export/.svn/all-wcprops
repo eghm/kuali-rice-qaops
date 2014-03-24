@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/45194/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export
+END
+RuleXmlExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/RuleXmlExporterTest.java
+END
+KualiOrgReviewAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/KualiOrgReviewAttribute.java
+END
+RuleAttributeXmlExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/RuleAttributeXmlExporterTest.java
+END
+XmlExporterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/XmlExporterTestCase.java
+END
+GroupXmlExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/GroupXmlExporterTest.java
+END
+DocumentTypeXmlExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/DocumentTypeXmlExporterTest.java
+END
+StyleXmlExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/StyleXmlExporterTest.java
+END
+RuleTemplateXmlExporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/45194/trunk/rice-middleware/it/kew/src/test/java/org/kuali/rice/kew/xml/export/RuleTemplateXmlExporterTest.java
+END

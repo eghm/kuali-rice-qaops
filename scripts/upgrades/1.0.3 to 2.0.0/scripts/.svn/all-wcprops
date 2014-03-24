@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/scripts
+END
+ResponsibilityNamespaceNameUniquifierCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/scripts/ResponsibilityNamespaceNameUniquifierCommand.groovy
+END
+RecordUniquifier.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/scripts/RecordUniquifier.groovy
+END
+PermissionsNamespaceNameUniquifierCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/scripts/PermissionsNamespaceNameUniquifierCommand.groovy
+END
+RecordSelectPerform.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/scripts/RecordSelectPerform.groovy
+END
+RecordSelectTransform.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/1.0.3%20to%202.0.0/scripts/RecordSelectTransform.groovy
+END

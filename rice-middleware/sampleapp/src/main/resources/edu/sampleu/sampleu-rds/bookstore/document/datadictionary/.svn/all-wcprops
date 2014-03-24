@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/document/datadictionary
+END
+AuthorMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/document/datadictionary/AuthorMaintenanceDocument.xml
+END
+BookOrderDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/document/datadictionary/BookOrderDocument.xml
+END
+AddressTypeMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/document/datadictionary/AddressTypeMaintenanceDocument.xml
+END
+BookMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/document/datadictionary/BookMaintenanceDocument.xml
+END
+BookTypeMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/resources/edu/sampleu/sampleu-rds/bookstore/document/datadictionary/BookTypeMaintenanceDocument.xml
+END

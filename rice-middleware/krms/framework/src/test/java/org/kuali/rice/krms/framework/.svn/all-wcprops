@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/44129/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework
+END
+AgendaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44129/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/AgendaTest.java
+END
+TermResolutionEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/TermResolutionEngineTest.java
+END
+TermResolverMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/TermResolverMock.java
+END
+ResultLoggingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/ResultLoggingTest.java
+END
+CollectionOfComparablesTermBasedPropositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/CollectionOfComparablesTermBasedPropositionTest.java
+END
+ActionMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/ActionMock.java
+END
+KRMSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/KRMSTest.java
+END
+ManualContextProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/ManualContextProvider.java
+END
+SayHelloAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/krms/framework/src/test/java/org/kuali/rice/krms/framework/SayHelloAction.java
+END

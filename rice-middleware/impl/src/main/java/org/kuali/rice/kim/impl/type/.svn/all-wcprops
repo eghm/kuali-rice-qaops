@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/impl/type
+END
+KimTypeLookupableHelperServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/impl/type/KimTypeLookupableHelperServiceImpl.java
+END
+KimTypeQualifierResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/impl/type/KimTypeQualifierResolver.java
+END
+KimTypeAttributesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/impl/type/KimTypeAttributesHelper.java
+END
+IdentityManagementTypeAttributeTransactionalDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/impl/type/IdentityManagementTypeAttributeTransactionalDocument.java
+END

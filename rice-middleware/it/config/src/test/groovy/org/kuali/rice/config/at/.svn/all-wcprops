@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/config/src/test/groovy/org/kuali/rice/config/at
+END
+OutputAwareMvnExecutor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/config/src/test/groovy/org/kuali/rice/config/at/OutputAwareMvnExecutor.groovy
+END
+OutputAwareMvnContext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/config/src/test/groovy/org/kuali/rice/config/at/OutputAwareMvnContext.groovy
+END
+OutputAwareMvnContextImpl.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/config/src/test/groovy/org/kuali/rice/config/at/OutputAwareMvnContextImpl.groovy
+END
+QuickStartTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/config/src/test/groovy/org/kuali/rice/config/at/QuickStartTest.groovy
+END

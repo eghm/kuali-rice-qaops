@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44656/trunk/rice-middleware/it/location/src/test/java/org/kuali/rice/location/web
+END
+CountyMaintenanceDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/location/src/test/java/org/kuali/rice/location/web/CountyMaintenanceDocumentTest.java
+END
+CountryMaintenanceDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44656/trunk/rice-middleware/it/location/src/test/java/org/kuali/rice/location/web/CountryMaintenanceDocumentTest.java
+END
+CampusTypeMaintenanceDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/location/src/test/java/org/kuali/rice/location/web/CampusTypeMaintenanceDocumentTest.java
+END

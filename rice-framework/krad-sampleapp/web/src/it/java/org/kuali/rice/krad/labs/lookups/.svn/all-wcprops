@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/45300/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups
+END
+LabsLookupWithUserControlAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44921/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupWithUserControlAft.java
+END
+LabsLookupMultipleValuesReturnAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/45300/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupMultipleValuesReturnAft.java
+END
+LabsLookupMvViewAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupMvViewAft.java
+END
+LabsLookupHiddenCriteriaAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupHiddenCriteriaAft.java
+END
+LabsLookupBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupBase.java
+END
+LabsLookupDefaultCreateNewBlanketApproveAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/44416/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupDefaultCreateNewBlanketApproveAft.java
+END
+LabsLookupCriteriaFooterAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupCriteriaFooterAft.java
+END
+LabsLookupHeadingsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44528/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupHeadingsAft.java
+END
+LabsLookupValidateSearchParamsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupValidateSearchParamsAft.java
+END
+LabsLookupDirectInquiryDisabledAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupDirectInquiryDisabledAft.java
+END
+LabsLookupDefaultAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupDefaultAft.java
+END
+LabsLookupWithoutSearchButtonAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupWithoutSearchButtonAft.java
+END
+LabsLookUpConditionalCriteriaAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44527/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookUpConditionalCriteriaAft.java
+END
+LabsLookupMvParentViewAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupMvParentViewAft.java
+END
+LabsLookupInquiryDisabledAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupInquiryDisabledAft.java
+END
+LabsLookupWithGroupControlAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupWithGroupControlAft.java
+END
+LabsLookupMvUrlSearchAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupMvUrlSearchAft.java
+END
+LabsLookupMultipleCriteriaColumnAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupMultipleCriteriaColumnAft.java
+END
+LabsLookupDefaultSortAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupDefaultSortAft.java
+END
+LabsLookupAutomaticPassingOfKeysAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupAutomaticPassingOfKeysAft.java
+END
+LabsLookupQuickFinderDisabledAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupQuickFinderDisabledAft.java
+END
+LabsLookupResultsLimitAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupResultsLimitAft.java
+END
+LabsLookupDisabledWildcardsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupDisabledWildcardsAft.java
+END
+LabsLookupMvUrlAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/lookups/LabsLookupMvUrlAft.java
+END

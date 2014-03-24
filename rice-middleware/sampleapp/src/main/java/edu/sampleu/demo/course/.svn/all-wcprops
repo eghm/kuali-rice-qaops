@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/course
+END
+Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/course/Course.java
+END
+CourseOfferingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/course/CourseOfferingController.java
+END
+CourseOfferingForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/course/CourseOfferingForm.java
+END
+CourseSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/course/CourseSection.java
+END
+CourseInstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/demo/course/CourseInstructor.java
+END

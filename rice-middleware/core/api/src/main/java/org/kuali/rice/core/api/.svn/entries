@@ -1,0 +1,153 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/core/api/src/main/java/org/kuali/rice/core/api
+https://svn.kuali.org/repos/rice
+
+
+
+2014-03-18T04:28:45.921429Z
+45428
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+mail
+dir
+
+impex
+dir
+
+uif
+dir
+
+reflect
+dir
+
+encryption
+dir
+
+membership
+dir
+
+datetime
+dir
+
+exception
+dir
+
+lifecycle
+dir
+
+criteria
+dir
+
+cache
+dir
+
+config
+dir
+
+search
+dir
+
+CoreConstants.java
+file
+
+
+
+
+2014-03-13T11:30:25.000000Z
+bf452b4d6c8df5cab50ad2ff82826f54
+2014-03-12T19:38:15.111880Z
+45317
+kbtaylor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7166
+
+security
+dir
+
+CoreApiServiceLocator.java
+file
+
+
+
+
+2014-01-09T01:34:31.000000Z
+358613fd0a82d19f9db2b104d3ce7550
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2453
+
+data
+dir
+
+mo
+dir
+
+delegation
+dir
+
+util
+dir
+
+resourceloader
+dir
+

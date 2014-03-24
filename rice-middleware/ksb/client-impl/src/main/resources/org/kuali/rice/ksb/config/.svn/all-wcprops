@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44947/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config
+END
+OJB-repository-ksb-bam.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config/OJB-repository-ksb-bam.xml
+END
+KsbServiceBusClientSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config/KsbServiceBusClientSpringBeans.xml
+END
+remoting-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config/remoting-servlet.xml
+END
+KsbJpaMessageClientSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44947/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config/KsbJpaMessageClientSpringBeans.xml
+END
+KsbBamSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config/KsbBamSpringBeans.xml
+END
+KsbMessageClientSpringBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/resources/org/kuali/rice/ksb/config/KsbMessageClientSpringBeans.xml
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document
+END
+BOContainingPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/BOContainingPerson.java
+END
+AccountRequestDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRequestDocument.java
+END
+AccountWithDDAttributesDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44634/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountWithDDAttributesDocument.java
+END
+AccountType2MaintainableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44629/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountType2MaintainableImpl.java
+END
+AccountRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRules.java
+END
+AccountRequestType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRequestType.java
+END
+SearchAttributeIndexTestDocumentOjb.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44863/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/SearchAttributeIndexTestDocumentOjb.java
+END
+OjbOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/40326/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/OjbOnly.java
+END
+SearchAttributeIndexTestDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44593/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/SearchAttributeIndexTestDocument.java
+END
+AccountRequestDocumentAuthorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRequestDocumentAuthorizer.java
+END
+AccountRequestDocumentWithCyclicalReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRequestDocumentWithCyclicalReference.java
+END
+AccountStateKeyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountStateKeyValues.java
+END
+AccountRequestDocument2.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRequestDocument2.java
+END
+AccountTypeKeyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountTypeKeyValues.java
+END
+OjbAndJpa.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44845/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/OjbAndJpa.java
+END
+AccountRequestDocumentRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/java/org/kuali/rice/krad/test/document/AccountRequestDocumentRule.java
+END

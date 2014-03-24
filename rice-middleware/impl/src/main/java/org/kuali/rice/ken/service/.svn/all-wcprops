@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44310/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service
+END
+NotificationMessageDeliveryAutoRemovalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationMessageDeliveryAutoRemovalService.java
+END
+NotificationChannelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationChannelService.java
+END
+NotificationMessageDeliveryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationMessageDeliveryService.java
+END
+NotificationWorkflowDocumentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationWorkflowDocumentService.java
+END
+NotificationMessageDeliveryResolverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationMessageDeliveryResolverService.java
+END
+NotificationContentTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationContentTypeService.java
+END
+NotificationMessageContentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationMessageContentService.java
+END
+NotificationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationService.java
+END
+NotificationAuthorizationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationAuthorizationService.java
+END
+NotificationRecipientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/NotificationRecipientService.java
+END
+ProcessingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/ProcessingResult.java
+END
+UserPreferenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken/service/UserPreferenceService.java
+END

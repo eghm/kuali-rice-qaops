@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/engine
+END
+PostProcessorSpawnedDocConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/engine/PostProcessorSpawnedDocConfig.xml
+END
+EngineConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/engine/EngineConfig.xml
+END
+RouteNodeConfigParams.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/engine/RouteNodeConfigParams.xml
+END

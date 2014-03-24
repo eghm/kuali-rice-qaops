@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/remote/src/test/java/org/kuali/rice/krms/impl/repository
+END
+FunctionRepositoryServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/remote/src/test/java/org/kuali/rice/krms/impl/repository/FunctionRepositoryServiceRemoteTest.java
+END
+RuleRepositoryServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/remote/src/test/java/org/kuali/rice/krms/impl/repository/RuleRepositoryServiceRemoteTest.java
+END
+TermRepositoryServiceRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/remote/src/test/java/org/kuali/rice/krms/impl/repository/TermRepositoryServiceRemoteTest.java
+END

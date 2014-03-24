@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/apache/commons/httpclient/contrib/ssl
+END
+EasyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/apache/commons/httpclient/contrib/ssl/EasyX509TrustManager.java
+END
+EasySSLProtocolSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/apache/commons/httpclient/contrib/ssl/EasySSLProtocolSocketFactory.java
+END

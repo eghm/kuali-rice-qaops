@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/45359/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action
+END
+KualiAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/45359/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiAction.java
+END
+KualiMaintenanceDocumentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiMaintenanceDocumentAction.java
+END
+KualiMultipleValueLookupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiMultipleValueLookupAction.java
+END
+KualiFeedbackHandlerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiFeedbackHandlerAction.java
+END
+QuestionPromptAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/QuestionPromptAction.java
+END
+KualiTableRenderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiTableRenderAction.java
+END
+KualiHelpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiHelpAction.java
+END
+KualiSimpleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiSimpleAction.java
+END
+KualiMultipartRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiMultipartRequestHandler.java
+END
+KualiTransactionalDocumentActionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiTransactionalDocumentActionBase.java
+END
+KualiExceptionHandlerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiExceptionHandlerAction.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/package-info.java
+END
+KualiInquiryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiInquiryAction.java
+END
+KualiPortalAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiPortalAction.java
+END
+KualiLookupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiLookupAction.java
+END
+KualiDocumentActionBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44698/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns/web/struts/action/KualiDocumentActionBase.java
+END

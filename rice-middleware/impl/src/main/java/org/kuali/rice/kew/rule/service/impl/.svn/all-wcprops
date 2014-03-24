@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/45509/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/service/impl
+END
+RuleDelegationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/service/impl/RuleDelegationServiceImpl.java
+END
+RuleTemplateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/service/impl/RuleTemplateServiceImpl.java
+END
+RuleServiceInternalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/45509/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/service/impl/RuleServiceInternalImpl.java
+END
+RuleAttributeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/service/impl/RuleAttributeServiceImpl.java
+END

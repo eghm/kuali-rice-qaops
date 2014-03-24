@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/43978/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/soap
+END
+CXFWSS4JInInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43978/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/soap/CXFWSS4JInInterceptor.java
+END
+CXFWSS4JOutInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/soap/CXFWSS4JOutInterceptor.java
+END
+CredentialsOutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/security/soap/CredentialsOutHandler.java
+END

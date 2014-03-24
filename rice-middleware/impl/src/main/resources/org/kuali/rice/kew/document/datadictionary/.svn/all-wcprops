@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/resources/org/kuali/rice/kew/document/datadictionary
+END
+RoutingRuleMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/resources/org/kuali/rice/kew/document/datadictionary/RoutingRuleMaintenanceDocument.xml
+END
+DocumentTypeMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/resources/org/kuali/rice/kew/document/datadictionary/DocumentTypeMaintenanceDocument.xml
+END
+RoutingRuleDelegationMaintenanceDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/resources/org/kuali/rice/kew/document/datadictionary/RoutingRuleDelegationMaintenanceDocument.xml
+END

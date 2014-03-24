@@ -1,0 +1,123 @@
+10
+
+dir
+45548
+https://svn.kuali.org/repos/rice/trunk/rice-middleware/kim/kim-api/src/main/java/org/kuali/rice/kim/api
+https://svn.kuali.org/repos/rice
+
+
+
+2014-02-11T16:48:09.148555Z
+44648
+kbtaylor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7a7aa7f6-c479-11dc-97e2-85a2497f191d
+
+responsibility
+dir
+
+role
+dir
+
+type
+dir
+
+cache
+dir
+
+services
+dir
+
+KimApiConstants.java
+file
+
+
+
+
+2014-01-09T01:34:19.000000Z
+05c82b991e9e5134fd7a588a5ddb1761
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2141
+
+common
+dir
+
+permission
+dir
+
+identity
+dir
+
+group
+dir
+
+KimConstants.java
+file
+
+
+
+
+2014-01-09T01:34:19.000000Z
+a6e91f1e4b862105a8f5dd8faab5965d
+2014-01-01T06:07:05.553233Z
+43801
+jcaddel
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20874
+

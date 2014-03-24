@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/45450/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/transactional
+END
+LabsTransactionalBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/45000/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/transactional/LabsTransactionalBase.java
+END
+LabsLookupSecurityTravelAuthorizationDocumentAuthorizedAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/rice/!svn/ver/45450/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/transactional/LabsLookupSecurityTravelAuthorizationDocumentAuthorizedAft.java
+END
+LabsLookupSecurityTravelAuthorizationDocumentBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/rice/!svn/ver/45450/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/transactional/LabsLookupSecurityTravelAuthorizationDocumentBase.java
+END
+LabsLookupSecurityTravelAuthorizationDocumentUnauthorizedAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/rice/!svn/ver/45450/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/labs/transactional/LabsLookupSecurityTravelAuthorizationDocumentUnauthorizedAft.java
+END

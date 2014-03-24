@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/38071/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration
+END
+configuration.tag
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration/configuration.tag
+END
+identity.tag
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/38071/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration/identity.tag
+END
+serviceBus.tag
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration/serviceBus.tag
+END
+workflow.tag
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration/workflow.tag
+END
+misc.tag
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration/misc.tag
+END
+sendNotification.tag
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/37666/trunk/rice-middleware/web/src/main/webapp/WEB-INF/tags/rice-portal/channel/administration/sendNotification.tag
+END

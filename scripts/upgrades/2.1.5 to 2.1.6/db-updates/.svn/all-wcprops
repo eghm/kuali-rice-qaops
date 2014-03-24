@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.1.5%20to%202.1.6/db-updates
+END
+2013-04-30.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.1.5%20to%202.1.6/db-updates/2013-04-30.sql
+END
+mysql-2013-04-30.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.1.5%20to%202.1.6/db-updates/mysql-2013-04-30.sql
+END

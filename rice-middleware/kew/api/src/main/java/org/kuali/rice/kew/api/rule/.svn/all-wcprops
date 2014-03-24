@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule
+END
+RoleNameContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RoleNameContract.java
+END
+RuleDelegationContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleDelegationContract.java
+END
+RuleTemplateContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplateContract.java
+END
+RuleExtensionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleExtensionContract.java
+END
+RoleName.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RoleName.java
+END
+RuleDelegation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleDelegation.java
+END
+RuleTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplate.java
+END
+RuleExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleExtension.java
+END
+RuleResponsibilityContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleResponsibilityContract.java
+END
+RuleContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleContract.java
+END
+RuleResponsibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleResponsibility.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/Rule.java
+END
+RuleTemplateQueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplateQueryResults.java
+END
+RuleQueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleQueryResults.java
+END
+RuleReportCriteriaContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleReportCriteriaContract.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/package-info.java
+END
+RuleExpressionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleExpressionContract.java
+END
+RuleTemplateAttributeContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplateAttributeContract.java
+END
+RuleReportCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleReportCriteria.java
+END
+RuleExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleExpression.java
+END
+RuleTemplateAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplateAttribute.java
+END
+RuleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleService.java
+END
+RuleTemplateOptionContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplateOptionContract.java
+END
+RuleTemplateOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kew/api/src/main/java/org/kuali/rice/kew/api/rule/RuleTemplateOption.java
+END

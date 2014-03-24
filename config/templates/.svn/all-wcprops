@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/rice/!svn/ver/44134/trunk/config/templates
+END
+common-test-config.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/rice/!svn/ver/43801/trunk/config/templates/common-test-config.template.xml
+END
+sample-app-config.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/44134/trunk/config/templates/sample-app-config.template.xml
+END
+createproject.launch.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/43801/trunk/config/templates/createproject.launch.template.xml
+END
+createproject.pom.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/43801/trunk/config/templates/createproject.pom.template.xml
+END

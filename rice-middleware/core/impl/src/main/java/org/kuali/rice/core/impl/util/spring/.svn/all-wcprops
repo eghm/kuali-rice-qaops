@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/util/spring
+END
+AnnotationAndNameMatchingTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/util/spring/AnnotationAndNameMatchingTransactionAttributeSource.java
+END
+RiceJotmFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/util/spring/RiceJotmFactoryBean.java
+END

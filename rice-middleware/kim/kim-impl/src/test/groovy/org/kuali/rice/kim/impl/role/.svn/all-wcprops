@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/role
+END
+RolePermissionBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/role/RolePermissionBoTest.groovy
+END
+RoleResponsibilityActionBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/role/RoleResponsibilityActionBoTest.groovy
+END
+RoleBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/role/RoleBoTest.groovy
+END
+RoleResponsibilityBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/role/RoleResponsibilityBoTest.groovy
+END
+RoleMemberBoTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/kim/kim-impl/src/test/groovy/org/kuali/rice/kim/impl/role/RoleMemberBoTest.groovy
+END

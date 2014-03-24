@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/rice/!svn/ver/44947/trunk/rice-middleware/ksb/client-impl
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/rice/!svn/ver/44647/trunk/rice-middleware/ksb/client-impl/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/40665/trunk/rice-middleware/ksb/client-impl/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/rice/!svn/ver/44830/trunk/rice-middleware/ksb/client-impl/pom.xml
+END
+rice-ksb-client-impl.iml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/44789/trunk/rice-middleware/ksb/client-impl/rice-ksb-client-impl.iml
+END

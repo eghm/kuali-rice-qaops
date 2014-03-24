@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property
+END
+ConfigPropertiesFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigPropertiesFactoryBean.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/Param.java
+END
+HierarchicalConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/HierarchicalConfigParser.java
+END
+ConfigParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigParser.java
+END
+ConfigFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigFactoryBean.java
+END
+ConfigParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigParserImpl.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/Config.java
+END
+ConfigLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigLogger.java
+END
+ConfigPropertyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigPropertyFactoryBean.java
+END
+ConfigInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigInitializer.java
+END
+ConfigParserImplConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/ConfigParserImplConfig.java
+END
+JAXBConfigImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44134/trunk/rice-middleware/core/impl/src/main/java/org/kuali/rice/core/impl/config/property/JAXBConfigImpl.java
+END

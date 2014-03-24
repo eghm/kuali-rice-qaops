@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/lifecycles
+END
+SQLDataLoaderLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/lifecycles/SQLDataLoaderLifecycle.java
+END
+PerSuiteDataLoaderLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/lifecycles/PerSuiteDataLoaderLifecycle.java
+END
+PerTestDataLoaderLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/lifecycles/PerTestDataLoaderLifecycle.java
+END
+KEWXmlDataLoaderLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/internal-tools/src/main/java/org/kuali/rice/test/lifecycles/KEWXmlDataLoaderLifecycle.java
+END

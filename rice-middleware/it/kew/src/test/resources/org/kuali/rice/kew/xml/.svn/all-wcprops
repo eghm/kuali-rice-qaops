@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml
+END
+TestKEWAppDocStatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/TestKEWAppDocStatus.xml
+END
+RT_ValidRuleTemplateFullOverwrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateFullOverwrite.xml
+END
+ChildParentTestConfig1_Routing2_Prep.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ChildParentTestConfig1_Routing2_Prep.xml
+END
+BadExceptionWorkgroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadExceptionWorkgroup.xml
+END
+edldoccontent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/edldoccontent.xml
+END
+RT_InvalidRuleTemplateOverwrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_InvalidRuleTemplateOverwrite.xml
+END
+OverwriteDocumentType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/OverwriteDocumentType.xml
+END
+ValidRuleSelector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ValidRuleSelector.xml
+END
+OrphanedNodes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/OrphanedNodes.xml
+END
+RT_ValidRuleTemplateWithSomeRemovedDefaultsOverwrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateWithSomeRemovedDefaultsOverwrite.xml
+END
+DocumentType_white_space_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocumentType_white_space_test.xml
+END
+RT_ActivationAttributesTest_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ActivationAttributesTest_1.xml
+END
+BlanketApprovePolicy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BlanketApprovePolicy.xml
+END
+RT_ActivationAttributesTest_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ActivationAttributesTest_2.xml
+END
+RT_ValidRuleTemplateOverwrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateOverwrite.xml
+END
+RT_ValidRuleTemplateWithFullDefaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateWithFullDefaults.xml
+END
+RT_ActivationAttributesTest_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ActivationAttributesTest_3.xml
+END
+RT_ValidRuleTemplateWithSomeDefaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateWithSomeDefaults.xml
+END
+RT_ActivationAttributesTest_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ActivationAttributesTest_4.xml
+END
+DocumentType_newline_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocumentType_newline_test.xml
+END
+InvalidParent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/InvalidParent.xml
+END
+NoDocHandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/NoDocHandler.xml
+END
+ValidPolicyNames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ValidPolicyNames.xml
+END
+RuleAttribute_white_space_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RuleAttribute_white_space_test.xml
+END
+RuleAttribute_newline_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RuleAttribute_newline_test.xml
+END
+RoutePathOnlyDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RoutePathOnlyDocument.xml
+END
+RuleTemplate_test_white_space.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RuleTemplate_test_white_space.xml
+END
+DeprecatedDocumentTags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DeprecatedDocumentTags.xml
+END
+DocumentStatusPolicyMissingStringValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocumentStatusPolicyMissingStringValue.xml
+END
+Rule_white_space_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/Rule_white_space_test.xml
+END
+ChildParentTestConfig1_Reordered2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ChildParentTestConfig1_Reordered2.xml
+END
+RT_ValidRuleTemplateWithDefaultsDescriptionOnly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateWithDefaultsDescriptionOnly.xml
+END
+RuleTemplate_test_newline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RuleTemplate_test_newline.xml
+END
+BadKEWAppDocStatusTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadKEWAppDocStatusTemplate.xml
+END
+BadSuperUserWorkgroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadSuperUserWorkgroup.xml
+END
+DocumentTypePolicyConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocumentTypePolicyConfig.xml
+END
+Rule_newline_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/Rule_newline_test.xml
+END
+RT_ValidRuleTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplate.xml
+END
+RuleTemplateConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RuleTemplateConfig.xml
+END
+ReportingWorkgroupName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ReportingWorkgroupName.xml
+END
+DuplicatePolicyName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DuplicatePolicyName.xml
+END
+BadNextNode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadNextNode.xml
+END
+RoutePathAdjustment1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RoutePathAdjustment1.xml
+END
+RoutePathAdjustment2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RoutePathAdjustment2.xml
+END
+VersionNumberCheck.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/VersionNumberCheck.xml
+END
+DocumentStatusPolicyInvalidStringValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocumentStatusPolicyInvalidStringValue.xml
+END
+ChildParentTestConfig1_Routing2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ChildParentTestConfig1_Routing2.xml
+END
+ChildParentTestConfig1_Reordered.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ChildParentTestConfig1_Reordered.xml
+END
+DocTypeWithNoLabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocTypeWithNoLabel.xml
+END
+DocTypeWithNoLabelPreviousVersion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DocTypeWithNoLabelPreviousVersion.xml
+END
+BadBlanketApproveWorkgroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadBlanketApproveWorkgroup.xml
+END
+ValidActivationTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ValidActivationTypes.xml
+END
+BadPolicyName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadPolicyName.xml
+END
+RT_ValidRuleTemplateWithSomeDefaultsOverwrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplateWithSomeDefaultsOverwrite.xml
+END
+NoRoutePathOnlyDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/NoRoutePathOnlyDocument.xml
+END
+DualDocumentTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/DualDocumentTypes.xml
+END
+BadActivationType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadActivationType.xml
+END
+BadRuleTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/BadRuleTemplate.xml
+END
+RT_ValidRuleTemplate_Full.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/RT_ValidRuleTemplate_Full.xml
+END
+ChildParentTestConfig1_Routing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/44098/trunk/rice-middleware/it/kew/src/test/resources/org/kuali/rice/kew/xml/ChildParentTestConfig1_Routing.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/45281/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/demo/travel/dataobject
+END
+TravelSubAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/45281/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/demo/travel/dataobject/TravelSubAccount.java
+END
+TravelAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/45043/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/demo/travel/dataobject/TravelAccount.java
+END
+TravelAccountType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/44379/trunk/rice-framework/krad-sampleapp/web/src/main/java/org/kuali/rice/krad/demo/travel/dataobject/TravelAccountType.java
+END

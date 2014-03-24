@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/identity/phone
+END
+EntityPhoneBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/identity/phone/EntityPhoneBase.java
+END
+EntityPhoneBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/identity/phone/EntityPhoneBo.java
+END
+EntityPhoneTypeBo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/44335/trunk/rice-middleware/kim/kim-impl/src/main/java/org/kuali/rice/kim/impl/identity/phone/EntityPhoneTypeBo.java
+END

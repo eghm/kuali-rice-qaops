@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/servlet
+END
+CXFServletControllerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/servlet/CXFServletControllerAdapter.java
+END
+KSBDispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/servlet/KSBDispatcherServlet.java
+END
+KSBHttpInvokerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/ksb/client-impl/src/main/java/org/kuali/rice/ksb/messaging/servlet/KSBHttpInvokerHandler.java
+END

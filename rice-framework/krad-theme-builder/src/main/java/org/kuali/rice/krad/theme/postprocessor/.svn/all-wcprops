@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/main/java/org/kuali/rice/krad/theme/postprocessor
+END
+ThemeJsFilesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/main/java/org/kuali/rice/krad/theme/postprocessor/ThemeJsFilesProcessor.java
+END
+ThemeFilesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/main/java/org/kuali/rice/krad/theme/postprocessor/ThemeFilesProcessor.java
+END
+ThemeCssFilesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-theme-builder/src/main/java/org/kuali/rice/krad/theme/postprocessor/ThemeCssFilesProcessor.java
+END

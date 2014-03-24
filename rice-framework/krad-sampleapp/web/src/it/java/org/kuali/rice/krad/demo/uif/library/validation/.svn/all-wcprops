@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/rice/!svn/ver/45239/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation
+END
+DemoValidationIntegerConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationIntegerConstraintsAft.java
+END
+DemoValidationNumericConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationNumericConstraintsAft.java
+END
+DemoValidationAnyCharacterConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationAnyCharacterConstraintsAft.java
+END
+DemoValidationAlphaNumericConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationAlphaNumericConstraintsAft.java
+END
+DemoValidationFixedPointConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationFixedPointConstraintsAft.java
+END
+DemoValidationRegexBasedConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/rice/!svn/ver/45214/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationRegexBasedConstraintsAft.java
+END
+DemoValidationCaseConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationCaseConstraintsAft.java
+END
+DemoValidationDatePatternConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationDatePatternConstraintsAft.java
+END
+DemoValidationFloatingPointConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationFloatingPointConstraintsAft.java
+END
+DemoValidationPrerequisiteConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationPrerequisiteConstraintsAft.java
+END
+DemoValidationMustOccurConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/rice/!svn/ver/45239/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationMustOccurConstraintsAft.java
+END
+DemoValidationAlphaConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationAlphaConstraintsAft.java
+END
+DemoValidationCharsetPatternConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationCharsetPatternConstraintsAft.java
+END
+DemoValidationSimpleConstraintsAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationSimpleConstraintsAft.java
+END
+DemoValidationSimpleConstraintsRequiredAft.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/rice/!svn/ver/44028/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library/validation/DemoValidationSimpleConstraintsRequiredAft.java
+END

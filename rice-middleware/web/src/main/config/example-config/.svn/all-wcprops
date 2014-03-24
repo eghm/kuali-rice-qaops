@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/43978/trunk/rice-middleware/web/src/main/config/example-config
+END
+rice-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/main/config/example-config/rice-config.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/43978/trunk/rice-middleware/web/src/main/config/example-config/log4j.properties
+END

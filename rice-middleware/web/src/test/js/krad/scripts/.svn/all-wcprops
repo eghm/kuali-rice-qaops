@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/test/js/krad/scripts
+END
+jsTestDriver.conf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/40084/trunk/rice-middleware/web/src/test/js/krad/scripts/jsTestDriver.conf
+END
+krad.utility.test.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/web/src/test/js/krad/scripts/krad.utility.test.js
+END

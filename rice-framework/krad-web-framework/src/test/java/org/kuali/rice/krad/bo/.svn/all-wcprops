@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo
+END
+ModuleServiceBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/ModuleServiceBaseTest.java
+END
+SessionDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/SessionDocumentTest.java
+END
+DocumentAttachmentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/DocumentAttachmentTest.java
+END
+ModuleConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-framework/krad-web-framework/src/test/java/org/kuali/rice/krad/bo/ModuleConfigurationTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/maintenance
+END
+BookMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/maintenance/BookMaintainable.java
+END
+AuthorMaintainable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/sampleapp/src/main/java/edu/sampleu/bookstore/maintenance/AuthorMaintainable.java
+END

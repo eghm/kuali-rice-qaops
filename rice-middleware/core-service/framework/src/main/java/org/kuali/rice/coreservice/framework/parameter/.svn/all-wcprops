@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/framework/src/main/java/org/kuali/rice/coreservice/framework/parameter
+END
+ParameterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/framework/src/main/java/org/kuali/rice/coreservice/framework/parameter/ParameterService.java
+END
+ParameterEbo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/framework/src/main/java/org/kuali/rice/coreservice/framework/parameter/ParameterEbo.java
+END
+ParameterTypeEbo.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/framework/src/main/java/org/kuali/rice/coreservice/framework/parameter/ParameterTypeEbo.java
+END
+ParameterConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/core-service/framework/src/main/java/org/kuali/rice/coreservice/framework/parameter/ParameterConstants.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/notes
+END
+CustomNoteAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/notes/CustomNoteAttribute.java
+END
+Note.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/44325/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/notes/Note.java
+END
+CustomNoteAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/notes/CustomNoteAttributeImpl.java
+END
+WorkflowNoteAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/notes/WorkflowNoteAttributeImpl.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/notes/Attachment.java
+END

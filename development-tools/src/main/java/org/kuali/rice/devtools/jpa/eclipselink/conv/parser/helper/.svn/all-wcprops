@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/44308/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper
+END
+NodeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/NodeData.java
+END
+VoidVisitorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/VoidVisitorHelper.java
+END
+Level.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/Level.java
+END
+AnnotationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/AnnotationHelper.java
+END
+AnnotationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/AnnotationResolver.java
+END
+VoidVisitorHelperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/rice/!svn/ver/43801/trunk/development-tools/src/main/java/org/kuali/rice/devtools/jpa/eclipselink/conv/parser/helper/VoidVisitorHelperBase.java
+END

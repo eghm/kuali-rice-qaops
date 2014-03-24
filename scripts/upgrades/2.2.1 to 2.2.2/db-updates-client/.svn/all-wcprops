@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.2.1%20to%202.2.2/db-updates-client
+END
+2013-03-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.2.1%20to%202.2.2/db-updates-client/2013-03-18.sql
+END
+mysql-2013-03-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.2.1%20to%202.2.2/db-updates-client/mysql-2013-03-18.sql
+END
+cleanup-2013-03-18.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/43801/trunk/scripts/upgrades/2.2.1%20to%202.2.2/db-updates-client/cleanup-2013-03-18.sql
+END

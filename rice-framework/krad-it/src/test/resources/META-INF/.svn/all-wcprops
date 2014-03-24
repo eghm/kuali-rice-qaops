@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/44656/trunk/rice-framework/krad-it/src/test/resources/META-INF
+END
+krad-test-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/44656/trunk/rice-framework/krad-it/src/test/resources/META-INF/krad-test-persistence.xml
+END
+krad-test-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/META-INF/krad-test-config.xml
+END
+krad-test-orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/44098/trunk/rice-framework/krad-it/src/test/resources/META-INF/krad-test-orm.xml
+END

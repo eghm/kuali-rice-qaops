@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/rice/!svn/ver/44647/trunk/development-tools/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/44647/trunk/development-tools/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.m2e.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/37666/trunk/development-tools/.settings/org.eclipse.m2e.core.prefs
+END
+org.eclipse.jdt.groovy.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42574/trunk/development-tools/.settings/org.eclipse.jdt.groovy.core.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/37666/trunk/development-tools/.settings/org.eclipse.jdt.ui.prefs
+END
+org.eclipse.core.resources.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/37666/trunk/development-tools/.settings/org.eclipse.core.resources.prefs
+END
+org.maven.ide.eclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/37666/trunk/development-tools/.settings/org.maven.ide.eclipse.prefs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/44789/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry
+END
+RoleInquirableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44463/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry/RoleInquirableImpl.java
+END
+PersonInquirableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry/PersonInquirableImpl.java
+END
+PermissionInquirableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44463/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry/PermissionInquirableImpl.java
+END
+RoleMemberInquirableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/rice/!svn/ver/44308/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry/RoleMemberInquirableImpl.java
+END
+GroupInquirableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/44463/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry/GroupInquirableImpl.java
+END
+KimInquirableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/44789/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kim/inquiry/KimInquirableImpl.java
+END

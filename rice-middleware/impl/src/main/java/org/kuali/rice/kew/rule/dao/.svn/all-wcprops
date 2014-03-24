@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/45503/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao
+END
+RuleAttributeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleAttributeDAO.java
+END
+RuleTemplateOptionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleTemplateOptionDAO.java
+END
+RuleDelegationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleDelegationDAO.java
+END
+RuleTemplateDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleTemplateDAO.java
+END
+RuleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleDAO.java
+END
+RuleResponsibilityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleResponsibilityDAO.java
+END
+RuleTemplateAttributeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/43801/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/kew/rule/dao/RuleTemplateAttributeDAO.java
+END

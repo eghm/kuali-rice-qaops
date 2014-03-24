@@ -1,0 +1,1475 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries
+END
+Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml
+END
+Maven__org_apache_cxf_cxf_rt_frontend_simple_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_2_7_0.xml
+END
+Maven__org_eclipse_jetty_jetty_http_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_7_4_5_v20110725.xml
+END
+Maven__org_springframework_ldap_spring_ldap_core_tiger_1_3_1_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_core_tiger_1_3_1_RELEASE.xml
+END
+Maven__org_springframework_spring_test_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_test_3_2_3_RELEASE.xml
+END
+Maven__org_springframework_spring_context_support_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_3_RELEASE.xml
+END
+Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_40_0.xml
+END
+Maven__org_springframework_spring_context_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_context_3_2_3_RELEASE.xml
+END
+Maven__org_apache_neethi_neethi_3_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_neethi_neethi_3_0_2.xml
+END
+Maven__org_apache_velocity_velocity_tools_2_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml
+END
+Maven__org_springframework_batch_spring_batch_core_2_0_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_2_0_3_RELEASE.xml
+END
+Maven__org_springframework_spring_beans_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_beans_3_2_3_RELEASE.xml
+END
+Maven__org_springframework_spring_tx_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_tx_3_2_3_RELEASE.xml
+END
+Maven__net_sf_ehcache_ehcache_core_2_5_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_5_0.xml
+END
+Maven__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml
+END
+Maven__org_subethamail_subethasmtp_3_1_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_subethamail_subethasmtp_3_1_6.xml
+END
+Maven__org_apache_cxf_cxf_rt_databinding_jaxb_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_2_7_0.xml
+END
+Maven__org_webbitserver_webbit_0_4_14.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml
+END
+Maven__javax_servlet_servlet_api_2_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml
+END
+Maven__org_ow2_carol_irmi_irmi_1_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_ow2_carol_irmi_irmi_1_1_2.xml
+END
+Maven__org_seleniumhq_selenium_selenium_support_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_40_0.xml
+END
+Maven__org_springframework_ldap_spring_ldap_all_1_3_1_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_all_1_3_1_RELEASE.xml
+END
+Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_40_0.xml
+END
+Maven__org_reflections_reflections_0_9_9_RC1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/44613/trunk/.idea/libraries/Maven__org_reflections_reflections_0_9_9_RC1.xml
+END
+Maven__org_seleniumhq_selenium_selenium_safari_driver_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_40_0.xml
+END
+Maven__com_sun_tools_1_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_sun_tools_1_6.xml
+END
+Maven__org_mozilla_rhino_1_7R4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml
+END
+Maven__org_apache_httpcomponents_httpmime_4_3_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_1.xml
+END
+Maven__org_springframework_ldap_spring_ldap_ldif_batch_1_3_1_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_ldif_batch_1_3_1_RELEASE.xml
+END
+Maven__xpp3_xpp3_min_1_1_3_4_O.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xpp3_xpp3_min_1_1_3_4_O.xml
+END
+Maven__backport_util_concurrent_backport_util_concurrent_2_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__backport_util_concurrent_backport_util_concurrent_2_2.xml
+END
+Maven__org_apache_cxf_cxf_rt_core_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_core_2_7_0.xml
+END
+Maven__org_eclipse_jetty_jetty_webapp_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_7_4_5_v20110725.xml
+END
+Maven__org_glassfish_javax_json_1_0_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_glassfish_javax_json_1_0_1.xml
+END
+Maven__com_thoughtworks_xstream_xstream_1_2_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_2_2.xml
+END
+Maven__org_springframework_security_spring_security_cas_3_1_0_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_security_spring_security_cas_3_1_0_RELEASE.xml
+END
+Maven__org_apache_directory_server_apacheds_server_main_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_server_main_1_0_2.xml
+END
+Maven__org_glassfish_web_jstl_impl_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_glassfish_web_jstl_impl_1_2.xml
+END
+Maven__org_springframework_spring_core_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_core_3_2_3_RELEASE.xml
+END
+Maven__org_apache_directory_shared_shared_ldap_0_9_5_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_shared_shared_ldap_0_9_5_5.xml
+END
+Maven__org_directwebremoting_dwr_3_0_RC2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_directwebremoting_dwr_3_0_RC2.xml
+END
+Maven__com_googlecode_json_simple_json_simple_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml
+END
+Maven__org_lesscss_lesscss_1_3_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_lesscss_lesscss_1_3_3.xml
+END
+Maven__args4j_args4j_2_0_16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__args4j_args4j_2_0_16.xml
+END
+Maven__org_springframework_spring_orm_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_orm_3_2_3_RELEASE.xml
+END
+Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml
+END
+Maven__org_slf4j_slf4j_api_1_6_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml
+END
+Maven__net_sourceforge_nekohtml_nekohtml_1_9_19.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_19.xml
+END
+Maven__antlr_antlr_2_7_7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__antlr_antlr_2_7_7.xml
+END
+Maven__org_kuali_maven_common_maven_kuali_common_1_2_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_kuali_maven_common_maven_kuali_common_1_2_2.xml
+END
+Maven__org_aspectj_aspectjweaver_1_6_8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml
+END
+Maven__commons_digester_commons_digester_2_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_digester_commons_digester_2_0.xml
+END
+Maven__org_apache_cxf_cxf_rt_ws_security_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_security_2_7_0.xml
+END
+Maven__org_eclipse_jetty_jetty_io_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_7_4_5_v20110725.xml
+END
+Maven__org_slf4j_slf4j_log4j12_1_6_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml
+END
+Maven__org_apache_directory_shared_shared_asn1_codec_0_9_5_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_shared_shared_asn1_codec_0_9_5_5.xml
+END
+Maven__org_apache_cxf_cxf_rt_ws_addr_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_2_7_0.xml
+END
+Maven__org_objenesis_objenesis_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml
+END
+Maven__org_codehaus_btm_btm_2_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_btm_btm_2_1_2.xml
+END
+Maven__rhino_js_1_6R7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__rhino_js_1_6R7.xml
+END
+Maven__org_apache_directory_shared_shared_asn1_0_9_5_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_shared_shared_asn1_0_9_5_5.xml
+END
+Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_13.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_13.xml
+END
+Maven__org_apache_ws_xmlschema_xmlschema_core_2_0_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_0_3.xml
+END
+Maven__org_kuali_common_kuali_jdbc_3_1_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42312/trunk/.idea/libraries/Maven__org_kuali_common_kuali_jdbc_3_1_10.xml
+END
+Maven__org_apache_cxf_cxf_rt_transports_http_jetty_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_jetty_2_7_0.xml
+END
+Maven__commons_fileupload_commons_fileupload_1_3_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/45364/trunk/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml
+END
+Maven__javax_mail_mail_1_4_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_mail_mail_1_4_4.xml
+END
+Maven__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml
+END
+Maven__org_codehaus_woodstox_stax2_api_3_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_1.xml
+END
+Maven__com_lowagie_itext_1_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_lowagie_itext_1_3.xml
+END
+Maven__commons_httpclient_commons_httpclient_3_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml
+END
+Maven__org_ow2_carol_carol_3_0_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_ow2_carol_carol_3_0_6.xml
+END
+Maven__org_slf4j_jcl_over_slf4j_1_6_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_4.xml
+END
+Maven__org_springframework_security_spring_security_ldap_3_1_0_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_security_spring_security_ldap_3_1_0_RELEASE.xml
+END
+Maven__org_apache_directory_server_apacheds_core_shared_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_shared_1_0_2.xml
+END
+Maven__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml
+END
+Maven__xapool_xapool_1_5_0_patch4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xapool_xapool_1_5_0_patch4.xml
+END
+Maven__javax_inject_javax_inject_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_inject_javax_inject_1.xml
+END
+Maven__org_apache_struts_struts_core_1_3_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_10.xml
+END
+Maven__org_kuali_common_kuali_sql_2_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42312/trunk/.idea/libraries/Maven__org_kuali_common_kuali_sql_2_1_2.xml
+END
+Maven__org_acegisecurity_acegi_security_1_0_7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_acegisecurity_acegi_security_1_0_7.xml
+END
+Maven__org_kuali_common_kuali_deploy_3_0_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/44309/trunk/.idea/libraries/Maven__org_kuali_common_kuali_deploy_3_0_6.xml
+END
+Maven__org_kuali_jotm_jotm_core_2_1_10_kuali_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/44309/trunk/.idea/libraries/Maven__org_kuali_jotm_jotm_core_2_1_10_kuali_1.xml
+END
+Maven__xalan_xalan_2_7_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xalan_xalan_2_7_1.xml
+END
+Maven__org_apache_ws_security_wss4j_1_6_7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_ws_security_wss4j_1_6_7.xml
+END
+Maven__org_eclipse_persistence_org_eclipse_persistence_moxy_2_5_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/44309/trunk/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_moxy_2_5_1.xml
+END
+Maven__org_apache_directory_server_apacheds_server_ssl_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_server_ssl_1_0_2.xml
+END
+Maven__org_apache_ant_ant_1_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_ant_ant_1_7_0.xml
+END
+Maven__org_javassist_javassist_3_15_0_GA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml
+END
+Maven__org_apache_directory_server_apacheds_core_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_core_1_0_2.xml
+END
+Maven__org_apache_commons_commons_exec_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml
+END
+Maven__org_kuali_common_kuali_threads_1_0_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/42312/trunk/.idea/libraries/Maven__org_kuali_common_kuali_threads_1_0_10.xml
+END
+Maven__org_apache_commons_commons_lang3_3_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/44789/trunk/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2_1.xml
+END
+Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_40_0.xml
+END
+Maven__junit_junit_4_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__junit_junit_4_11.xml
+END
+Maven__org_opensaml_opensaml_2_5_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_opensaml_opensaml_2_5_1_1.xml
+END
+Maven__org_jasypt_jasypt_spring31_1_9_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/44309/trunk/.idea/libraries/Maven__org_jasypt_jasypt_spring31_1_9_1.xml
+END
+Maven__com_saucelabs_saucerest_1_0_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_saucelabs_saucerest_1_0_0.xml
+END
+Maven__org_objectweb_howl_howl_1_0_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_objectweb_howl_howl_1_0_1_1.xml
+END
+Maven__org_springframework_batch_spring_batch_infrastructure_2_0_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_2_0_3_RELEASE.xml
+END
+Maven__org_kuali_common_kuali_http_1_0_8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42312/trunk/.idea/libraries/Maven__org_kuali_common_kuali_http_1_0_8.xml
+END
+Maven__org_codehaus_plexus_plexus_interpolation_1_15.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_15.xml
+END
+Maven__org_jacorb_jacorb_idl_2_2_3_jonas_patch_20071018.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_jacorb_jacorb_idl_2_2_3_jonas_patch_20071018.xml
+END
+Maven__aopalliance_aopalliance_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml
+END
+Maven__dom4j_dom4j_1_6_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml
+END
+Maven__org_mockito_mockito_core_1_9_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_mockito_mockito_core_1_9_0.xml
+END
+Maven__org_springframework_ldap_spring_ldap_ldif_core_1_3_1_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_ldif_core_1_3_1_RELEASE.xml
+END
+Maven__javax_ws_rs_jsr311_api_1_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml
+END
+Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_5_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_5_1.xml
+END
+Maven__org_kuali_db_ojb_db_ojb_1_0_4_patch8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_kuali_db_ojb_db_ojb_1_0_4_patch8.xml
+END
+Maven__com_yahoo_platform_yui_yuicompressor_2_4_7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_yahoo_platform_yui_yuicompressor_2_4_7.xml
+END
+Maven__org_springframework_security_spring_security_web_3_1_0_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_1_0_RELEASE.xml
+END
+Maven__commons_codec_commons_codec_1_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml
+END
+Maven__org_springframework_security_spring_security_crypto_3_1_0_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_3_1_0_RELEASE.xml
+END
+Maven__commons_chain_commons_chain_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_chain_commons_chain_1_2.xml
+END
+Maven__org_seleniumhq_selenium_selenium_remote_driver_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_40_0.xml
+END
+Maven__org_eclipse_jetty_jetty_xml_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_7_4_5_v20110725.xml
+END
+Maven__org_apache_santuario_xmlsec_1_5_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_santuario_xmlsec_1_5_2.xml
+END
+Maven__commons_lang_commons_lang_2_6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml
+END
+Maven__org_seleniumhq_selenium_selenium_ie_driver_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_40_0.xml
+END
+Maven__org_apache_cxf_cxf_rt_databinding_aegis_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_aegis_2_7_0.xml
+END
+Maven__org_springframework_spring_jdbc_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_3_RELEASE.xml
+END
+Maven__org_apache_cxf_cxf_rt_transports_http_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_2_7_0.xml
+END
+Maven__com_jcraft_jsch_0_1_50.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/rice/!svn/ver/43367/trunk/.idea/libraries/Maven__com_jcraft_jsch_0_1_50.xml
+END
+Maven__org_eclipse_jetty_jetty_websocket_8_1_12_v20130726.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_websocket_8_1_12_v20130726.xml
+END
+Maven__xalan_serializer_2_7_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xalan_serializer_2_7_1.xml
+END
+Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_jpql_2_5_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_jpql_2_5_1.xml
+END
+Maven__org_opensaml_openws_1_4_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_opensaml_openws_1_4_2_1.xml
+END
+Maven__wsdl4j_wsdl4j_1_6_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_2.xml
+END
+Maven__org_eclipse_jetty_jetty_security_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_7_4_5_v20110725.xml
+END
+Maven__cglib_cglib_nodep_2_2_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__cglib_cglib_nodep_2_2_2.xml
+END
+Maven__com_google_code_typica_typica_1_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_google_code_typica_typica_1_3.xml
+END
+Maven__org_apache_directory_daemon_daemon_bootstrappers_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_daemon_daemon_bootstrappers_1_0_2.xml
+END
+Maven__org_springframework_ldap_spring_ldap_test_1_3_1_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_test_1_3_1_RELEASE.xml
+END
+Maven__org_apache_httpcomponents_httpcore_4_2_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_2.xml
+END
+Maven__org_eclipse_jetty_jetty_util_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_7_4_5_v20110725.xml
+END
+Maven__org_quartz_scheduler_quartz_1_8_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_quartz_scheduler_quartz_1_8_4.xml
+END
+Maven__org_springframework_spring_web_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_web_3_2_3_RELEASE.xml
+END
+Maven__org_ow2_carol_carol_interceptors_1_0_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_ow2_carol_carol_interceptors_1_0_1.xml
+END
+Maven__com_google_guava_guava_11_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_google_guava_guava_11_0.xml
+END
+Maven__org_apache_mina_mina_filter_ssl_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_mina_mina_filter_ssl_1_0_2.xml
+END
+Maven__joda_time_joda_time_2_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__joda_time_joda_time_2_0.xml
+END
+Maven__org_apache_cxf_cxf_api_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_api_2_7_0.xml
+END
+Maven__org_jasig_cas_client_cas_client_core_3_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_jasig_cas_client_cas_client_core_3_2_1.xml
+END
+Maven__net_sourceforge_cssparser_cssparser_0_9_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_11.xml
+END
+Maven__javax_validation_validation_api_1_0_0_GA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml
+END
+Maven__org_codehaus_woodstox_woodstox_core_asl_4_1_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_1_4.xml
+END
+Maven__javax_json_javax_json_api_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml
+END
+Maven__cas_casclient_2_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__cas_casclient_2_1_1.xml
+END
+Maven__org_eclipse_persistence_javax_persistence_2_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_persistence_javax_persistence_2_1_0.xml
+END
+Maven__xerces_xercesImpl_2_9_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml
+END
+Maven__com_sun_codemodel_codemodel_2_4_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_sun_codemodel_codemodel_2_4_1.xml
+END
+Maven__io_netty_netty_3_5_2_Final.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml
+END
+Maven__org_eclipse_jetty_jetty_security_8_1_7_v20120910.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_8_1_7_v20120910.xml
+END
+Maven__commons_pool_commons_pool_1_5_7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_pool_commons_pool_1_5_7.xml
+END
+Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml
+END
+Maven__xml_resolver_xml_resolver_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml
+END
+Maven__org_eclipse_jetty_jetty_server_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_7_4_5_v20110725.xml
+END
+Maven__commons_collections_commons_collections_3_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml
+END
+Maven__org_springframework_spring_instrument_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_instrument_3_2_3_RELEASE.xml
+END
+Maven__org_apache_directory_server_apacheds_protocol_kerberos_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_kerberos_1_0_2.xml
+END
+Maven__org_eclipse_jetty_jetty_continuation_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_7_4_5_v20110725.xml
+END
+Maven__org_apache_directory_server_apacheds_protocol_ldap_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_ldap_1_0_2.xml
+END
+Maven__javax_servlet_jsp_jsp_api_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml
+END
+Maven__com_saucelabs_sauce_java_common_1_0_19.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_saucelabs_sauce_java_common_1_0_19.xml
+END
+Maven__avalon_framework_avalon_framework_4_1_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__avalon_framework_avalon_framework_4_1_5.xml
+END
+Maven__javax_ws_rs_javax_ws_rs_api_2_0_m10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_m10.xml
+END
+Maven__org_apache_ant_ant_launcher_1_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_0.xml
+END
+Maven__org_eclipse_persistence_org_eclipse_persistence_antlr_2_5_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_antlr_2_5_1.xml
+END
+Maven__org_springframework_ldap_spring_ldap_core_1_3_1_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_core_1_3_1_RELEASE.xml
+END
+Maven__org_jasypt_jasypt_1_9_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/44309/trunk/.idea/libraries/Maven__org_jasypt_jasypt_1_9_1.xml
+END
+Maven__asm_asm_3_3_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__asm_asm_3_3_1.xml
+END
+Maven__sslext_sslext_1_2_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__sslext_sslext_1_2_0.xml
+END
+Maven__org_apache_directory_server_apacheds_server_jndi_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_server_jndi_1_0_2.xml
+END
+Maven__com_predic8_soa_model_core_1_2_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_predic8_soa_model_core_1_2_2.xml
+END
+Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_5_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_5_1.xml
+END
+Maven__org_apache_velocity_velocity_1_6_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_4.xml
+END
+Maven__javax_transaction_jta_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_transaction_jta_1_1.xml
+END
+Maven__org_springmodules_spring_modules_ojb_0_8a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springmodules_spring_modules_ojb_0_8a.xml
+END
+Maven__commons_transaction_commons_transaction_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_transaction_commons_transaction_1_1.xml
+END
+Maven__org_apache_directory_server_apacheds_protocol_shared_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_shared_1_0_2.xml
+END
+Maven__org_apache_struts_struts_el_1_3_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_struts_struts_el_1_3_10.xml
+END
+Maven__displaytag_displaytag_1_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__displaytag_displaytag_1_2.xml
+END
+Maven__org_apache_struts_struts_taglib_1_3_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_10.xml
+END
+Maven__com_google_code_findbugs_jsr305_1_3_9.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml
+END
+Maven__log4j_log4j_1_2_16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__log4j_log4j_1_2_16.xml
+END
+Maven__org_apache_mina_mina_core_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_mina_mina_core_1_0_2.xml
+END
+Maven__commons_dbcp_commons_dbcp_1_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml
+END
+Maven__com_google_javascript_closure_compiler_v20130603.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_google_javascript_closure_compiler_v20130603.xml
+END
+Maven__commons_daemon_commons_daemon_1_0_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_1.xml
+END
+Maven__org_apache_directory_server_apacheds_kerberos_shared_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_shared_1_0_2.xml
+END
+Maven__org_springframework_spring_aop_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_aop_3_2_3_RELEASE.xml
+END
+Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_2_5_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_jpa_2_5_1.xml
+END
+Maven__org_apache_cxf_cxf_rt_frontend_jaxws_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_2_7_0.xml
+END
+Maven__com_google_protobuf_protobuf_java_2_4_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_4_1.xml
+END
+Maven__org_codehaus_jettison_jettison_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_0.xml
+END
+Maven__org_apache_geronimo_specs_geronimo_servlet_3_0_spec_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_servlet_3_0_spec_1_0.xml
+END
+Maven__org_eclipse_jetty_jetty_servlet_7_4_5_v20110725.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_7_4_5_v20110725.xml
+END
+Maven__org_springframework_spring_webmvc_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_3_RELEASE.xml
+END
+Maven__oro_oro_2_0_8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__oro_oro_2_0_8.xml
+END
+Maven__org_apache_directory_server_apacheds_protocol_changepw_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_changepw_1_0_2.xml
+END
+Maven__org_hsqldb_hsqldb_2_2_9.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_hsqldb_hsqldb_2_2_9.xml
+END
+Maven__org_apache_cxf_cxf_rt_bindings_xml_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_2_7_0.xml
+END
+Maven__org_springframework_security_spring_security_core_3_1_0_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_1_0_RELEASE.xml
+END
+Maven__logkit_logkit_1_0_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/44309/trunk/.idea/libraries/Maven__logkit_logkit_1_0_1.xml
+END
+Maven__xmlunit_xmlunit_1_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__xmlunit_xmlunit_1_3.xml
+END
+Maven__net_sourceforge_htmlunit_htmlunit_2_13.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42967/trunk/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_13.xml
+END
+Maven__commons_io_commons_io_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_io_commons_io_2_1.xml
+END
+Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml
+END
+Maven__com_google_code_javaparser_javaparser_1_0_9.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/42546/trunk/.idea/libraries/Maven__com_google_code_javaparser_javaparser_1_0_9.xml
+END
+Maven__org_json_json_20090211.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_json_json_20090211.xml
+END
+Maven__org_seleniumhq_selenium_selenium_java_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_40_0.xml
+END
+Maven__org_apache_struts_struts_extras_1_3_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_struts_struts_extras_1_3_10.xml
+END
+Maven__net_java_dev_jna_jna_3_4_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__net_java_dev_jna_jna_3_4_0.xml
+END
+Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_2_7_0.xml
+END
+Maven__no_geosoft_filemonitor_1_0_kuali.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__no_geosoft_filemonitor_1_0_kuali.xml
+END
+Maven__org_codehaus_groovy_groovy_all_1_8_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_1_8_5.xml
+END
+Maven__com_saucelabs_sauce_junit_1_0_19.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__com_saucelabs_sauce_junit_1_0_19.xml
+END
+Maven__commons_validator_commons_validator_1_3_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml
+END
+Maven__org_freemarker_freemarker_2_3_20_patch2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20_patch2.xml
+END
+Maven__org_w3c_css_sac_1_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml
+END
+Maven__org_opensaml_xmltooling_1_3_2_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_opensaml_xmltooling_1_3_2_1.xml
+END
+Maven__org_kuali_common_kuali_util_4_4_9.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/44545/trunk/.idea/libraries/Maven__org_kuali_common_kuali_util_4_4_9.xml
+END
+Maven__net_java_dev_jna_platform_3_4_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__net_java_dev_jna_platform_3_4_0.xml
+END
+Maven__org_bouncycastle_bcprov_jdk16_1_46.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk16_1_46.xml
+END
+Maven__org_jacorb_jacorb_2_2_3_jonas_patch_20071018.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_jacorb_jacorb_2_2_3_jonas_patch_20071018.xml
+END
+Maven__jdbm_jdbm_1_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__jdbm_jdbm_1_0.xml
+END
+Maven__org_jdom_jdom_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_jdom_jdom_1_1.xml
+END
+Maven__org_kuali_commons_commons_beanutils_1_8_3_kuali_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_kuali_commons_commons_beanutils_1_8_3_kuali_4.xml
+END
+Maven__org_kuali_common_kuali_mvn_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_kuali_common_kuali_mvn_1_0_2.xml
+END
+Maven__commons_chain_commons_chain_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml
+END
+Maven__org_apache_cxf_cxf_rt_ws_policy_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_2_7_0.xml
+END
+Maven__org_aspectj_aspectjrt_1_6_8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_8.xml
+END
+Maven__org_apache_directory_server_apacheds_protocol_ntp_1_0_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_directory_server_apacheds_protocol_ntp_1_0_2.xml
+END
+Maven__org_hamcrest_hamcrest_core_1_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+END
+Maven__org_springframework_spring_expression_3_2_3_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_expression_3_2_3_RELEASE.xml
+END
+Maven__org_springframework_spring_expression_3_0_6_RELEASE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_springframework_spring_expression_3_0_6_RELEASE.xml
+END
+Maven__mysql_mysql_connector_java_5_1_24.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_24.xml
+END
+Maven__org_seleniumhq_selenium_selenium_api_2_40_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/rice/!svn/ver/45511/trunk/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_40_0.xml
+END
+Maven__joda_time_joda_time_jsptags_1_1_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__joda_time_joda_time_jsptags_1_1_1.xml
+END
+Maven__org_apache_httpcomponents_httpclient_4_2_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_3.xml
+END
+Maven__org_apache_cxf_cxf_rt_bindings_soap_2_7_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_2_7_0.xml
+END
+Maven__org_codehaus_plexus_plexus_utils_3_0_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_10.xml
+END
+Maven__javax_resource_connector_api_1_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__javax_resource_connector_api_1_5.xml
+END
+Maven__org_json_json_20080701.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/rice/!svn/ver/42082/trunk/.idea/libraries/Maven__org_json_json_20080701.xml
+END
