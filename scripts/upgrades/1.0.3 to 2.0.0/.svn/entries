@@ -1,86 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/scripts/upgrades/1.0.3%20to%202.0.0
-https://svn.kuali.org/repos/rice
-
-
-
-2014-01-14T22:00:53.375141Z
-44098
-eghm-kuali-m
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-db-updates-client
-dir
-
-scripts
-dir
-
-db-updates
-dir
-
-final
-dir
-
-kfs-db-updates
-dir
-
-xml-ingest-updates
-dir
-
-demo-data
-dir
-
-KRADConversion.groovy
-file
-
-
-
-
-2014-01-09T01:34:12.000000Z
-5367346fe538dcd1942e4866c4371587
-2014-01-01T06:07:05.553233Z
-43801
-jcaddel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-41155
-
-support
-dir
-

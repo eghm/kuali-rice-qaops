@@ -1,107 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-middleware/kns/src/main/java/org/kuali/rice/kns
-https://svn.kuali.org/repos/rice
-
-
-
-2014-03-14T18:27:49.836861Z
-45359
-mztaylor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-kim
-dir
-
-maintenance
-dir
-
-rules
-dir
-
-exception
-dir
-
-datadictionary
-dir
-
-service
-dir
-
-inquiry
-dir
-
-bo
-dir
-
-authorization
-dir
-
-package-info.java
-file
-
-
-
-
-2014-01-09T01:34:35.000000Z
-0ab4ec47456e0add1173ea5c1921e461
-2014-01-01T06:07:05.553233Z
-43801
-jcaddel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-677
-
-rule
-dir
-
-question
-dir
-
-lookup
-dir
-
-web
-dir
-
-util
-dir
-
-document
-dir
-

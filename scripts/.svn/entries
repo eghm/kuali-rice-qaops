@@ -1,126 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/scripts
-https://svn.kuali.org/repos/rice
-
-
-
-2014-03-14T01:09:01.776634Z
-45346
-matthew.wuertz
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-schema
-dir
-
-.classpath
-file
-
-
-
-
-2014-01-09T01:34:13.000000Z
-c6237c63666af6865255771e146e51e0
-2013-12-05T20:42:58.043370Z
-43244
-jkeller
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-303
-
-jpaconverter
-dir
-
-ddl
-dir
-
-krad-conversion
-dir
-
-.project
-file
-
-
-
-
-2014-01-09T01:34:13.000000Z
-2267a3cf6ec3785062fba17148491ce2
-2013-10-23T17:40:20.359494Z
-42397
-jkeller
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-494
-
-dataset
-dir
-
-lib
-dir
-
-maven-ant-tasks
-dir
-
-bean-rename
-dir
-
-upgrades
-dir
-
-.settings
-dir
-

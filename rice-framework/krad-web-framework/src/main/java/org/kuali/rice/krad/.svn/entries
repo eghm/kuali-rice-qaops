@@ -1,76 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad
-https://svn.kuali.org/repos/rice
-
-
-
-2014-03-21T17:43:35.550465Z
-45535
-cpedersen
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-maintenance
-dir
-
-uif
-dir
-
-rules
-dir
-
-exception
-dir
-
-datadictionary
-dir
-
-service
-dir
-
-inquiry
-dir
-
-bo
-dir
-
-config
-dir
-
-messages
-dir
-
-keyvalues
-dir
-
-lookup
-dir
-
-workflow
-dir
-
-web
-dir
-
-util
-dir
-
-document
-dir
-

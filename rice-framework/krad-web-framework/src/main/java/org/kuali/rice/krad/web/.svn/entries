@@ -1,46 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-framework/krad-web-framework/src/main/java/org/kuali/rice/krad/web
-https://svn.kuali.org/repos/rice
-
-
-
-2014-03-10T19:41:45.820667Z
-45258
-kbtaylor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-controller
-dir
-
-form
-dir
-
-filter
-dir
-
-listener
-dir
-
-login
-dir
-
-bind
-dir
-

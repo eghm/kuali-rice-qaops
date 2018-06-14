@@ -1,80 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/lookup
-https://svn.kuali.org/repos/rice
-
-
-
-2014-03-10T15:58:27.382740Z
-45249
-kbtaylor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-conditionalresults
-dir
-
-search
-dir
-
-conditionalcriteria
-dir
-
-multivalue
-dir
-
-DemoLookUpAft.java
-file
-
-
-
-
-2014-02-17T12:30:24.000000Z
-39b04f6c804b41c2c7747206e5cc6a11
-2014-02-17T05:23:14.926886Z
-44751
-dmoteria
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3510
-
-view
-dir
-
-resultlimit
-dir
-

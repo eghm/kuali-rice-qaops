@@ -1,40 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-middleware/kim/kim-ldap/src/main/java/org/kuali/rice/kim
-https://svn.kuali.org/repos/rice
-
-
-
-2014-01-29T20:46:06.929198Z
-44424
-jkeller
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-ldap
-dir
-
-service
-dir
-
-dao
-dir
-
-util
-dir
-

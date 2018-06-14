@@ -1,95 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-framework/krad-sampleapp/web/src/it/java/org/kuali/rice/krad/demo/uif/library
-https://svn.kuali.org/repos/rice
-
-
-
-2014-03-21T05:43:31.953582Z
-45524
-jcaddel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-navigation
-dir
-
-controls
-dir
-
-DemoLibraryBase.java
-file
-
-
-
-
-2014-02-13T12:30:23.000000Z
-c8feda6be655f4f4bb8ef8886669fa66
-2014-02-13T06:10:52.792523Z
-44691
-eghm-kuali-m
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3422
-
-clientresponsiveness
-dir
-
-containers
-dir
-
-fields
-dir
-
-widgets
-dir
-
-validation
-dir
-
-layoutmanagers
-dir
-
-elements
-dir
-
-general
-dir
-
-collections
-dir
-

@@ -1,67 +1,0 @@
-10
-
-dir
-45548
-https://svn.kuali.org/repos/rice/trunk/rice-middleware/impl/src/main/java/org/kuali/rice/ken
-https://svn.kuali.org/repos/rice
-
-
-
-2014-02-10T18:11:51.701728Z
-44627
-kbtaylor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7a7aa7f6-c479-11dc-97e2-85a2497f191d
-
-bo
-dir
-
-service
-dir
-
-deliverer
-dir
-
-impl
-dir
-
-dao
-dir
-
-postprocessor
-dir
-
-kew
-dir
-
-core
-dir
-
-util
-dir
-
-web
-dir
-
-client
-dir
-
-document
-dir
-
-exception
-dir
-
